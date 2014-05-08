@@ -1,0 +1,74 @@
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  dct: "http://purl.org/dc/terms/"
+  dct: "http://purl.org/dc/elements/1.1/"
+  bibo: "http://purl.org/ontology/bibo/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  geo: "http://www.w3.org/2003/01/geo/wgs84_pos#"
+  frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
+  mads: "http://www.loc.gov/mads/rdf/v1#"
+  marcrel: "http://id.loc.gov/vocabulary/relators/"
+  modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
+  premis: "http://www.loc.gov/premis/rdf/v1#"
+  oregon: "http://tom.oregonstate.edu/"
+  vra: “http://purl.org/vra/”
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"
+  schema: "http://schema.org/"
+  iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
+  daia: "http://uri.gbv.de/ontology/daia/"
+  exif: "http://www.w3.org/2003/12/exif/ns"
+  geosp: "http://rdf.geospecies.org/ont/geospecies#"
+
+  #
+  # wwdl
+  #
+identi: dct:identifier
+title: dct:title
+book: dct:isPartOf
+titla: dct:alternative
+descri: dct:description
+pagina: schema:numberOfPages
+citati: schema:citation
+subjec: dct:subject
+lc: dct:subject
+people: dct:subject
+corpor: dct:subject  #this field is a mix of subject terms and contributors
+place: dct:subject
+genre: rdag1:formOfWork
+author: mrel:aut
+photog: mrel:pht
+cartog: mrel:ctg
+illust: mrel:ill
+creato: dct:contributor
+previo: dct:publisher
+date: dct:issued
+covera: vra:stylePeriod
+publis: dct:publisher
+datedi: oregon:dateDigitized
+rights: method: rights
+reposi: dct:isPartOf
+relati: dct:source
+collec: daia:label # collection_identifier from SCUA
+additi: dct:hasVersion # additional_physical_formats
+addita: dct:hasVersion # additional_digital_formats, do we need this?
+langua: method: iso_language
+type: mime:type
+format: dct:format
+captur: oregon:conversionSpecifications
+file: rdag1:fileSize
+image: exif:width
+imaga: exif:height
+color: exif:colorSpace
+resolu: exif:resolution
+digita: dct:description # details of image processing, do we need this?
+metada: # SKIP
+imagb: # SKIP
+imagc: # SKIP
+full: oregon:full
+link: rdarel:relatedWork
+contra: oregon:contributingInstitution
+catalo: # SKIP
+load: # SKIP
+digitb: oregon:isPartOf/set
