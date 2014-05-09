@@ -30,160 +30,32 @@
       "publisher": "Opaque Namespace",
       "title": "VOCAB_PLACEHOLDER"
     },
+#term template start
     {
-      "@id": "http://opaquenamespace.org/ns/set",
-      "@type": "Property",
-      "subPropertyOf": "isPartOf",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2013-12-16",
-        "@type": "date"
-      },
-      "label": "set",
-      "comment": "Defines a relationship between an object and a group or collection of objects to which it belongs.",
-      "modified": {
-        "@value": "2013-12-16",
-        "@type": "date"
-      },
-      "range": {
-        "@id": "http://www.w3.org/2002/07/owl#Thing"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/contributingInstitution",
+      "@id": "http://opaquenamespace.org/ns/xxx",
       "@type": "Property",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
+      "subPropertyOf": "xxxx",
       "issued": {
-        "@value": "2014-02-20",
+        "@value": "YYYY-MM-DD",
         "@type": "date"
       },
-      "label": "Contributing Institution",
-      "comment": "A reference to the institutions or administrative units that contributed to the creation, management, description, and/or dissemination of the digital resource.  For example, one institution may physically hold the original resource, another may perform the digital imaging, and another may create metadata.",
+      "label": "XXXX",
+      "comment": "BLAH, BLAH, BLAH.",
       "modified": {
-        "@value": "2014-02-20",
+        "@value": "YYYY-MM-DD",
         "@type": "date"
       },
       "domain": {
-        "@id": "http://www.w3.org/2002/07/owl#Thing"
+        "@id": "xxxx"
       },
       "range": {
-        "@id": "Organization"
+        "@id": "xxxx"
       }
     },
-    {
-      "@id": "http://opaquenamespace.org/ns/hasCover",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-28",
-        "@type": "date"
-      },
-      "subPropertyOf": "hasPart",
-      "label": "Has Cover",
-      "comment": "Specifies a cover physically attached to the resource.",
-      "modified": {
-        "@value": "2014-02-28",
-        "@type": "date"
-      },
-      "range": {
-        "@id": "http://opaquenamespace.org/ns/Cover"
-      }
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/Cover",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-28",
-        "@type": "date"
-      },
-      "label": "Cover",
-      "comment": "An external cover, as on a book, document, or case.",
-      "modified": {
-        "@value": "2014-02-28",
-        "@type": "date"
-      },
-    },
-    {
-      "@id": "http://opaquenamespace.org/ns/ethnot",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      	},
-      "subPropertyOf": "subject",
-      "issued": {
-        "@value": "2014-05-08",
-	"@type": "date"
-      },
-      "label": "Ethnographic Topic",
-      "comment": "An ethnographic topic.",
-      "modified": {
-        "@value": "2014-05-08",
-	"@type": 'date"
-      },
-       "range": {
-        "@id": "Concept"
-      },
-    },
-     {
-      "@id": "http://opaquenamespace.org/ns/cco/viewDescription",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-      "label": "View Description",
-      "comment": "Describes the spatial, chronological or contextual aspect of teh work as captures in the image view.",
-      "modified": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-    },
-        {
-      "@id": "http://opaquenamespace.org/ns/conversionSpecifications",
-      "@type": "Property",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-      "label": "Conversion Specifications",
-      "comment": "Describes the process, equipment and specifications used to convert the resource into its present format.",
-      "modified": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-    },
-        {
-      "@id": "http://opaquenamespace.org/ns/exhibit",
-      "@type": "Property",
-      "subPropertyOf": "set",
-      "definedBy": {
-        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-      },
-      "issued": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
-      "label": "Exhibit",
-      "comment": "Curated set or grouping created for a special display or exhibit not related to a formal collection.",
-      "modified": {
-        "@value": "2014-02-25",
-        "@type": "date"
-      },
+# term template end
     }
   ]
 }
