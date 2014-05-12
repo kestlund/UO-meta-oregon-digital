@@ -14,11 +14,12 @@
     "domain": "http://www.w3.org/2000/01/rdf-schema#domain",
     "date": "http://www.w3.org/2001/XMLSchema#date",
     "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-    "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Class",
+    "Class": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Class",
     "subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
     "Organization": "http://xmlns.com/foaf/0.1/Organization",
     "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
-    "@language": "en"
+    "@language": "en",
+	"Organization": "http://schema.org/Organization"
   },
   "@graph": [
     {
@@ -56,6 +57,30 @@
       }
     },
 # term template end
+
+    {
+      "@id": "http://opaquenamespace.org/ns/IntentionalCommunities",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "subPropertyOf": "Organization",
+      "issued": {
+        "@value": "2014-05-12",
+        "@type": "date"
+      },
+      "label": "Intentional Communities",
+      "comment": "Intentional communities are planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
+      "modified": {
+        "@value": "2014-05-12",
+        "@type": "date"
+      }
+    },
+	
+	
+	
+	
+	
     }
   ]
 }
