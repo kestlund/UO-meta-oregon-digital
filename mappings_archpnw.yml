@@ -37,7 +37,7 @@ county: method: geographic
 state: method: geographic
 countr: method: geographic
 site: madsrdf:streetAddress
-photog: # photo or slide date
+photog: oregon:cco/viewDate
 photoa: marcrel: pht
 catalo: SKIP
 object: vra:workType
