@@ -22690,6 +22690,587 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/BishopEdwinH",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Bishop, Edwin H.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BowlbyHenryL",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Bowlby, Henry L.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HowardRandallR",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Howard, Randall R.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JonesWA",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Jones, W. A.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LorraineMadisonJohnson",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Lorraine, Madison Johnson",
+	"date": "1853-",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RathomJohnR",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Rathom, John R.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RogersWA",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Rogers, W. A.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RosenthalAA",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Rosenthal, A. A.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ShankHH",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Shank, H. H.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WakefieldGreg",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Wakefield, Greg",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WarrenGeorgeC",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Warren, George C.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WinslowFlorenceE",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Winslow, Florence E.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TaborRM",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Tabor, R. M.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ZaleskiSarahCatherine",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Zaleski, Sarah Catherine",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AmericanContractor",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "American Contractor",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AmericanForestry",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "American Forestry",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GibsonRobert",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Gibson, Robert",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/KinneyMJ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Kinney, M. J.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PacificLumberman",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Pacific Lumberman",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BaileyGatzertSteamship",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Bailey Gatzert (Steamship)",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChanticleerInnPortlandOr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Chanticleer Inn (Portland, Or.)",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CharlesRSpencerSteamship",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Charles R. Spencer (Steamship)",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ColumbiaRiverHighwayOregon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Columbia River Highway, Oregon",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ColumbiaRiverSmeltCompany",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Columbia River Smelt Company",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DallesPortlandandAstoriaNavigationCompany",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Dalles, Portland, and Astoria Navigation Company",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HassaloSteamship",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Hassalo (Steamship)",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HattieBelleSternwheeler",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Hattie Belle (Sternwheeler)",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JNTealSteamship",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "J. N. Teal (Steamship)",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/OWWatsonCompany",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "O. W. Watson Company",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SelkirkSteamship",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Selkirk (Steamship)",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/VistaHouseOregon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Vista House, Oregon",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WaddellHarrington",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Waddell & Harrington",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+	
+	{
+	"@id": "http://opaquenamespace.org/ns/McIndoeJF",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "McIndoe, J. F.",
+	"comment": "Major, Army Core of Engineers",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TroupJW",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	},
+	"label": "Troup, J. W.",
+	"comment": "Captain of a Colombia River steamship",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
 
 
 
