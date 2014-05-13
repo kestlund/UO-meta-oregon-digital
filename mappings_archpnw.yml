@@ -37,7 +37,7 @@ county: method: geographic
 state: method: geographic
 countr: method: geographic
 site: dct:coverage # may need a custom field or to cleanup and map out
-photog: method: original_format_date # what is the method?
+photog: oregon: cco/viewDate
 photoa: marcrel: pht
 catalo: SKIP
 object: vra:workType
