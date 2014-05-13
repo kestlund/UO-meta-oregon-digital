@@ -21019,6 +21019,282 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/AzamM",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Azam, M.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BarkworthThomas",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Barkworth, Thomas.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BarrettWF",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Barrett, W.F.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BorutP",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Borut, P.",
+	"additionalName": "Borut, Prosper F.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BourruH",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Bourru, H.",
+	"additionalName": "Bourru, Henri",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BrowneJC",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Browne, J.C.",
+	"additionalName": "Browne, J. Crichton",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BurnettSGrover",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Burnett, S. Grover.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CoulsonTS",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Coulson, T.S.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DufayM",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Dufay, M.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GaverEE",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Gaver, E. E.",
+	"additionalName": "Graver, Earl E.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MayerEdwardE",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Mayer, Edward E.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MyersAT",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Myers, A. T.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PriceGE",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Price, G. E.",
+	"additionalName": "Price, George E.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SturgisMG",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Sturgis, M.G.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TrowbridgeGR",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Trowbridge, G.R.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TuckerJamesI",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-12",
+	"@type": "date"
+	},
+	"label": "Tucker, James I.",
+	"modified": {
+	"@value": "2014-05-13",
+	"@type": "date"
+	}
+	},
 
 
     }
