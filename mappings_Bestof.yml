@@ -39,7 +39,7 @@ covera: dct:subject
 sub: dct:subject
 temp: dct:subject
 creato: dct:creator
-data: dct:date
+data: oregon:cco/viewDate
 rights: method:rights
 reposi: dct:IsPartOf
 relati: dct:IsPartOf
