@@ -24,13 +24,13 @@
   #
   # archpnw
   #
-title: dcterms:title
+title: dct:title
 view: oregon:cco/viewDescription
 varian: dct:alternative
 relate: dct:isPartOf
 creato: oregon:cco/creatorDisplay
 creata: dct:creator
-date: method:date
+date: dct:date
 covra: dct:temporal
 city: method: geographic
 county: method: geographic
