@@ -46,7 +46,7 @@ relati: dct:IsPartOf
 collec: dct:IsPartOf
 collea: oad:has_findingAid
 sourca: dct:source
-source: dcterm:source
+source: dct:source
 sourcb: schema:itemCondition
 type: mime:type
 image: dct:extent
