@@ -55,7 +55,7 @@ imagd: exif:width
 imagc: exif:height
 color: exif:colorSpace
 date: oregon:dateDigitized
-captur: oregon:conversionSpecification
+captur: oregon:conversionSpecifications
 resolu: exif:resolution
 ditigi: method:processing_history  (combine with captur)
 additi: dct:HasVersion
