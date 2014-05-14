@@ -31,7 +31,7 @@ subjec: dct:subject
 corpor: dct:subject
 creato: dct:creator
 publis: dct:publisher
-date: dc:date
+date: dct:date
 type: mime:type
 format: dct:format
 identi: dct:identifier
