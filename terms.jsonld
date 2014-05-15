@@ -19,7 +19,9 @@
     "Organization": "http://xmlns.com/foaf/0.1/Organization",
     "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
     "@language": "en",
-	"Organization": "http://schema.org/Organization"
+	"Monument": "http://www.ontotext.com/proton/protonext#Monument",
+	"Facility": "http://www.ontotext.com/proton/protonext#Facility"
+	
   },
   "@graph": [
     {
@@ -59,27 +61,54 @@
 # term template end
 
     {
-      "@id": "http://opaquenamespace.org/ns/IntentionalCommunities",
+      "@id": "http://opaquenamespace.org/ns/intentionalCommunities",
       "@type": "Property",
       "definedBy": {
         "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
       },
-      "subPropertyOf": "Organization",
       "issued": {
         "@value": "2014-05-12",
         "@type": "date"
       },
       "label": "Intentional Communities",
-      "comment": "Intentional communities are planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
+      "comment": "Planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
       "modified": {
-        "@value": "2014-05-12",
-        "@type": "date"
+        "@value": "2014-05-13",
+        "@type": "date",
+		}
+		"domain": {
+		"@id": "Agent"
+		}
+		"range": {
+		"@id": "Organization"
+		}
       }
     },
+
 	
-	
-	
-	
+	    {
+      "@id": "http://opaquenamespace.org/ns/trevittMonumentMemalooseIsland",
+      "@type": "Property",
+      "definedBy": {
+        "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+      },
+      "issued": {
+        "@value": "2014-05-13",
+        "@type": "date"
+      },
+      "label": "Trevitt Monument (Memaloose Island)",
+      "comment": "Obelisk and base on Memaloose Island in the Columbia River east of Hood River that marks the grave of a local pioneer named Victor Trevitt.",
+      "modified": {
+        "@value": "2014-05-13",
+        "@type": "date"
+      },
+      "domain": {
+        "@id": "Facility"
+      },
+      "range": {
+        "@id": "Monument"
+      }
+    },
 	
     }
   ]
