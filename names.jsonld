@@ -23271,6 +23271,3080 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/ChaseAshley",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Chase, Ashley",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2008-2009",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CrumpJake",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Crump, Jake",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2013",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GrasgreenAllie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Grasgreen, Allie",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2009-2010",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HarrisTyree",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Harris, Tyree",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2011-2012",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HowellParker",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Howell, Parker",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2005-2006",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/KnutsonRyan",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Knutson, Ryan",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2006-2007",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PowersLaura",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Powers, Laura",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2007-2008",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RossbackAndy",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Rossback, Andy",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2012-2013",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SimonNora",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Simon, Nora",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2010-2011",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StitesSam",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stites, Sam",
+	"comment": "Editor in Chief of the Oregon Daily Emerald.",
+	"date": "active 2013-2014",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AdamsMrsBirdPotter",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Adams, Mrs. Bird Potter",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AllenCharlesWesley",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Allen, Charles Wesley",
+	"comment": "Blacksmith, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AmbergyJethro",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ambergy, Jethro",
+	"comment": "Dulcimer maker, Hindman, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Andersonfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Anderson family",
+	"comment": "Family from Berea, Kentucky. Members include Sarah Owen and Ned Anderson",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AndersonJohn",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Anderson, John",
+	"comment": "Farmer",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AndersonMary",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Anderson, Mary",
+	"comment": "Weaver and spinner, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AndersonMs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Anderson, Ms.",
+	"comment": "Bug Hill, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AndersonNed",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Anderson, Ned",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AndersonSarahOwen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Anderson, Sarah Owen",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BairdWilliamJesse",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Baird, William Jesse",
+	"comment": "Dean of Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BakerDrAllison",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Baker, Dr. Allison",
+	"comment": "Berea College graduate, class of 1898",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BartonNick",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Barton, Nick",
+	"comment": "Berea, Kentucky. Civil War veteran",
+	"date": "-1928",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BenfieldMartin",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Benfield, Martin",
+	"comment": "Owner of Brooks Penlan Mill, Hayesville, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BishopEvelyn",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Bishop, Evelyn",
+	"comment": "Norris, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BlaineReverendCoreyR",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Blaine, Reverend Corey R.",
+	"comment": "Preacher",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BlondinMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Blondin, Mrs.",
+	"comment": "Spread maker, Dalton, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BlondingEllen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Blonding, Ellen",
+	"comment": "Lexington, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BlondingMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Blonding, Mrs.",
+	"comment": "Lexington, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BlondingSarah",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Blonding, Sarah",
+	"comment": "Dean of Women, University of Kentucky, Lexington, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BrightMary",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Bright, Mary",
+	"comment": "Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BurkhardtFred",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Burkhardt, Fred",
+	"comment": "Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Burnettfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Burnett family",
+	"comment": "Family group including Ms. Ray Burnett, her mother and daughter. Quilters, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BurnettMrsRay",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Burnett, Mrs. Ray",
+	"comment": "Quilter, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CampbellAlineDane",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Campbell, Aline Dane",
+	"comment": "Carver, Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChaferMaryAlice",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Chafer, Mary Alice",
+	"comment": "Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChaseJane",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Chase, Jane",
+	"comment": "Spinner and weaver, Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ClarkSamuel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Clark, Samuel",
+	"comment": "Loom maker, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CokerCora",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Coker, Cora",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CombsMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Combs, Mrs.",
+	"comment": "Puncheon Camp Creek, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CombsS",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Combs, S.",
+	"comment": "Blacksmith, Puncheon Camp Creek, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ConnellyDellaStallcup",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Connelly, Della Stallcup",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ConnellySarah",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Connelly, Sarah",
+	"comment": "Spinner and weaver, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ConnerlsonWebb",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Connerlson, Webb",
+	"comment": "Potter, Bybee, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ConnerlsonWalter",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Connerlson, Walter",
+	"comment": "Potter, Bybee, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CowleyDrRobert",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Cowley, Dr. Robert",
+	"comment": "Berea Hospital, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CrumlegeMs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Crumlege, Ms.",
+	"comment": "Artist",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DavisEd",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Davis, Ed",
+	"comment": "woodwork instructor, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DavisIsaac",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Davis, Isaac",
+	"comment": "Broom maker, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DavisMrsEd",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Davis, Mrs. Ed",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DeschampsCarol",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Deschamps, Carol",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DeschampsClotilde",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Deschamps, Clotilde",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DingmanHelen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Dingman, Helen",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DoughertyMs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Dougherty, Ms.",
+	"comment": "Russellville, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DouglassAliceKate",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Douglass, Alice Kate",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DouglassClementine",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Douglass, Clementine",
+	"comment": "Spinner, Asheville, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DuffieldMs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Duffield, Ms.",
+	"comment": "Spinner and Weaver, Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DurhamJohnWillie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Durham, John Willie",
+	"comment": "Furniture maker, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DysortFlora",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Dysort, Flora",
+	"comment": "Basket maker, White, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DysortLena",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Dysort, Lena",
+	"comment": "Basket maker, White, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/EngleLyzette",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Engle, Lyzette",
+	"comment": "Musician, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/EntersAnnya",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Enters, Annya",
+	"comment": "Dancer, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ErnbergAnna",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ernberg, Anna",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/FaulknerBarbara",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Faulkner, Barbara",
+	"comment": "Pine Mountain, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/FlynnDonaldLuther",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Flynn, Donald Luther",
+	"comment": "Pittman Center, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/FrostMs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Frost, Ms.",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GoodrichBernice",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Goodrich, Bernice",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GoodrichMiss",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Goodrich, Miss",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HallMabel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hall, Mabel",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Hatcher",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hatcher",
+	"comment": "Owner of a cabin in Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HatcherSarahAlice",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hatcher, Sarah Alice",
+	"comment": "Quilter, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HaysWilmuthFrances",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hays, Wilmuth Frances",
+	"comment": "Weaver, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HendersonFrank",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Henderson, Frank",
+	"comment": "Photographed by Doris Ulmann",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HendersonMr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Henderson, Mr.",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HendersonMsFrank",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Henderson, Ms. Frank",
+	"comment": "Photographed by Doris Ulmann",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Hippsfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hipps family",
+	"comment": "Family with a farm in Asheville, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HippsAda",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hipps, Ada",
+	"comment": "Member of a farming family in Asheville, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HippsArthur",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hipps, Arthur",
+	"comment": "Member of a farming family in Asheville, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HippsJamesM",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hipps, James M.",
+	"comment": "Ex-Confederate soldier, farmer and singer, Asheville, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HippsMrsJamesM",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hipps, Mrs. James M.",
+	"comment": "Sock knitter, Asheville, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HoffmanMike",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hoffman, Mike",
+	"comment": "Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HomeMary",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Home, Mary",
+	"comment": "Composer and musician, Washington, D. C.",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Howardfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Howard family",
+	"comment": "Family from Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HowardNora",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Howard, Nora",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HowardVirginia",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Howard, Virginia",
+	"comment": "Member of the Howard family, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HuntingtonSethRomen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Huntington, Seth Romen",
+	"comment": "Pastor of Union Church, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HutchinsMrsWilliamJ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hutchins, Mrs. William J.",
+	"comment": "Wife of Berea College president, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HutchinsMsRG",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Hutchins, Ms. R.G.",
+	"comment": "Violin teacher, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/IngramPeter",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ingram, Peter",
+	"comment": "Furniture maker, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JohnsMr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Johns, Mr.",
+	"comment": "Carpenter, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JohnsonErmodel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Johnson, Ermodel",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JohnsonLillie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Johnson, Lillie",
+	"comment": "Student, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JonesMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Jones, Mrs.",
+	"comment": "Candy Kitchen, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JusticeDelia",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Justice, Delia",
+	"comment": "Weaver and spinner, Gainesville, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/KemidAshford",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Kemid, Ashford",
+	"comment": "African-American janitor, Union Church, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Kreiger",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Kreiger",
+	"comment": "Girl from Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LakesEdward",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Lakes, Edward",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LakesLucy",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Lakes, Lucy",
+	"comment": "Furniture maker, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LedfordBesa",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ledford, Besa",
+	"comment": "Artist, known also as Besi",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LedfordTess",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ledford, Tess",
+	"comment": "Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LeomanGeorge",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Leoman, George",
+	"comment": "Farmer, Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LewisDan",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Lewis, Dan",
+	"comment": "Student, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LilnerLottie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Lilner, Lottie",
+	"comment": "Spinner and weaver, Ringgold, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LingerHannaSmith",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Linger, Hanna Smith",
+	"comment": "Spinner and weaver, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LurichRay",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Lurich, Ray",
+	"comment": "Student, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MartinMr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Martin, Mr.",
+	"comment": "Photographed by Doris Ulmann",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MartinMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Martin, Mrs.",
+	"comment": "Spinner, Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MartinMsWJ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Martin, Ms. W.J.",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MartinWJ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Martin, W.J.",
+	"comment": "Carver, Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McCarterArlene",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "McCarter, Arlene",
+	"comment": "Basket and fan maker, Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McCarterCora",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "McCarter, Cora",
+	"comment": "Weaver, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McCarterMac",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "McCarter, Mac",
+	"comment": "Basket maker, Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McConkeyVictor",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "McConkey, Victor",
+	"comment": "Carpenter, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McConnyMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "McConny, Mrs.",
+	"comment": "Spread maker, Dalton, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McCordMaryRose",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "McCord, Mary Rose",
+	"comment": "Southern Pines, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McVeyFrankLeonard",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "McVey, Frank Leonard",
+	"comment": "President, University of Kentucky, Lexington, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MeadowsJohnAlexander",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Meadows, John Alexander",
+	"comment": "Miller and maker of mill equipment, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MedcalfLelena",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Medcalf, Lelena",
+	"comment": "Basket maker, Solunda, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MedcalfLeo",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Medcalf, Leo",
+	"comment": "Basket maker, Solunda, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Miller",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Miller",
+	"comment": "Pine Log, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MooreMolly",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Moore, Molly",
+	"comment": "Spinner, Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MullensBert",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Mullens, Bert",
+	"comment": "Pupil of Frank Long, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MullensHenderson",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Mullens, Henderson",
+	"comment": "Woodworker, Puncheon Camp Creek, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MullensMrsHenderson",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Mullens, Mrs. Henderson",
+	"comment": "Puncheon Camp Creek, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/NicholsMartha",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Nichols, Martha",
+	"comment": "Spinner and weaver, Culberson, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Owenbyfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Owenby family",
+	"comment": "Gatlinburg, Tennessee. Members include Pink Owenby, Janes, Owenby, Anner Owenby, Ainer Owenby and Mary Owenby",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/OwenbyPink",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Owenby, Pink",
+	"comment": "Preacher, Gatlinburg, Tennessee. Member of the Owenby family",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PennimanMr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Penniman, Mr.",
+	"comment": "Preacher (?), Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PickelseimerEarl",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Pickelseimer, Earl",
+	"comment": "Carpenter, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Portinfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Portin family",
+	"comment": "Farmers, Ringgold, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PruittGrace",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Pruitt, Grace",
+	"comment": "Seamstress, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RaineDr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Raine, Dr.",
+	"comment": "English Department, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RamseyLydia",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ramsey, Lydia",
+	"comment": "Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ReaganLizz",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Reagan, Lizz",
+	"comment": "Weaver, Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ReganEmma",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Regan, Emma",
+	"comment": "Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Ritchiefamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ritchie family",
+	"comment": "Viper and Homeplace, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RitchieAbigailHall",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ritchie, Abigail Hall",
+	"comment": "Spinner, Viper, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RitchieBalisWilmer",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Ritchie, Balis Wilmer",
+	"comment": "Musician, Viper, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RoghsNelse",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Roghs, Nelse",
+	"comment": "Rockologist, Shooting Creek, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ScroggsLuch",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Scroggs, Luch",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ScroggsWanda",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Scroggs, Wanda",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ShookRobert",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Shook, Robert",
+	"comment": "Farmer, New Found Creek, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SmithEdMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Smith, Ed, Mrs.",
+	"comment": "Quilter, Ringgold, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SmithLon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Smith, Lon",
+	"comment": "Carver, Pittman Center, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StallcupPauline",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stallcup, Pauline",
+	"comment": "Lace maker, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StevensAlonzo",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stevens, Alonzo",
+	"comment": "Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Stewartfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stewart family",
+	"comment": "Family from Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StewartElsie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stewart, Elsie",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StewartMr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stewart, Mr.",
+	"comment": "Cross-tie maker, Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StewartRachel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stewart, Rachel",
+	"comment": "Singer, Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StilesEthelMay",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stiles, Ethel May",
+	"comment": "Quilter, Ringgold, Georgia. Daughters are Frances Stiles and Wilma Stiles",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StilesFrances",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stiles, Frances",
+	"comment": "Ringgold, Georgia. Daughter of Ethel May Stiles",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StilesWilma",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stiles, Wilma",
+	"comment": "Ringgold, Georgia. Daughter of Ethel May Stiles",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TaulbertRichard",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Taulbert, Richard",
+	"comment": "Farmer, Fayette County, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TaylorBristol",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Taylor, Bristol",
+	"comment": "Dulcimer maker, farmer and poet, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TaylorHoward",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Taylor, Howard",
+	"comment": "Organist, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TaylorLerena",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Taylor, Lerena",
+	"comment": "Rug maker, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TrenthamGeorgia",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Trentham, Georgia",
+	"comment": "Weaver, Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TrenthamLaura",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Trentham, Laura",
+	"comment": "Weaver, Gatlinburg, Tennessee",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/VaughnMarshall",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Vaughn, Marshall",
+	"comment": "Student, Berea College, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/VinerMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Viner, Mrs.",
+	"comment": "Weaver and dyer, Soluda, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/VinerMrsAremaStone",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Viner, Mrs. Arema Stone",
+	"comment": "Soluda, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/VinerSandy",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Viner, Sandy",
+	"comment": "Berea, Kentucky and Soluda, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WaldroupNancySue",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Waldroup, Nancy Sue",
+	"comment": "Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WelshJE",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Welsh, J. E.",
+	"comment": "Potter, Bybee, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WelsterElla",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Welster, Ella",
+	"comment": "African-American singer, Berea, Kentucky and Murphy, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Willmottfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Willmott family",
+	"comment": "Family from Berea, Kentucky. Members include Marie Wilmott (spinner, weaver and quilter)and Annabelle Wilmott",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WillmottAnnabelle",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Willmott, Annabelle",
+	"comment": "Quilter, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WillmottMary",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Willmott, Mary",
+	"comment": "Spinner, weaver and quilter, Berea, Kentucky. Possilby the same person as Marie Wilmott of the Wilmott family",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WoodMrsCU",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Wood, Mrs. C.U.",
+	"comment": "Leader of a spread making enterprise, Dalton, Georgia",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WyattSU",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Wyatt, S.U.",
+	"comment": "Weaver, dyer and spinner, Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+
+
 
 
 
