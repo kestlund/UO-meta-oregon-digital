@@ -172,6 +172,79 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/Bereastudents",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Berea students",
+	"comment": "Students attending or having attended Berea College in Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/OldTimersDay",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Old Timer's Day",
+	"comment": "A day presumably celebrating the older citizens of Brasstown, North Carolina",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HomeplaceKentucky",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Homeplace, Kentucky",
+	"comment": "An unidentified town in rural Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BugHillKentucky",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Bug Hill, Kentucky",
+	"comment": "An unidentified town in rural Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+
 
 	
 	
