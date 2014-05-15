@@ -25966,6 +25966,24 @@
 	},
 
 	{
+	"@id": "http://opaquenamespace.org/ns/Stilesfamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Stiles family",
+	"comment": "Family from Ringgold, Georgia. Members include Ethel May Stiles and her daughters Frances Stiles and Wilma Stiles",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+	
+	{
 	"@id": "http://opaquenamespace.org/ns/StilesEthelMay",
 	"@type": "Property",
 	"definedBy": {
