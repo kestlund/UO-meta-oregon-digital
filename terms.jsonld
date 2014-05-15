@@ -73,15 +73,10 @@
       "label": "Intentional Communities",
       "comment": "Planned residential communities designed from the start to have a high degree of social cohesion and teamwork. The members of an intentional community typically hold a common social, political, religious, or spiritual vision and often follow an alternative lifestyle.",
       "modified": {
-        "@value": "2014-05-13",
+        "@value": "2014-05-15",
         "@type": "date",
 		}
-		"domain": {
-		"@id": "Agent"
-		}
-		"range": {
-		"@id": "Organization"
-		}
+
       }
     },
 
@@ -99,16 +94,87 @@
       "label": "Trevitt Monument (Memaloose Island)",
       "comment": "Obelisk and base on Memaloose Island in the Columbia River east of Hood River that marks the grave of a local pioneer named Victor Trevitt.",
       "modified": {
-        "@value": "2014-05-13",
+        "@value": "2014-05-15",
         "@type": "date"
       },
-      "domain": {
-        "@id": "Facility"
-      },
-      "range": {
-        "@id": "Monument"
-      }
+
     },
+	
+	{
+	"@id": "http://opaquenamespace.org/ns/BereaCollegecraftsmen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Berea College, craftsmen",
+	"comment": "Male artisans connected, either through employment or study, with Berea College in Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BereaCollegecraftswomen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Berea College, craftswomen",
+	"comment": "Female artisans connected, either through employment or study, with Berea College in Berea, Kentucky",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Ruralportraits",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Rural portraits",
+	"comment": "Portraits taken in settings pertaining to the country and/or of people living or raised in the country, generally emphasizing living conditions, social customs, costume or crafts",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Ruralscenes",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	},
+	"label": "Rural scenes",
+	"comment": "A view of a country setting",
+	"modified": {
+	"@value": "2014-05-15",
+	"@type": "date"
+	}
+	},
+
+
+	
+	
 	
     }
   ]
