@@ -244,6 +244,257 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/candidportraits",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "candid portraits",
+	"comment": "Portraits with subjects unposed",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/indoorcandidportraits",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "indoor candid portraits",
+	"comment": "Portraits taken inside with subjects unposed",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/indoorphotographs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "indoor photographs",
+	"comment": "Photographs taken inside",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/indoorportraits",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "indoor portraits",
+	"comment": "Portraits taken inside",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/indoorstudioportraits",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "indoor studio portraits",
+	"comment": "Portraits taken in an interior studio setting",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/interiors",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "interiors",
+	"comment": "Photos of interior spaces that may or may not include figures",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/candidoutdoors",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "outdoor candid photographs",
+	"comment": "Photographs taken outside with subjects unposed",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/outdoorcandidportraits",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "outdoor candid portraits",
+	"comment": "Portraits taken outside with subjects unposed",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/outdoorfamilyportraits",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "outdoor family portraits",
+	"comment": "Portraits taken outside of a family group",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/outdoorphotographs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "outdoor photographs",
+	"comment": "Photographs taken outside",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/outdoorportrait",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "outdoor portrait",
+	"comment": "Portraits taken outside",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/outdoorstudioportraits",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "outdoor studio portraits",
+	"comment": "Portraits taken in an outdoor studio setting",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/portraitphotographs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "portrait photographs",
+	"comment": "Photographic portraits",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/studiophotographs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "studio photographs",
+	"comment": "Photographs taken in a studio setting",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
 
 
 	
