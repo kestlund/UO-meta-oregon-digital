@@ -29101,6 +29101,385 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/AllenOG",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Allen, O. G.",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BauguessJohn",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Bauguess, John",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Cantwell",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Cantwell",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Davies",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Davies",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Dennis",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Dennis",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DoubledayRalphRussell",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Doubleday, Ralph Russell",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Fastland",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Fastland",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GWC",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "GWC",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HeggEA",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hegg, E. A.",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JEW",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "J.E.W.",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Marcell",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Marcell",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MarcellofCalgary",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Marcell of Calgary",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MillerPhotoCompany",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Miller Photo Company",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MooreC",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Moore, C.",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PowellDan",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Powell, Dan",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Ross-PaulLaura",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Ross-Paul, Laura",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SavageCharlesD",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Savage, Charles D.",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TakagiT",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Takagi, T.",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ThePhotoShopStudio",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "The Photo Shop Studio",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WhittakerWC",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Whittaker, W. C.",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WulzenAlbertHenry",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Wulzen, Albert Henry",
+	"comment": "Photographer",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+
 
 
 
