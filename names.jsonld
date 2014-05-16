@@ -27369,6 +27369,1739 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/Alexander",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Alexander",
+	"comment": "Yakima man photographed by Lee Moorhouse in 1900",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AllenAlice",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Allen, Alice",
+	"comment": "Native Maerican girl from Wainwright, Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AltlookAnnie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Altlook, Annie",
+	"comment": "Native Maerican girl from Wainwright, Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AlveyAlexis",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Alvey, Alexis",
+	"comment": "Native Maerican girl from Wainwright, Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AmblerJerry",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Ambler, Jerry",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AndrewsRoyC",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Andrews, Roy C.",
+	"comment": "Roy C. Andrews was a schoolteacher and administrator in Michigan, Texas, Arkansas, Washington and Oregon. He was a chemistry instructor at the University of Oregon from 1935 until his retirement in 1950.",
+	"date": "1902-1955",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BaldwinTillie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Baldwin, Tillie",
+	"comment": "Cowgirl and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BiggsEarlR",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Biggs, Earl R.",
+	"comment": "Officer in the 40th Infantry 'Sunshine" Division",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BoutelleFrazierAugustus",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Boutelle, Frazier Augustus",
+	"comment": "Cavalry officer and national guardsman from Washington state.",
+	"date": "1840-1924",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BoutelleMaryDollieAdolphineAugusto",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Boutelle, Mary (Dollie) Adolphine Augusto",
+	"comment": "Wife of Frazier Augustus Boutelle",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BuffaloVernon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Buffalo Vernon",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BurnoudyJane",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Burnoudy, Jane",
+	"comment": "Cowgirl and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CaldwellLee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Caldwell, Lee",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChewShingching",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Chew, Shing-ching",
+	"comment": "Chinese man photographed vy Gertrude Bass Warner",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChiefAlex",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Chief Alex",
+	"comment": "Chief  of the Tinne Indian tribe",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChiefSaponowox",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Chief Saponowox",
+	"comment": "Chief  of the Yakima Indian tribe",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChowShingChing",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Chow, Shing Ching",
+	"comment": "Chinese man photographed vy Gertrude Bass Warner in Shanghai, China",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ClarkeDan",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Clarke, Dan",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CorbettBen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Corbett, Ben",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CoxBlanche",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Cox, Blanche",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CoxChester",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Cox, Chester",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CoxEd",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Cox, Ed",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DahCletJah",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Dah-Clet-Jah",
+	"comment": "Native American man from Yakutat, Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DavidsonElijah",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Davidson, Elijah",
+	"comment": "Of Cave Junction, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DemorgueFaith",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Demorgue, Faith",
+	"comment": "Actress who appeared with Lloyd Bacon in The Great Sioux Uprising",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DowningMr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Downing, Mr.",
+	"comment": "Man who hiked the Denver Glacier in Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DrakeLeeD",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Drake, Lee D.",
+	"comment": "Lee D. Drake (1882-1957) was a newspaper owner and civic booster in Pendleton and Astoria, Oregon.",
+	"date": "ca. 1910-1957",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/EpperleyMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Epperley, Mrs.",
+	"comment": "Female companion to Gertrude Bass and Murray Warner in China",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/EsegakSarah",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Esegak, Sarah",
+	"comment": "Native American woman from Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/EwbankHB",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Ewbank, H. B.",
+	"comment": "Man photographed by the Angelus Studio in Portland, Oregon who may be connected with the railroad industry",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/FangTwan",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Fang, Twan",
+	"comment": "A Chinese man connected toYuan Shikai, China's head of state from 1912-1916.",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/FosterMartha",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Foster, Martha",
+	"comment": "Girl photographed by Roy. C. Andrews",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GallagherMr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Gallagher, Mr.",
+	"comment": "A man associated with a photograph of the Mears Meat Market & Grocery in Portland, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GatoEduardoH",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Gato, Eduardo H.",
+	"comment": "Havana, Cuba, cigar factory owner",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GrahamMazie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Graham, Mazie",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GregoryIrma",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Gregory, Irma",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GregoryJD",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Gregory, J. D.",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Hall",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hall",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HartshornAlbertK",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hartshorn, Albert K.",
+	"comment": "Blacksmith in Log Cabin, British Columbia",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HartshornHazel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hartshorn, Hazel",
+	"comment": "Daughter of Albert K. Hartshorn from British Columbia",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HawnNettie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hawn, Nettie",
+	"comment": "Cowgirl and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HaydenMaryJane",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hayden, Mary Jane",
+	"comment": "Mother of Mary (Dollie) Adolphine Augusto Boutelle",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HollingsworthBrenda",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hollingsworth, Brenda",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HooverJeanMarie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hoover, Jean Marie",
+	"comment": "1939 Portland Rose Festival Queen, Portland, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Howe",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Howe",
+	"comment": "Man and presumably one of the sculptors of a monumental snowman on the Muir Glacier in 1902",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HulbertWD",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Hulbert, W. D.",
+	"comment": "Eskimo woman from Nome, Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/KagoonaMrsPerry",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Kagoona, Mrs. Perry",
+	"comment": "Eskimo woman from Nome, Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LaDueFlorence",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "La Due, Florence",
+	"comment": "World's Champion Lady Fancy Roper, cowgirl and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LeaderJohnJr",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Leader, John, Jr.",
+	"comment": "Boy included in the photography collection of Roy C. Andrews",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LeeBabe",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Lee, Babe",
+	"comment": "Cowgirl and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MalamuteKid",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Malamute Kid",
+	"comment": "Of the Yucon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MalcolmIra",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Malcolm, Ira",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MalcolmMuggy",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Malcolm, Muggy",
+	"comment": "Woman of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MasseyJim",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Massey, Jim",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MathewsGrayson",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Mathews, Grayson",
+	"comment": "Photographer, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McCarrollBonnie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "McCarroll, Bonnie",
+	"comment": "Cowgirl and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McCartyJean",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "McCarty, Jean",
+	"comment": "Cowgirl and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McCaugheyMrs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "McCaughey, Mrs.",
+	"comment": "Woman who hiked the Denver Glacier in Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MickeyPig",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Mickey (Pig)",
+	"comment": "A pig from the Pendelton Roundup in Pendelton, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MintonyeDolores",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Mintonye, Dolores",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MintonyeLee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Mintonye, Lee",
+	"comment": "Owner of Lee Mintonye's Appliance Service in Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MintonyeMartha",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Mintonye, Martha",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MoorhouseMark",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Moorhouse, Mark",
+	"comment": "Exhibition Roundup Manager of the Pendelton Roundup, Pendelton, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MoraschDoreen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Morasch, Doreen",
+	"comment": "Miss Eugene of 1957, Eugene, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Muir",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Muir",
+	"comment": "Man and presumably one of the sculptors of a monumental snowman on the Muir Glacier in 1902",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MunkerFamily",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Munker Family",
+	"comment": "Pioneers, Heppner, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/NobleDave",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Noble, Dave",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/NobleMyrtle",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Noble, Myrtle",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/OgilvyBud",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Ogilvy, Bud",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Oharame",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Oharame",
+	"comment": "Japanese woman photographed by Gertrude Bass Warner",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ParkerRed",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Parker, Red",
+	"comment": "Champion Cowboy Rider of the World, rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PonticelliBernice",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Ponticelli, Bernice",
+	"comment": "Costume designer on the movie The Great Sioux Uprising",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PopeMrsET",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Pope, Mrs. E. T.",
+	"comment": "Woman who hiked the Denver Glacier in Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PrincessMaySteamship",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Princess May (Steamship)",
+	"comment": "The SS Princess May was a steamship built in 1888 and taken out of service in 1935. She ran aground on Sentinel, Alaska in 1910",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PughJohn",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Pugh, John",
+	"comment": "Man who hiked the Denver Glacier in Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PughMrsJohn",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Pugh, Mrs. John",
+	"comment": "Woman who hiked the Denver Glacier in Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Rollen",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Rollen",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RoubJoe",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Roub, Joe",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SSPortlandShip",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "S.S. Portland (Ship)",
+	"comment": "The SS Portland was built in 1889 near Gloucester, Massachuseetts by the New England Shipbuilding Compnay. It transported over a ton of gold from the Klondike to Seattle Washington in 1897 and sparked the 1897-1898 gold rush. It sank in the Portland Gale off Cape Ann in 1898.",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SchmittMartin",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Schmitt, Martin",
+	"comment": "A cowboy",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ShippentowerAlex",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Shippentower, Alex",
+	"comment": "Native American man",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SmithFrankN",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Smith, Frank N.",
+	"comment": "Photographer, Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SnakeHorse",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Snake (Horse)",
+	"comment": "Horse riden in the Pendelton Roundup in 1913, Pendleton, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SperrySteeleFanny",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Sperry-Steele, Fanny",
+	"comment": "World Champion Lady Bucking Horse Rider, cowgirl and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SundownJackson",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Sundown, Jackson",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TaborFuzz",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Tabor, Fuzz",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ThomasJohn",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Thomas, John",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TigalookMary",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Tigalook, Mary",
+	"comment": "Native Maerican girl from Wainwright, Alaska",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TownsendHazel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Townsend, Hazel",
+	"comment": "Of Alpine, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Waggoner",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Waggoner",
+	"comment": "Man and presumably one of the sculptors of a monumental snowman on the Muir Glacier in 1902",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Walluchki",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Walluchki",
+	"comment": "Yakima Princess, Klootchman",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WaltzingMarbleHorse",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Waltzing Marble (Horse)",
+	"comment": "Horse riden in the Pendelton Roundup, Pendleton, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WarEagleJohn",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "War Eagle, John",
+	"comment": "Native American actor who appeared in the movie The Great Sioux Uprising",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WarnerMurray",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Warner, Murray",
+	"comment": "Husband of Gertrude Bass Warner. A graduate of Exeter Academy, held a degree from MIT and went to China to establish the engineering department of the American Trading Company.",
+	"date": "1869-1920",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WilsonHomer",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Wilson, Homer",
+	"comment": "Cowboy and rodeo rider",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WringerHorse",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Wringer (Horse)",
+	"comment": "Horse riden in the Pendelton Roundup, Pendleton, Oregon",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+
 
 
     }
