@@ -29479,8 +29479,203 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/BritishCantonLine",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "British Canton Line",
+	"comment": "A British owned ferry company running between Hong Kong and mainland China",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/EmeraldEmpireRoundup",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Emerald Empire Roundup",
+	"comment": "Rodeo held in Lane County, Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/JohnCPotterShip",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "John C. Potter (Ship)",
+	"comment": "Built by Marlboro Packard, of Searsport Main in 1869, the John C. Potter was a cargo ship that ran between San Francisco and Seattle carrying lumber from 1888-1903",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MethodistEpiscopalChurchinChina",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Methodist Episcopal Church in China",
+	"comment": "A branch of the Missionary Society of the Methodist Episcopal Church first entering China in the 1860s",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MilesCityRoundUp",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Miles City Round Up",
+	"comment": "Rodeo held in Miles City, Oregon since 1913",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PortlandandVancouverRailRoadFerryCompany",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Portland and Vancouver Rail Road Ferry Company",
+	"comment": "Rail and ferry company running between Portland, Oregon and Vancouver, British Columbia",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PrinceWilliamSoundSalmonandHerringPackingCo",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Prince William Sound Salmon and Herring Packing Co.",
+	"comment": "Fish cannery in Prince William Sound, Canada",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ShanghaiGolfClub",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Shanghai Golf Club",
+	"comment": "Golf course and club house in Shanghai, China",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/standardschool",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "standard school",
+	"comment": "A school meeting the standards set by the rules of the Oregon State Board of Education",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TheatreStreet",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Theatre Street",
+	"comment": "Street in Osaka, Japan",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/UnionFishermansCooperativePackingCompany",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Union Fisherman's Cooperative Packing Company",
+	"comment": "Fish cannery in Astoria, Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
 
 
     }
