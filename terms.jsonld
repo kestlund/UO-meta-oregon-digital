@@ -496,6 +496,151 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/Indoctrination1879c1928",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Indoctrination (1879- c.1928)",
+	"comment": "Period in which Native Americans were pressured or forced to assimilate with prevailing European-American culture. It was during this time that boarding schools were established and Native American children taken from their families to be educated and assimilated into while culture.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Precontact",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Precontact",
+	"comment": "Period before the time of contact between Europeans and Native American peoples in Oregon characterized by intermittent interaction with fur traders and seafaring explorers of the Pacific Northwest.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RelocationReservation18321871",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Relocation / Reservation (1832-1871)",
+	"comment": "Period of implementation of the Indian Removal Act of 1830, wherein Native Americans were removed from their historic lands and resettled on reservations.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Removal1828c1832",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Removal (1828-c.1832)",
+	"comment": "Period leading up to and shortly after the passage of the Indian Removal Act of 1830 meant primarily to move Native Americans from the southeastern US.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Reorganization19341953",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Reorganization (1934-1953)",
+	"comment": "Period following the Wheeler-Howard Act of 1934 (the Indian Reorganization Act) that returned local self-governance to Native American Tribes. Some lands purchased by non-tribe member was also restored by court order. ",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SelfDetermination",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Self-Determination",
+	"comment": "The current period of self-determination and self-rule for tribes characterized by falling support in the US Congress, especially among members of the Republican party.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SovereigntySelfGovernance19752011",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Sovereignty/Self-Governance (1975-2011)",
+	"comment": "Period following the passage of the Indian Self-Determination and Education Assistance Act of 1975 which ended the policy of terminating the relationships between tribes and the US federal government. Implementation of the Act allowed for local regulation of federal programs with the stipulation that tribes meet federal requirements, not unlike individual states, through the use of 638 contracts.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Termination19531968",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Termination (1953-1968)",
+	"comment": "Period of implementation of the House Concurrent Resolution 108 of 1953 and Public Law 280 in which relationships between tribes and the US federal government were terminated. This effectively ended the reservation system and removed federal aid to tribes while members of tribes became full citizens of the US and reservation lands became subject to the jurisdiction of states.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+
 
 	
 	
