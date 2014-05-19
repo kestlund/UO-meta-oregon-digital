@@ -29677,6 +29677,386 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/Angoonpeople",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Angoon people",
+	"comment": "Native American people who live on Admiralty, Chichagof and Baranof Islands, Alaska (Goldscmidt, Walter R. and Theodore H. Haas, Haa Aani = OurLand: Tlingit and Haida Land Rights and Use, Juneau: Sealaka Heritage Foundation, 2000)",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CeliloFallsIndians",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Celilo Falls Indians",
+	"comment": "Native American people who fished and traded in the Celilo Falls and Celilo Village area. Celilo Falls was a waterfall on the Columbia River about 14 miles upstream from what is now The Dalles, Oregon. The falls were flooded by the building of The Dalles Dam in 1957. Celilo Village remains on the Oregon shore of the Columbia.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChelukemaukesIndians",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Chelukemaukes Indians",
+	"comment": "Native American people who live in the Willamette Valley, Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ChetlesssentinsIndians",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Chetlesssentins Indians",
+	"comment": "Native American people who live in Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ClatsopIndians",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Clatsop Indians",
+	"comment": "Native American people who live on the northwest coast of Oregon, now part of the Clatsop-Nehalem Confederation.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Clowella",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Clowella",
+	"comment": "Native American people who live in the Willamette Valley, Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ColumbiaRiverTribes",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Columbia River Tribes",
+	"comment": "Native American peoples who live, fish and/or trade near the Columbia River.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Molallapeople",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Molalla people",
+	"comment": "Native American people who lived throughout the Willamette Valley, from Mount Hood to the Umpqua River, Oregon. They were removed to the Grande Ronde Valley by treaty in 1859.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Tooquot",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Tooquot",
+	"comment": "Native American people in Alaska",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Tutuni",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Tutuni",
+	"comment": "Native American people who live on the Rogue River and south coast of Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BadRiverIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Bad River Indian Reservation",
+	"comment": "The Bad River Band Of Lake Superior Tribe of Chippewa Indians is located on a 125,000+ acre reservation in Northern Wisconsin on the south shore of Lake Superior (Known by the tribe as Gichi Gami) in Ashland and Iron Counties. Territory ceded by the tribe to the U.S. government includes the upper one third of what is now the State of Wisconsin. (http://www.badriver-nsn.gov/history)",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CattaraugasIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Cattaraugas Indian Reservation",
+	"comment": "Cattaraugus Reservation is in Eyre County, New York. It is part of the Seneca Indian Nation.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CornplanterIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Cornplanter Indian Reservation",
+	"comment": "Cornplanter Reservation was once located in Warren County, Pennsylvania, along the west bank of the Allegheny River. This land was flooded by the building of the Kinzua Dam in 1965.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/KarlukIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Karluk Indian Reservation",
+	"comment": "The Karluk Reservation is located on the south shore of the Karluk Lagoon, Kodiak Island, Alaska",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LapwaiIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Lapwai Indian Reservation",
+	"comment": "Lapwai is part of the Nez Perxe Indian Reservation in the Lapwai Valley of Idaho.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/QuillayutesIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Quileute Indian Reservation",
+	"comment": "Quileute Reservation is located in Clallam County, Washington",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RogueRiverIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Rogue River Indian Reservation",
+	"comment": "Rogue River Indian Reservation was located opposite Fort Lane on the banks of the Rogue River in Jackson, Oregon, northwest of present-day Medford.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RoseburgIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Roseburg Indian Reservation",
+	"comment": "Roseburg Reservation is located near Roseburg, South Dakota",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ShoshoneIndianConfederacy",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Shoshone Indian Confederacy",
+	"comment": "Confederacy of Shoshone and related peoples",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TableRockIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Table Rock Indian Reservation",
+	"comment": "Table Rock Reservation was located near the Rogue River, Oregon where the Rogue River Indians were moved following the Rogue River Wars of the 1850. The Indians were eventually moved to the Grande Ronde  and Siletz Reservations",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/YamhillIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Yamhill Indian Reservation",
+	"comment": "Yamhill Reservation was located in the McMinnville vicinity, Yamhill County, Oregon. The Indians were eventually moved to the Grande Ronde Reservation",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+
+
 
     }
   ]
