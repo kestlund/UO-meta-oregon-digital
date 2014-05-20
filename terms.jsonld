@@ -640,9 +640,98 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/DutchAmerican",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	},
+	"label": "Dutch-American",
+	"comment": "Americans of Dutch descent",
+	"modified": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GreekAmerican",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	},
+	"label": "Greek-American",
+	"comment": "Americans of Greek descent",
+	"modified": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HungarianAmerican",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	},
+	"label": "Hungarian-American",
+	"comment": "Americans of Hungarian descent",
+	"modified": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SpanishAmerican",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	},
+	"label": "Spanish-American",
+	"comment": "Americans of Spanish descent",
+	"modified": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/JapaneseAmerican",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	},
+	"label": "Japanese-American",
+	"comment": "Americans of Japanese descent",
+	"modified": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	}
+	},
 
 
-	
+
 	
 	
     }
