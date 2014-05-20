@@ -30056,1187 +30056,1190 @@
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Bennett, Eugene P.",
+	"@id": "http://opaquenamespace.org/ns/BennettEugeneP",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "BennettEugeneP",
+	"label": "Bennett, Eugene P.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1921",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Blocker, Murial",
+	"@id": "http://opaquenamespace.org/ns/BlockerMurial",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "BlockerMurial",
+	"label": "Blocker, Murial",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Blodgett, Tom",
+	"@id": "http://opaquenamespace.org/ns/BlodgettTom",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "BlodgettTom",
+	"label": "Blodgett, Tom",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1940",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Bosworth, Robert",
+	"@id": "http://opaquenamespace.org/ns/BosworthRobert",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "BosworthRobert",
+	"label": "Bosworth, Robert",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1933",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Buchanan, Caroline",
+	"@id": "http://opaquenamespace.org/ns/BuchananCaroline",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "BuchananCaroline",
+	"label": "Buchanan, Caroline",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Carey, Rockwell W.",
+	"@id": "http://opaquenamespace.org/ns/CareyRockwellW",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "CareyRockwellW",
+	"label": "Carey, Rockwell W.",
 	"comment": "Pacific Northwest artist",
 	"date": "1882-1952",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Chilstrom, Ray",
+	"@id": "http://opaquenamespace.org/ns/ChilstromRay",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "ChilstromRay",
+	"label": "Chilstrom, Ray",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Daggatt, Walter",
+	"@id": "http://opaquenamespace.org/ns/DaggattWalter",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "DaggattWalter",
+	"label": "Daggatt, Walter",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1925",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Davis, Mary",
+	"@id": "http://opaquenamespace.org/ns/DavisMary",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "DavisMary",
+	"label": "Davis, Mary",
 	"comment": "Pacific Northwest artist",
 	"date": "1907-1989",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Everett, Al",
+	"@id": "http://opaquenamespace.org/ns/EverettAl",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "EverettAl",
+	"label": "Everett, Al",
 	"comment": "Pacific Northwest artist",
 	"date": "1917-1965",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Feasley, Robert",
+	"@id": "http://opaquenamespace.org/ns/FeasleyRobert",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "FeasleyRobert",
+	"label": "Feasley, Robert",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1926",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Fluno, Ruth",
+	"@id": "http://opaquenamespace.org/ns/FlunoRuth",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "FlunoRuth",
+	"label": "Fluno, Ruth",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1923",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Flynn, Robert",
+	"@id": "http://opaquenamespace.org/ns/FlynnRobert",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "FlynnRobert",
+	"label": "Flynn, Robert",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Garner, Bert R.",
+	"@id": "http://opaquenamespace.org/ns/GarnerBertR",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "GarnerBertR",
+	"label": "Garner, Bert R.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1940",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Goldsby, Al",
+	"@id": "http://opaquenamespace.org/ns/GoldsbyAl",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "GoldsbyAl",
+	"label": "Goldsby, Al",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1930",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Grover, Ruth",
+	"@id": "http://opaquenamespace.org/ns/GroverRuth",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "GroverRuth",
+	"label": "Grover, Ruth",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1912",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Guske, Jennifer",
+	"@id": "http://opaquenamespace.org/ns/GuskeJennifer",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "GuskeJennifer",
+	"label": "Guske, Jennifer",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Hales, J.H.",
+	"@id": "http://opaquenamespace.org/ns/HalesJH",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "HalesJH",
+	"label": "Hales, J.H.",
 	"comment": "Pacific Northwest artist",
 	"date": "1928-1971",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Hansen, Arthur H.",
+	"@id": "http://opaquenamespace.org/ns/HansenArthurH",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "HansenArthurH",
+	"label": "Hansen, Arthur H.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1929",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Hardy, Tom",
+	"@id": "http://opaquenamespace.org/ns/HardyTom",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "HardyTom",
+	"label": "Hardy, Tom",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1921",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Haseltine, James L.",
+	"@id": "http://opaquenamespace.org/ns/HaseltineJamesL",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "HaseltineJamesL",
+	"label": "Haseltine, James L.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1924",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Haseltine, Thom",
+	"@id": "http://opaquenamespace.org/ns/HaseltineThom",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "HaseltineThom",
+	"label": "Haseltine, Thom",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1951",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Heald (?)",
+	"@id": "http://opaquenamespace.org/ns/Heald",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "Heald",
+	"label": "Heald (?)",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Heald, C.L.",
+	"@id": "http://opaquenamespace.org/ns/HealdCL",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "HealdCL",
+	"label": "Heald, C.L.",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Hoffman, P.K.",
+	"@id": "http://opaquenamespace.org/ns/HoffmanPK",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "HoffmanPK",
+	"label": "Hoffman, P.K.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1943",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Imus, Keith",
+	"@id": "http://opaquenamespace.org/ns/ImusKeith",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "ImusKeith",
+	"label": "Imus, Keith",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1927",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Jensen, Eunice",
+	"@id": "http://opaquenamespace.org/ns/JensenEunice",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "JensenEunice",
+	"label": "Jensen, Eunice",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Kardos, Lanislas",
+	"@id": "http://opaquenamespace.org/ns/KardosLanislas",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "KardosLanislas",
+	"label": "Kardos, Lanislas",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1909",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Kowert, Hank",
+	"@id": "http://opaquenamespace.org/ns/KowertHank",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "KowertHank",
+	"label": "Kowert, Hank",
 	"comment": "Pacific Northwest artist",
 	"date": "1924-1977",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/LaDuke, Betty",
+	"@id": "http://opaquenamespace.org/ns/LaDukeBetty",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "LaDukeBetty",
+	"label": "LaDuke, Betty",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1933",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Lane, Norman",
+	"@id": "http://opaquenamespace.org/ns/LaneNorman",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "LaneNorman",
+	"label": "Lane, Norman",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1931",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Lawrence, John",
+	"@id": "http://opaquenamespace.org/ns/LawrenceJohn",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "LawrenceJohn",
+	"label": "Lawrence, John",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1940",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Lolcama, R.",
+	"@id": "http://opaquenamespace.org/ns/LolcamaR",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "LolcamaR",
+	"label": "Lolcama, R.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1936",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/McClintock, James",
+	"@id": "http://opaquenamespace.org/ns/McClintockJames",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "McClintockJames",
+	"label": "McClintock, James",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1928",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/McLeod, Steven",
+	"@id": "http://opaquenamespace.org/ns/McLeodSteven",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "McLeodSteven",
+	"label": "McLeod, Steven",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1944",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Meyer, Audrey",
+	"@id": "http://opaquenamespace.org/ns/MeyerAudrey",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "MeyerAudrey",
+	"label": "Meyer, Audrey",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1924",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Miller, Paul",
+	"@id": "http://opaquenamespace.org/ns/MillerPaul",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "MillerPaul",
+	"label": "Miller, Paul",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Miller, Robert",
+	"@id": "http://opaquenamespace.org/ns/MillerRobert",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "MillerRobert",
+	"label": "Miller, Robert",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Moriyasu, Hiro",
+	"@id": "http://opaquenamespace.org/ns/MoriyasuHiro",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "MoriyasuHiro",
+	"label": "Moriyasu, Hiro",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1934",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Muller, Richard A.",
+	"@id": "http://opaquenamespace.org/ns/MullerRichardA",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "MullerRichardA",
+	"label": "Muller, Richard A.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1928",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Myron, Ron",
+	"@id": "http://opaquenamespace.org/ns/MyronRon",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "MyronRon",
+	"label": "Myron, Ron",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Nalder, Nancy Schildt",
+	"@id": "http://opaquenamespace.org/ns/NalderNancySchildt",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "NalderNancySchildt",
+	"label": "Nalder, Nancy Schildt",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1938",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Pander, Henk and Laursen, John",
+	"@id": "http://opaquenamespace.org/ns/PanderHenkandLaursenJohn",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "PanderHenkandLaursenJohn",
+	"label": "Pander, Henk and Laursen, John",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1937",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Petta, Joseph Jr.",
+	"@id": "http://opaquenamespace.org/ns/PettaJosephJr",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "PettaJosephJr",
+	"label": "Petta, Joseph Jr.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1935",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Piladakis, Emanuel",
+	"@id": "http://opaquenamespace.org/ns/PiladakisEmanuel",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "PiladakisEmanuel",
+	"label": "Piladakis, Emanuel",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1927",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Pitkin, Orleanok",
+	"@id": "http://opaquenamespace.org/ns/PitkinOrleanok",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "PitkinOrleanok",
+	"label": "Pitkin, Orleanok",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1946",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Pozzi, Craig",
+	"@id": "http://opaquenamespace.org/ns/PozziCraig",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "PozziCraig",
+	"label": "Pozzi, Craig",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1945",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Ralston, Ruby",
+	"@id": "http://opaquenamespace.org/ns/RalstonRuby",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "RalstonRuby",
+	"label": "Ralston, Ruby",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1929",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Rocchia, Elizabeth Brewster",
+	"@id": "http://opaquenamespace.org/ns/RocchiaElizabethBrewster",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "RocchiaElizabethBrewster",
+	"label": "Rocchia, Elizabeth Brewster",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Rock, John",
+	"@id": "http://opaquenamespace.org/ns/RockJohn",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "RockJohn",
+	"label": "Rock, John",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1919",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Ryan, Charles Bryan",
+	"@id": "http://opaquenamespace.org/ns/RyanCharlesBryan",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "RyanCharlesBryan",
+	"label": "Ryan, Charles Bryan",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1909",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Sekino Jun'ichiro",
+	"@id": "http://opaquenamespace.org/ns/SekinoJun'ichiro",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "SekinoJun'ichiro",
+	"label": "Sekino Jun'ichiro",
 	"comment": "Pacific Northwest artist",
 	"date": "1914-1988",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Shirley, Margaret",
+	"@id": "http://opaquenamespace.org/ns/ShirleyMargaret",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "ShirleyMargaret",
+	"label": "Shirley, Margaret",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1933",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Thurston, Joe",
+	"@id": "http://opaquenamespace.org/ns/ThurstonJoe",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "ThurstonJoe",
+	"label": "Thurston, Joe",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1970",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Trotter, Claire",
+	"@id": "http://opaquenamespace.org/ns/TrotterClaire",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "TrotterClaire",
+	"label": "Trotter, Claire",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1913",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Turnbull, Sister Paula Margaret",
+	"@id": "http://opaquenamespace.org/ns/TurnbullSisterPaulaMargaret",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "TurnbullSisterPaulaMargaret",
+	"label": "Turnbull, Sister Paula Margaret",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1921",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Van Cott, Sherrill",
+	"@id": "http://opaquenamespace.org/ns/VanCottSherrill",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "VanCottSherrill",
+	"label": "Van Cott, Sherrill",
 	"comment": "Pacific Northwest artist",
 	"date": "d. ca. 1940",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Van Hevelingen, Frances",
+	"@id": "http://opaquenamespace.org/ns/VanHevelingenFrances",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "VanHevelingenFrances",
+	"label": "Van Hevelingen, Frances",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1916",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Voorhies, Charles",
+	"@id": "http://opaquenamespace.org/ns/VoorhiesCharles",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "VoorhiesCharles",
+	"label": "Voorhies, Charles",
 	"comment": "Pacific Northwest artist",
 	"date": "1901-1970",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Widman, Harry F.",
+	"@id": "http://opaquenamespace.org/ns/WidmanHarryF",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "WidmanHarryF",
+	"label": "Widman, Harry F.",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1929",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Wilson, Donald",
+	"@id": "http://opaquenamespace.org/ns/WilsonDonald",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "WilsonDonald",
+	"label": "Wilson, Donald",
 	"comment": "Pacific Northwest artist",
 	"date": "d. 1934",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Wolf, Sherrie",
+	"@id": "http://opaquenamespace.org/ns/WolfSherrie",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "WolfSherrie",
+	"label": "Wolf, Sherrie",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Zeigler, David",
+	"@id": "http://opaquenamespace.org/ns/ZeiglerDavid",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 	},
 	"issued": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	},
-	"label": "ZeiglerDavid",
+	"label": "Zeigler, David",
 	"comment": "Pacific Northwest artist",
 	"modified": {
-	"@value": "2014-05-16",
+	"@value": "2014-05-20",
 	"@type": "date"
 	}
 	},
+
+
+
 
 
 
