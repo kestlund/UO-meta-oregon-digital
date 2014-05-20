@@ -730,6 +730,45 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/PacificNorthwest",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Pacific Northwest",
+	"comment": "Post-modernist style, especially in architecture, of the Pacific Northwest of the United States. For modernist art and architecture in the Pacific Northwest, use Northwest Regional.",
+	"date": "ca. 1910-ca. 1970",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RepublicofChina",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	},
+	"label": "Republic of China",
+	"comment": "Period between 1912 and 1949 (the Qing Dynasty and the establishment of the People Republic of China).",
+	"date": "1912-1949",
+	"modified": {
+	"@value": "2014-05-16",
+	"@type": "date"
+	}
+	},
+
+
 
 
 	
