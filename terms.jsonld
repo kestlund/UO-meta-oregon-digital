@@ -768,6 +768,493 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/AlaskanReindeerService",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Alaskan Reindeer Service",
+	"comment": "A plan, implemented by William T. Lopp, that was responsible for reintroducing reindeer back into southern Alaska at the turn of the century.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CayuseIndianWar",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Cayuse Indian War",
+	"comment": "Conflict between the Cayuse people and the European-American settlers in the Oregon Territory, 1847-1855. It was set off by the Whitman Massacre near present day Walla Walla Washington.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/EskimoFishingSeasons",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Eskimo Fishing Seasons",
+	"comment": "Summer months when Inuit caught fish",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/General",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "General",
+	"comment": "General interest materials",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Indianservices",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Indian services",
+	"comment": "US Department of the Interior, Bureau of Indian Affairs, Office of Indian Services. As defined by their website, the Office of Indian Services Mission is: To facilitate support for tribal people and tribal governments by promoting safe and quality living environments, strong communities, self sufficient and individual rights, while enhancing protection of the lives, prosperity and well being of American Indians and Alaska Natives.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MapsofSiouxIndianReservation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Maps of Sioux Indian Reservation",
+	"comment": "Regarding maps of the Great Sioux Reservation (N.D. and S.D.)",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/NorthwestTreatyRights",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Northwest Treaty Rights",
+	"comment": "Native American rights as established between the US federal government and Indian tribes of the northwest",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PoemsbyCaptainJack",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Poems by Captain Jack",
+	"comment": "Poetry by John W. “Captain Jack” Crawford",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ReceiptRollforWallaWallaTribe",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Receipt Roll for Walla Walla Tribe",
+	"comment": "Census document for the Walla Walla tribal members",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RogueRiverIndianAffairs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Rogue River Indian Affairs",
+	"comment": "Regional office of the US Department of the Interior, Bureau of Indian Affairs specifically governing relations with the Rogue River Indians, whose reservation was in Jackson county, Oregon.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Shalakoceremonyandfeast",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Shalako ceremony and feast",
+	"comment": "Zuni dance and ceremonial observance of the winter solstice",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SiouxCampaign",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Sioux Campaign",
+	"comment": "Also known as the Great Sioux War of 1876, wherein the Lakota Sioux and Northern Cheyenne took up arms to protect their lands from American settlers after negotiations with the US federal government failed",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SnakeRiverIndians",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Snake River Indians",
+	"comment": "Collectively the Northern Paiute, the Bannock and Shoshone peoples who lived along the Snake and Owyhee Rivers in Idaho and Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SouthwestIndianDyes",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Southwest Indian Dyes",
+	"comment": "Dyes used for the coloration of cloth among the various Indians of the southwest United States",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SouthwestNavajoPlants",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Southwest Navajo Plants",
+	"comment": "Plants used medicinally, decoratively and ceremonially by the Navajo people",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/StateandTerritorialData",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "State and Territorial Data",
+	"comment": "Maps and statistics regarding US states and territories",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Superintendents",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Superintendents",
+	"comment": "Administrators attached to Tribal Agencies under the auspices of the Office of Indian Affairs, US Department of the Interior",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TableRockIndianReserveAffairs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Table Rock Indian Reserve Affairs",
+	"comment": "Division of the Bureau of Indian Affairs, US Department of the Interior, involved in administering the Table Rock Indian Reserve.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ThePeaceParty",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "The Peace Party",
+	"comment": "Dakota group active during the Dakota Wars of 1862-1865 who opposed fighting the US government and worked to secure the release of captured Dakota soldiers",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TheWarParty",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "The War Party",
+	"comment": "Dakota group active during the Dakota Wars of 1862-1865 who fought the US government.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Transactions",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Transactions",
+	"comment": "Business deals that usually involve the buying or selling of property of goods",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TribalAffairs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Tribal Affairs",
+	"comment": "Offices administering relations between the US federal government and Native American tribes",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TribalCouncils",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Tribal Councils",
+	"comment": "Governing bodies of Native American tribes",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/NortheasternOregon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Northeastern Oregon",
+	"comment": "Area located east of the Cascade mountains, in the northern part of the State of Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Oregoncoast",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Oregon coast",
+	"comment": "Pacific Ocean coastline and adjacent lands west of the Coastal Cascade mountain range in the State of Oregon",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PacificNorthwest",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Pacific Northwest",
+	"comment": "General area in the northwest of the United States, usually including the states of Washington, Oregon and Idaho. May also refer to areas of Canada along the Pacific coast.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SouthernOregon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	},
+	"label": "Southern Oregon",
+	"comment": "The south half of the State of Oregon.",
+	"modified": {
+	"@value": "2014-05-19",
+	"@type": "date"
+	}
+	},
+
+
 
 
 
