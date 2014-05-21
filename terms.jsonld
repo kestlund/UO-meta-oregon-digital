@@ -1254,6 +1254,133 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/AlaskaYukonmagazine",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	},
+	"label": "Alaska-Yukon magazine",
+	"comment": "Periodical published in Juneau, Alaska, 1905-1912",
+	"modified": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Governmentrelations17891869",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	},
+	"label": "Government relations, 1789-1869",
+	"comment": "Refers to the relationship between the US federal government and the various Native American populations during the years of 1789-1869, the election of George Washington as President to roughly the end of the era of removing Indians from their historic lands and resettling them on reservations.",
+	"modified": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MalheurAgency",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	},
+	"label": "Malheur Agency",
+	"comment": "Division of the US Department of the Interior, Bureau of Indian Affairs, that oversaw the Malheur Indian Reservation in southeast Oregon.",
+	"modified": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/OregonRoundUp",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	},
+	"label": "Oregon Round Up",
+	"comment": "Unidentified rodeo held in Oregon. Differentiated from the Pendleton Round-Up",
+	"modified": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PacificCoastIndians",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	},
+	"label": "Pacific Coast Indians",
+	"comment": "Native Americans living along the coastline and adjacent lands of the United States.",
+	"modified": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PendletonRoundUp",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	},
+	"label": "Pendleton Round-Up",
+	"comment": "A "frontier exhibition of picturesque pastimes, Indian and military spectacles, cowboy racing and bronco busting for the championship of the Northwest.” The rodeo began in 1910 and continues to the present day.",
+	"modified": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/TribalPeoples",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	},
+	"label": "Tribal Peoples",
+	"comment": "Members of a tribal community",
+	"modified": {
+	"@value": "2014-05-21",
+	"@type": "date"
+	}
+	},
+
+
 
 
 
