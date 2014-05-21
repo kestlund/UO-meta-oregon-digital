@@ -28859,7 +28859,7 @@
 	"@type": "date"
 	},
 	"label": "Snake (Horse)",
-	"comment": "Horse riden in the Pendelton Roundup in 1913, Pendleton, Oregon",
+	"comment": "Horse riden in the Pendelton Round-Up in 1913, Pendleton, Oregon",
 	"modified": {
 	"@value": "2014-05-16",
 	"@type": "date"
@@ -29021,7 +29021,7 @@
 	"@type": "date"
 	},
 	"label": "Waltzing Marble (Horse)",
-	"comment": "Horse riden in the Pendelton Roundup, Pendleton, Oregon",
+	"comment": "Horse riden in the Pendelton Round-Up, Pendleton, Oregon",
 	"modified": {
 	"@value": "2014-05-16",
 	"@type": "date"
@@ -29094,7 +29094,7 @@
 	"@type": "date"
 	},
 	"label": "Wringer (Horse)",
-	"comment": "Horse riden in the Pendelton Roundup, Pendleton, Oregon",
+	"comment": "Horse riden in the Pendelton Round-Up, Pendleton, Oregon",
 	"modified": {
 	"@value": "2014-05-16",
 	"@type": "date"
@@ -31239,6 +31239,24 @@
 	},
 
 
+	{
+	"@id": "http://opaquenamespace.org/ns/ApplegateLindsay",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	},
+	"label": "Applegate, Lindsay",
+	"comment": "Pioneered Oregon's Applegate Trail with his brothers Charles and Jesse in 1843. Subsequently Applegate became a U.S. government agent for the Modoc and Klamath Indians.",
+	"date": "1808-1892",
+	"modified": {
+	"@value": "2014-05-20",
+	"@type": "date"
+	}
+	},
 
 
 
