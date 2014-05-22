@@ -35,7 +35,7 @@ subjec: dct:subject
 lc: dct:subject
 people: dct:subject
 corpor: dct:subject
-place: dct:subject
+place: dct:Spatial
 genre: rdag1:formOfWork
 author: mrel:aut
 photog: mrel:pht
@@ -47,14 +47,14 @@ date: dct:issued
 covera: dct:Temporal
 publis: dct: publisher
 datedi: oregon:dateDigitized
-rights: method: rights
+rights: dct:rights
 reposi: dct:isPartOf
 relati: dct:isPartOf
 collec: dct:isPartOf
 additi: dct:HasVersion
 addita: dct:HasVersion
-langua: method: iso_language
-type: mime:type
+langua: dct:language
+type: dct:type
 format: dct:format
 captur: oregon:conversionSpecifications
 file: rdag1:fileSize
