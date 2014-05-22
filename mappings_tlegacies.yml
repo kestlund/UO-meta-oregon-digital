@@ -34,14 +34,14 @@ cultur: vra:culture
 organi: dct:description
 date: dct:Temporal
 time: dct:Temporal
-langua: method: iso_language
+langua: dct:language
 lc: dct:subject
 subjec: dct:subject
 descri: dct:description
 descra: dct:description
 geogra: dct:Spatial
 work: vra:workType      
-type: mime:type
+type: dct:type
 format: dct:format
 reposi: dct:IsPartOf
 identi: dct:identifier
@@ -49,7 +49,7 @@ size: dct:description
 number: dct:description
 nwda: oad:has_findingAid
 additi: # SKIP
-rights: method:rights
+rights: dct:rights
 catala: # SKIP
 repres: # SKIP
 publis: dct:publisher
