@@ -32,17 +32,17 @@ corpor: dct:subject
 creato: dct:creator
 publis: dct:publisher
 date: dct:date
-type: mime:type
+type: dct:type
 format: dct:format
 identi: dct:identifier
 source: daia:label
-langua: method: iso_language
+langua: dct:language
 collec: dct:IsPartOf
 collea: dct:IsPartOf
 collea: oad:has_findingAid
 box: dct:isPartOf
 folder: dct:isPartOf
-rights: method: rights
+rights: dct:rights
 full: oregon:fullText
 datedi: oregon:dateDigitized
 proces: oregon:conversionSpecifications
