@@ -35,12 +35,12 @@ descri: dct:description
 subjec: dct:subject
 names: dct:subject
 corpor: dct:subject
-covera: dct:subject
+covera: dct:Spatial
 sub: dct:subject
 temp: dct:subject
 creato: dct:creator
 data: oregon:cco/viewDate
-rights: method:rights
+rights: dct:rights
 reposi: dct:IsPartOf
 relati: dct:IsPartOf
 collec: dct:IsPartOf
@@ -48,7 +48,7 @@ collea: oad:has_findingAid
 sourca: dct:source
 source: dct:source
 sourcb: schema:itemCondition
-type: mime:type
+type: dct:type
 image: dct:extent
 format: dct:format
 imagd: exif:width
