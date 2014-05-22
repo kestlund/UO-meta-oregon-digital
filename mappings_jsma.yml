@@ -20,8 +20,7 @@
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
   geosp: "http://rdf.geospecies.org/ont/geospecies#"
-  nfo:http://www.semanticdesktop.org/ontologies/2007/03/22/nfo/v1.2/ 
-
+  nfo: "http://www.semanticdesktop.org/ontologies/2007/03/22/nfo/v1.2/"
   #
   # jsma
   #
@@ -36,11 +35,11 @@ measur: vra:measurements
 catego: dct:description
 descri: dct:description
 notes: modsref:note
-type: mime:type
+type: dct:type
 format: dct:format
-rights: method:rights	
+rights: dct:rights	
 collec: dct:IsPartOf
-source: dct:source
+source: dct:IsPartOf
 identi: dct:identifier
 museum: # SKIP
 digita: oregon:isPartOf/set
