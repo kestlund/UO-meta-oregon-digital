@@ -35,13 +35,13 @@ relati: schema:citation
 publis: dct:publisher
 contri: dct:contributor
 date: dct:issued
-type: mime:type
+type: dct:type
 format: dct:format
 identi: dct:identifier
 data: oregon:dateDigitized
 source: daia:label
-langua: method: iso_language
-rights: method: rights
+langua: dct:language
+rights: dct:rights
 proces: oregon:conversionSpecifications
 notes: modsref:note
 metada: # SKIP
