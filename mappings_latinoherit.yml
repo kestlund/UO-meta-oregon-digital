@@ -25,13 +25,13 @@ namespaces:
   #
   # latinoherit
   #
-title: dct: title
-descri: dct: description
+title: dct:title
+descri: dct:description
 subjec: dct:subject
-creato: dct: creator (empty field)
+creato: dct:creator (empty field)
 photog: # SKIP (empty field, merge with above)
-covera: method: geographic (empty field)
-date: dct: date
+covera: dc:Spatial(empty field)
+date: dct:date
 contri: dct:contributor (empty field)
 relate: dct:HasVersion
 source: # SKIP (empty field, merge with collec- title of collection)
@@ -39,12 +39,12 @@ reposi: dct:IsPartOf   (SCUA)
 collec: dct:source   (collection name)
 collea: dct:identifier  (collection ID)
 relati: dct:IsPartOf    (series in collection)
-identi: dct: identifier
-donor: rdvocab: donor   (can use dct: contributor again)
+identi: dct:identifier
+donor: rdvocab:donor   (can use dct:contributor again)
 format: dct:format
-type: mime:type
-langua: method: iso_language
-rights: method:rights
+type: dct:type
+langua: dct:language
+rights: dct:rights
 publis: dct:publisher
 digiti: oregon:conversionSpecifications
 digita: oregon:IsPartOf/set
