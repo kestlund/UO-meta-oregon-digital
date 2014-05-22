@@ -54,8 +54,8 @@ sourca: dct:provenance # source of slide, look for repository/collection
 source: dct:source #source and sourcea are used interchangably Merge? 
 sourcb: daia:label
 publis: dct:publisher
-rights: method:rights
-type: mime:type
+rights: dct:rights
+type: dct:type
 format: dct:format
 identi: dct:identifier
 techni: oregon:conversionSpecifications
