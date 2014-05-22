@@ -35,23 +35,23 @@ descri: dct:description
 series: dct:subject
 names: dct:subject
 corpor: dct:subject
-covera:dct:Spatial
+covera: dct:Spatial
 lc: dct:subject
 subjec: dct:subject
 photog: dct:creator
 date: dct:date
 reposi: dct:IsPartOf
 collec: dct:IsPartOf
-source: dcterm:IsPartOf
+source: dct:IsPartOf
 album: dct:IsPartOf
 admin: dct:source
-type: mime:type
+type: dc:type
 format: dct:format
 scan: oregon:conversionSpecifications
 metada: # SKIP
 catala: # SKIP
 catalo: # SKIP
-rights: method:rights	
+rights: dct:rights	
 proven: dct:provenance
 relate: dct:IsVersionOf
 bandin: # SKIP
