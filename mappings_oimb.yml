@@ -25,11 +25,11 @@ slide: # SKIP
 date: dct:date
 catalo: # SKIP
 local: dct:IsPartOf
-type: mime:type
+type: dct:type
 format: dct:format
 identi: dct:identifier
-rights: method:rights
-digita: oregon:isPartOf/set
+rights: dct:rights
+digita: dct:IsPartOf
 sourca: # SKIP
 contri: oregon:contributingInstitution
 
