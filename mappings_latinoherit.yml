@@ -20,7 +20,7 @@ namespaces:
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
   geosp: "http://rdf.geospecies.org/ont/geospecies#"
-  rdvocab: "http://rdvocab.info/roles"       (not sure if correct URL)
+  rdvocab: "http://rdvocab.info/roles"       not sure if correct URL)
   
   #
   # latinoherit
