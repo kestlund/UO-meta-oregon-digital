@@ -49,13 +49,13 @@ refere: schema:citation
 notes: modsref:note
 creatb: modsref:note
 metada: modsref:note # are these important for public?
-digita: oregon:isPartOf/set
+digita: dct:isPartOf
 sourca: dct:provenance # source of slide, look for repository/collection
 source: 
 souceb: 
 publis: dct:publisher
-rights: method: rights
-type: mime:type
+rights: dct: rights
+type: dct:type
 format: dct:format
 identi: dct:identifier
 techni: # look up other ones
