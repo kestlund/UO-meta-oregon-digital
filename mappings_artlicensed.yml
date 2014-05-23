@@ -22,7 +22,7 @@
   exif: "http://www.w3.org/2003/12/exif/ns"
 
   #
-  # artimages
+  # artlicensed
   #
 title: dct:title
 view: oregon:cco/viewDescription
@@ -36,10 +36,10 @@ materi: vra:materials
 measur: vra:measurements
 style: vra:stylePeriod
 cultur: vra:culture
-reposi: dct:source #or mrel:rps
+reposi: dct:source  #or mrel:rps
 reposa: vra:idCurrentRepository
 city: method:geographic
-country: method:geographic
+countr: method:geographic
 site: dct:spatial
 work: vra:workType
 inscri: vra:inscription
@@ -52,14 +52,14 @@ larger: dct:isPartOf
 source: dct:source
 sourca: #SKIP source caption
 sourcb: dct:isPartOf
-sourcc: #SKIP source id, only useful for Meggs set of >50 images
+sourcc: dct:identifier   #not necessarily the same as identifier
 vrc: daia:label
 rights: dct: rights
 record: #SKIP
 type: mime:type
 identi: dct:identifier
 vrca: daia:label
-course: modsrdf:note #or skip
+course: modsrdf:note  #or skip
 sessio: #SKIP
 projec: #SKIP
 projea: #SKIP
