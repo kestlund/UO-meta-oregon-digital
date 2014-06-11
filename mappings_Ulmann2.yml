@@ -32,26 +32,26 @@ title: dct:title
 sourca: # SKIP
 old: dct:Alternative
 descri: dct:description
-series: dct:subject
-names: dct:subject
-corpor: dct:subject
+series: method:lc
+names: method:lc
+corpor: method:lc
 covera: dct:Spatial
-lc: dct:subject
-subjec: dct:subject
+lc: method:lc
+subjec: method:lc
 photog: dct:creator
-date: dct:date
+date: method:date
 reposi: dct:IsPartOf
 collec: dct:IsPartOf
 source: dct:IsPartOf
 album: dct:IsPartOf
 admin: dct:source
-type: dc:type
-format: dct:format
+type: method:type
+format: method:format
 scan: oregon:conversionSpecifications
 metada: # SKIP
 catala: # SKIP
 catalo: # SKIP
-rights: dct:rights	
+rights: method:rights	
 proven: dct:provenance
 relate: dct:IsVersionOf
 bandin: # SKIP
