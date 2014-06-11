@@ -1,0 +1,35 @@
+dct: "http://purl.org/dc/terms/"
+dct: "http://purl.org/dc/elements/1.1/"
+dct: "http://rs.tdwg.org/dwc/"
+oregon: "http://tom.oregonstate.edu/"
+
+#
+# oimb
+#
+
+title: dct:identifier
+subjec: dct:title
+source: daia:label
+subjec: method:subject (ITIS, uBio, LC)
+sub:	method:subject (ITIS, uBio, Geonames, LC)
+phlyum:	dwc:phlyum 	(ITIS and uBio)
+class: 	dwc:class	(ITIS)
+suba: dwc:genus 
+suba: dwc:species
+common: dwc:vernacularName
+descri: dct:description
+covra: dct:Spatial
+creato: dct:creator
+id: dwc:identificationVerificationStatus
+slide: # SKIP
+date: method:date
+catalo: # SKIP
+local: dct:IsPartOf
+type: method:type
+format: method:format
+identi: dct:identifier
+rights: method:rights
+digita: oregon:isPartOf/set
+sourca: # SKIP
+contri: oregon:contributingInstitution
+
