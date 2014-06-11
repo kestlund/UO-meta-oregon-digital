@@ -31,8 +31,8 @@ namespaces:
   #
 title: dct: title
 creato: dct: creator
-subjec: dct:subject
-buildi: dct:subject
+subjec: method:lc
+buildi: dct:subject (not sure if some of these will have CVs)
 event: dct:subject
 descri: dct:description
 season: dct:subject
@@ -40,9 +40,9 @@ genre:  dct:subject
 note: modsref:note
 people: dct:subject
 publis: dct:publisher
-date: dct:date
-type: dct:type
-format: dct:format
+date: method:date
+type: method:type
+format: method:format
 photo:  modsref:note (orientation of photo- ok?)
 phota: rdag1:colourContent 
 identi: dct:identifier
@@ -51,7 +51,7 @@ relati: dct:IsPartOf
 donor: dct:contributor
 proces: oregon:conversionSpecifications
 data: oregon:dateDigitized 
-rights: dct:rights
+rights: method:rights
 metada: # SKIP
 scanni: # SKIP
 catalo: # SKIP
