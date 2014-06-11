@@ -1,0 +1,75 @@
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  dct: "http://purl.org/dc/terms/"
+  dct: "http://purl.org/dc/elements/1.1/"
+  bibo: "http://purl.org/ontology/bibo/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  geo: "http://www.w3.org/2003/01/geo/wgs84_pos#"
+  frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
+  mads: "http://www.loc.gov/mads/rdf/v1#"
+  marcrel: "http://id.loc.gov/vocabulary/relators/"
+  modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
+  premis: "http://www.loc.gov/premis/rdf/v1#"
+  oregon: "http://tom.oregonstate.edu/"
+  vra: “http://purl.org/vra/”
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"
+  schema: "http://schema.org/"
+  iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
+  daia: "http://uri.gbv.de/ontology/daia/"
+  exif: "http://www.w3.org/2003/12/exif/ns"
+  geosp: "http://rdf.geospecies.org/ont/geospecies#"
+
+  #
+  # wwdl
+  #
+identi: dct:identifier
+title: dct:title
+book: dct:isPartOf
+titla: dct:alternative
+descri: dct:description
+pagina: schema:numberOfPages
+citati: schema:citation
+subjec: method:lc (lc and tgm)
+lc: method:lc
+people: method:lc (lcnaf)
+corpor: method:lc (lcnaf) 
+place: method:geonames (not sure if right- was mapped to subject field)
+genre: rdag1:formOfWork
+author: mrel:aut
+photog: mrel:pht
+cartog: mrel:ctg
+illust: mrel:ill
+creato: dct:contributor
+previo: # SKIP (in the citation)
+date: dct:issued
+covera: dct:Temporal
+publis: dct:publisher
+datedi: oregon:dateDigitized
+rights: method:rights
+reposi: dct:isPartOf
+relati: dct:isPartOf
+collec: dct:isPartOf
+additi: dct:HasVersion
+addita: dct:HasVersion
+langua: method:language
+type: method:type
+format: method:format
+captur: oregon:conversionSpecifications
+file: rdag1:fileSize
+image: exif:width
+imaga: exif:height
+color: exif:colorSpace
+resolu: exif:resolution
+digita: # SKIP
+metada: # SKIP
+imagb: # SKIP
+imagc: # SKIP
+full: oregon:fullText
+link: dct:relation
+contra: oregon:contributingInstitution
+catalo: # SKIP
+load: # SKIP
+digitb: oregon:isPartOf/set
+fulla: oregon:  #TBD; full PDFs download
