@@ -33,12 +33,12 @@ editio: dct:title
 notes: modsref:note
 descri: dct:description
 contri: schema:editor
-type: dct:type
-format: dct:format
+type: method:type
+format: method:format
 identi: dct:identifier
-langua: dct:language
+langua: method:language
 relati: dct:relation
-rights: dct:rights
+rights: method:rights
 full: oregon:fullText
 metada: # SKIP
 digita: oregon:isPartOf/set
