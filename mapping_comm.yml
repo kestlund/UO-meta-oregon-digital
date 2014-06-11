@@ -25,24 +25,24 @@ namespaces:
   #
   # comm
   #
-title: dct: identifier
-titlb: dct: title
-descri: dct: description
-identi: dct: Alternative
-date: dct: date
-covera: method: geographic
-creato: dct: creator
-person: dct:subject
-subjec: dct:subject
-relati: dct: IsPartOf
-collec: daia: label (for collection ID number- needed?)
-sourca: daia: label
+title: dct:identifier
+titlb: dct:title
+descri: dct:description
+identi: dct:Alternative
+date: method:date
+covera: dct:Spatial
+creato: dct:creator
+person: method:lc (lcnaf)
+subjec: method:lc
+relati: dct:IsPartOf
+collec: daia:label (for collection ID number- needed?)
+sourca: daia:label
 source: vra:medium
-type: dct:type
+type: method:type
 publis: dct:publisher
 donor: dct:contributor
-rights: dct:rights
-format: dct:format
+rights: method:rights
+format: method:format
 date: oregon:dateDigitized 
 captur: oregon:conversionSpecifications
 metadata: # SKIP
