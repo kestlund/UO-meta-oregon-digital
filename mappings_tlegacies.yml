@@ -32,24 +32,24 @@ altern: dct:Alternative
 creato: dct:creator
 cultur: vra:culture
 organi: dct:description
-date: dct:Temporal
+date: method:date
 time: dct:Temporal
-langua: dct:language
-lc: dct:subject
+langua: method:language
+lc: method:lc
 subjec: dct:subject
 descri: dct:description
 descra: dct:description
 geogra: dct:Spatial
 work: vra:workType      
-type: dct:type
-format: dct:format
+type: method:type
+format: method:format
 reposi: dct:IsPartOf
 identi: dct:identifier
 size: dct:description
 number: dct:description
 nwda: oad:has_findingAid
 additi: # SKIP
-rights: dct:rights
+rights: method:rights
 catala: # SKIP
 repres: # SKIP
 publis: dct:publisher
