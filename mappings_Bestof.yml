@@ -28,29 +28,29 @@
   #
   # Bestof
   #
-title: dct:identifier
-additb: dct:identifier
+title: method:IDasTitle 
+additb: method:IDasTitle
 descra: dct:Alternative
 descri: dct:description
-subjec: dct:subject
-names: dct:subject
-corpor: dct:subject
+subjec: method:lc
+names: method:lc (lcnaf)
+corpor: method:lc
 covera: dct:Spatial
-sub: dct:subject
-temp: dct:subject
+sub: method:lc (tgm)
+temp: method:lc 
 creato: dct:creator
 data: oregon:cco/viewDate
 rights: dct:rights
-reposi: dct:IsPartOf
-relati: dct:IsPartOf
+reposi: marcrel:repository
+relati: dct:IsPartOf (might create a method tag for sub collections)
 collec: dct:IsPartOf
 collea: oad:has_findingAid
-sourca: dct:source
-source: dct:source
+sourca: dct:extent
+source: method:format
 sourcb: schema:itemCondition
-type: dct:type
+type: method:type
 image: dct:extent
-format: dct:format
+format: method:format
 imagd: exif:width
 imagc: exif:height
 color: exif:colorSpace
