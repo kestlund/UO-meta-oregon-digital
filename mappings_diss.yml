@@ -24,24 +24,24 @@
   #
   # diss
   #
-title: dct:title
-creato: dct:creator
-subjec: dct:subject
+title: dct:title (some French titles)
+creato: method:lc (lcnaf for author)
+subjec: method:lc (merge lc and MeSH)
 descri: dct:description
-subjea: dct:subject
-descra: dct:description
-journa: swpo:containedInJournal
-relati: schema:citation
+subjea: dct:subject (French)
+descra: dct:description  (French)
+journa: swpo:containedInJournal  (some French titles)
+relati: schema:citation   (some French titles)
 publis: dct:publisher
 contri: dct:contributor
 date: dct:issued
-type: dct:type
-format: dct:format
+type: method:type
+format: method:format
 identi: dct:identifier
 data: oregon:dateDigitized
 source: daia:label
-langua: dct:language
-rights: dct:rights
+langua: method:language
+rights: method:rights
 proces: oregon:conversionSpecifications
 notes: modsref:note
 metada: # SKIP
