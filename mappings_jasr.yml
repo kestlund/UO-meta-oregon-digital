@@ -21,28 +21,28 @@
   exif: "http://www.w3.org/2003/12/exif/ns"
   geosp: "http://rdf.geospecies.org/ont/geospecies#"
 
-  #
+ #
   # jasr
   #
-title: dct:isPartOf
+title: dct:title
 covera: dct:temporal
 datea: # SKIP
-subjec: dct:subject
-corpor: dct:subject
+subjec: method:lc
+corpor: method:lc
 creato: dct:creator
 publis: dct:publisher
-date: dct:date
-type: dct:type
-format: dct:format
+date: method:date
+type: method:type
+format: method:format
 identi: dct:identifier
 source: daia:label
-langua: dct:language
+langua: method:language
 collec: dct:IsPartOf
 collea: dct:IsPartOf
 collea: oad:has_findingAid
-box: dct:isPartOf
-folder: dct:isPartOf
-rights: dct:rights
+box: # SKIP
+folder: # SKIP
+rights: method:rights
 full: oregon:fullText
 datedi: oregon:dateDigitized
 proces: oregon:conversionSpecifications
