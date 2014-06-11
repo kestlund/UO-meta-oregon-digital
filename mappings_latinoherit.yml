@@ -27,11 +27,11 @@ namespaces:
   #
 title: dct:title
 descri: dct:description
-subjec: dct:subject
+subjec: method:lc (merge for lc, getty, tgm)
 creato: dct:creator (empty field)
 photog: # SKIP (empty field, merge with above)
-covera: dc:Spatial(empty field)
-date: dct:date
+covera: method:geographic (empty field)
+date: method:date
 contri: dct:contributor (empty field)
 relate: dct:HasVersion
 source: # SKIP (empty field, merge with collec- title of collection)
@@ -40,11 +40,11 @@ collec: dct:source   (collection name)
 collea: dct:identifier  (collection ID)
 relati: dct:IsPartOf    (series in collection)
 identi: dct:identifier
-donor: rdvocab:donor   (can use dct:contributor again)
-format: dct:format
-type: dct:type
-langua: dct:language
-rights: dct:rights
+donor: rdvocab: donor   (can use dct: contributor again)
+format: method:format
+type: method:type
+langua: method:language
+rights: method:rights
 publis: dct:publisher
 digiti: oregon:conversionSpecifications
 digita: oregon:IsPartOf/set
