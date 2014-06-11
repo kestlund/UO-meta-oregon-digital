@@ -28,11 +28,11 @@ title: dct:title
 view: oregon:cco/viewDescription
 varian: dct:alternative
 relate: dct:isPartOf
-creato: oregon:cco/creatorDisplay
+creato: oregon:cco/creatorDisplay (need json.ld files)
 creata: dct:creator
 date: method:date
 covra: dct:temporal
-city: method:geographic
+city: method:geographic (merge all geographic)
 county: method:geographic
 state: method:geographic
 countr: method:geographic
@@ -54,7 +54,7 @@ sourca: dct:source # source of slide, look for repository/collection
 source: dct:source #source and sourcea are used interchangably Merge? 
 sourcb: daia:label
 publis: dct:publisher
-rights: dct:rights
+rights: method:rights
 type: dct:type
 format: dct:format
 identi: dct:identifier
