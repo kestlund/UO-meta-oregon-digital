@@ -27,6 +27,9 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   #
   # percent
   #
+    #
+  # percent
+  #
   projea:  swpo:forProject
   projec:  dct:isPartOf
   identi: dct:isPartOf
@@ -38,36 +41,36 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   descra: dct:description
   dscri: modsref:note
   artist: dct:description
-  lc: dct:subject
-  aat: dct:subject
-  place: dct:subject
-  people: dct:subject
-  creato: dct:creator
+  lc: method:lc
+  aat: method:aat
+  place: dct:Spatial (mapped to sub in CDM)
+  people: method:lc (lcnaf) 
+  creato: dct:creator (lcnaf and ulan)
   artisb: modsref:note
   artisa: modsref:note
   artisc: dct:relation
   region: modsref:note
-  data: dct:date
-  date: dct:date
+  data: method:date
+  date: method:date
   commis: dct:description
-  datb: dct:date
+  datb: method:date
   instal: dct:description
   format: vra:workType
   artwor: vra:measurements
   materi: vra:materials
-  source: dct:format (source format)
+  source: method:format (source format)
   sourcb:  dct:Extent (source obj dimensions)
   artwob: dct:Spatial (artwork site)
   locati: dct:Spatial (extact site)
   covera: dct:Spatial (address)
   artwoc: dct:Spatial (county)
   artwod: dct:relation
-  langua: dct:language
+  langua: method:language
   titla: oregon:cco/viewDescription
   digita: oregon:dateDigitized
   captur: oregon:conversionSpecification
-  type: dct:type
-  formaa: dct:format
+  type: method:type
+  formaa: method:format
   digitb: dct:Extent
   color: exif:colorSpace
   imaga: method:processing_history
@@ -77,7 +80,7 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   image: #SKIP (image scanner)
   catalo: #SKIP (cataloging status)
   load: #SKIP (load date)
-  rights: dct:rights
+  rights: method:rights
   contri: dct:contributor
   publis: dct:publisher
   collec: oregon:isPartOf/set
