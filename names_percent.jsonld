@@ -1,0 +1,5926 @@
+{
+  "@context": {
+    "title": "http://purl.org/dc/terms/title",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+    "description": "http://purl.org/dc/terms/description",
+    "isPartOf": "http://purl.org/dc/terms/isPartOf",
+    "publisher": "http://purl.org/dc/terms/publisher",
+    "modified": "http://purl.org/dc/terms/modified",
+    "issued": "http://purl.org/dc/terms/issued",
+    "Collection": "http://purl.org/dc/terms/Collection",
+    "definedBy": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+    "range": "http://www.w3.org/2000/01/rdf-schema#range",
+    "domain": "http://www.w3.org/2000/01/rdf-schema#domain",
+    "date": "http://www.w3.org/2001/XMLSchema#date",
+    "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+    "Class": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Class",
+    "subPropertyOf": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
+    "Organization": "http://xmlns.com/foaf/0.1/Organization",
+    "Concept": "http://www.w3.org/2004/02/skos/core#Concept",
+    "@language": "en",
+	  "additionalName": "http://schema.org/additionalName",
+	  "date": "http://purl.org/dc/elements/1.1/date",
+
+  },
+  "@graph": [
+    {
+      "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt",
+      "modified": {
+        "@value": "2013-12-16",
+        "@type": "date"
+      },
+      "publisher": "Opaque Namespace",
+      "title": "VOCAB_PLACEHOLDER"
+    },
+    
+{
+"@id": "http://opaquenamespace.org/ns/AbrahamsonMark",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-06-13",
+"@type": "date"
+},
+"label": "Abrahamson, Mark",
+"comment": "Artist.",
+"modified": {
+"@value": "2014-06-13",
+"@type": "date"
+}
+},
+
+{
+"@id": "http://opaquenamespace.org/ns/AbrahamsonMark”,
+"@type": "Property”,
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-06-13”,
+"@type": "date"
+},
+"label": "Abrahamson,Mark”,
+"comment": "Artist.”,
+"modified": {
+"@value": "2014-06-13”,
+"@type": "date"
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/AdamsJim”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Adams,Jim”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+
+{
+“@id”: “http://opaquenamespace.org/ns/AikenJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Aiken,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+
+{
+“@id”: “http://opaquenamespace.org/ns/AlkireDyann”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Alkire,Dyann”,
+”comment”: “Artist.”,
+
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/AllaraMaxwell”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Allara,Maxwell”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/AllenBonnie”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Allen,Bonnie”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/AltfasJules”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Altfas,Jules”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/AndersonElizabeth”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Anderson,Elizabeth”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/AndersonThomas”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Anderson,Thomas”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+
+{
+“@id”: “http://opaquenamespace.org/ns/AndolinaGary”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Andolina,Gary”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ArchibaldJack”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Archibald,Jack”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BaileyMark”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bailey,Mark”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BakerPam”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Baker,Pam”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BarrRoger”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Barr,Roger”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BartonTodd”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Barton,Todd”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BauerMarlene”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bauer,Marlene”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BauguessJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bauguess,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BayardAllenB.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bayard,Allen B.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BeattySteven”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Beatty,Steven”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BeemanPete”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Beeman,Pete”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BeersDebra”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Beers,Debra”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BellLillian”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bell,Lillian”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BennettHarry”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bennett,Harry”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BennettPaul”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bennett,Paul”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BensonAndrea”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Benson,Andrea”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BeyettePam”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Beyette,Pam”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BiggsFrank”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Biggs,Frank”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BitarHelen”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bitar,Helen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BlakleyLloydS.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Blakley,Lloyd S.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BlombergCecilia”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Blomberg,Cecilia”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BondHal”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bond,Hal”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BrintonElizabeth”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Brinton,Elizabeth”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BrockmannRuth”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Brockmann,Ruth”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BrookhartCarolyn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Brookhart,Carolyn”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BrownClint”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Brown,Clint”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BuchananCaroline”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Buchanan,Caroline”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BucknerPaul”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Buckner,Paul”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BuhlerGary”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Buhler,Gary”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/BustamanteCody”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Bustamante,Cody,1955-”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CainSean”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cain,Sean”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CalvoRobert”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Calvo,Robert”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CampbellKay”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Campbell,Kay”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CaprarioKathleen”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Caprario,Kathleen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CareyOwen”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Carey,Owen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CaronSidonie”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Caron,Sidonie”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CarpenterJamesFraser”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Carpenter,James Fraser”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CarrascoPriscilla”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Carrasco,Priscilla”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CaseyJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Casey,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CasidaKati”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Casida,Kati”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CaveClaudia”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cave,Claudia”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ChabreWayne”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Chabre,Wayne”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ChildersRussell”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Childers,Russell”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ClayHuffman”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Clay Huffman”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ClevelandSally”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cleveland,Sally”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CoeMargaret”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Coe,Margaret”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ColeBets”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cole,Bets”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ColeCarolyn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cole,Carolyn”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ColePhoebe”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cole,Phoebe”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ColemanTom”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Coleman,Tom”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ComerfordSusan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Comerford,Susan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CookLin”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cook,Lin”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CookeJudy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cooke,Judy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CooksonJayne”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cookson,Jayne”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CourtneyNorman”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Courtney,Norman”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CoxAllen”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cox,Allen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/CrusonJonJay”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Cruson,Jon Jay”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/DahlkeDon”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Dahlke,Don”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/DavidsonGwen”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Davidson,Gwen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/DenteMichael”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Dente,Michael”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/DoleMary”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Dole,Mary”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/DoulisYianni”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Doulis,Yianni”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/DuryeaSuzanne”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Duryea,Suzanne,1947-”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/EcklandDon”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Eckland,Don”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/EdwardsGarth”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Edwards,Garth”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/EiswerthBarbaraJ.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Eiswerth,Barbara J.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ElliottRichardC.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Elliott,Richard C.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ErcegJoe”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Erceg,Joe”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ErskineNanci”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Erskine,Nanci”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/EthierLinda”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Ethier,Linda”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FashbaughMarilyn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Fashbaugh,Marilyn”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FawkesTom”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Fawkes,Tom”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FeatherLonnie”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Feather,Lonnie”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FenterJerryAnn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Fenter,Jerry Ann”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FieldDevinLaurence”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Field,Devin Laurence”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FlugPrindi”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Flug,Prindi”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ForsgrenJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Forsgren,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FowlerConstance”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Fowler,Constance”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FrenchKay”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “French,Kay”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/FriedmanAaron”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Friedman,Aaron”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GaffinJoyce”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gaffin,Joyce”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GerlachPatricia”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gerlach,Patricia”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GilsonBarbara”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gilson,Barbara,1956-”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GivlerBill”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Givler,Bill”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GoldbloomBrian”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Goldbloom,Brian”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GonzalezHumberto”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gonzalez,Humberto”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GordinierWalt”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gordinier,Walt”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GovedareVirginia”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Govedare,Virginia”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GraffRon”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Graff,Ron”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GrayDon”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gray,Don”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GreaverHanne”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Greaver,Hanne”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GrimmJereGrimRay”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Grimm,Jere Grim,Ray”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GrosowskyAdam”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Grosowsky,Adam”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GundersonBarry”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gunderson,Barry”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GundleBarbaraF.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gundle,Barbara F.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GunnJef”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Gunn,Jef”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GuskeJennifer”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Guske,Jennifer”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/GuzakKarenGuzakChris”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Guzak,Karen Guzak,Chris”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HaidleDavid”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Haidle,David”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HaleySally”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Haley,Sally”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HallBonnie”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hall,Bonnie”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HamiltonGeorge”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hamilton,George”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HamiltonSatsuko”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hamilton,Satsuko”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HanneganCharles”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hannegan,Charles”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HansonRobert”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hanson,Robert”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HardestyDavid”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hardesty,David”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HarrisonJames”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Harrison,James”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HayesStephen”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hayes,Stephen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HazelStephen”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hazel,Stephen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HeidelFrederick”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Heidel,Frederick”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HeldSheila”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Held,Sheila”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HelzerPeter”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Helzer,Peter”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HibbardJames”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hibbard,James”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HigginsArthur”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Higgins,Arthur”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HigginsonMarilyn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Higginson,Marilyn”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HodgesDelbertLoyd”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hodges,Delbert Loyd,1940-1999”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HoffmanKim”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hoffman,Kim”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HollisDouglas”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hollis,Douglas”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HolmanMack”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Holman,Mack”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HolmesCraig”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Holmes,Craig”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HowardJudy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Howard,Judy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HuckRobert”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Huck,Robert”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HugheyJohnH.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hughey,John H.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HuhnWendyC.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Huhn,Wendy C.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HuntLee”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hunt,Lee”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/HymanAnnWilliamson”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Hyman,Ann Williamson”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/IbachDick”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Ibach,Dick”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ImonenLeeC.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Imonen,Lee C.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/IversonJerry”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Iverson,Jerry”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JacobrownCraig”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Jacobrown,Craig”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JacobsonStuart”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Jacobson,Stuart”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JellumKeith”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Jellum,Keith”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JiangLinXia”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Jiang,Lin Xia”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JohansenMargaret”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Johansen,Margaret”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JohansonGeorge”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Johanson,George”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JohnsonAnneGriffin”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Johnson,Anne Griffin”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JordanShelley”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Jordan,Shelley”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JosephsonMary”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Josephson,Mary”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JoyceDavid”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Joyce,David”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JoyceJennifer”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Joyce,Jennifer”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/JoyceKacey”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Joyce,Kacey”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KadarKevin”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kadar,Kevin”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KahnNed”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kahn,Ned”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KasalRobert”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kasal,Robert”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KasermanRoberta”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kaserman,Roberta”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KatzMel”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Katz,Mel”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KellerMyla”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Keller,Myla”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KellyCharles”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kelly,Charles”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KernsMaryDavies”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kerns,Mary Davies”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KillmasterJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Killmaster,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KingRay”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “King,Ray”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KirkJames”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kirk,James”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KochRandall”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Koch,Randall”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KodisLouise”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kodis,Louise”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KowertHank”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kowert,Hank”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KrolLorraine”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Krol,Lorraine”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/KuchaBill”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Kucha,Bill”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LambertColin”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Lambert,Colin”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+
+{
+“@id”: “http://opaquenamespace.org/ns/LaursenJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Laursen,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LawHoratioHung-Yan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Law,Horatio Hung-Yan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LaycockRichard”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Laycock,Richard”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LessickHelen”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Lessick,Helen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LewisSteven”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Lewis,Steven”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LiepeMadeleineR.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Liepe,Madeleine R.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LindseySusan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Lindsey,Susan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LittleLanny”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Little,Lanny”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/Loch-ElvertRegina”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Loch-Elvert,Regina”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LockettCarolyn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Lockett,Carolyn”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/LymanMarie”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Lyman,Marie”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MaccaJoe”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Macca,Joe”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MapelliLiz”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Mapelli,Liz”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MartensChristianeT.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Martens,Christiane T.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MathewsGraysonLane”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Mathews,Grayson Lane”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MatoushLyle”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Matoush,Lyle”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MattinglyJames”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Mattingly,James (Jim)”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MayDan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “May,Dan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/McCaffertyMargo”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “McCafferty,Margo”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/McCorkleMeryLynn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “McCorkle,Mery Lynn”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/McCullochMichael”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “McCulloch,Michael”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/McIntireScott”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “McIntire,Scott”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MeeNancy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Mee,Nancy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MeehanHoward”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Meehan,Howard”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MerktDon”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Merkt,Don”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MerskyDeborah”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Mersky,Deborah”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MillerRobert”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Miller,Robert”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MillerThomas”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Miller,Thomas”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MollicaPeter”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Mollica,Peter”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MonnerAlfred”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Monner,Alfred”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MontenegroErnest”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Montenegro,Ernest”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MooneyChristopherB.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Mooney,Christopher B.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MooreWilliam(Bill)”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Moore,William (Bill)”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MorandiThomas(Tom”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Morandi,Thomas (Tom”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MorrisonIvan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Morrison,Ivan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MuellerMark”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Mueller,Mark”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MullerRichard”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Muller,Richard”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/MuraseScottD.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Murase,Scott D.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/Nance-SasserLynandNance-SasserSteven”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Nance-Sasser,Lyn and Nance-Sasser,Steven”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/NebekerRoyal”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Nebeker,Royal”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/NeevelPaul”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Neevel,Paul”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/NeuenschwanderRonna”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Neuenschwander,Ronna”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/NewcombGerry”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Newcomb,Gerry”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/NezDavid”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Nez,David”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/Nguyen-ElyDarlene”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Nguyen-Ely,Darlene”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/OhlsonPeggy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Ohlson,Peggy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/O'NeillTim”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “O'Neill,Tim”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/O'ReillyJulia”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “O'Reilly,Julia”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/OttoCurtis”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Otto,Curtis”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PadgettWalt”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Padgett,Walt”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PagenGeoffrey”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Pagen,Geoffrey”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ParkWilliam”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Park,William”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ParkinsonTrude”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Parkinson,Trude”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ParmeterDouglas”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Parmeter,Douglas”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PatriePam”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Patrie,Pam”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PelznerBarry”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Pelzner,Barry”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PendergrassChristine”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Pendergrass,Christine”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PerkinsDanny”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Perkins,Danny”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PetersGeorge”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Peters,George”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PhillipsMichael”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Phillips,Michael”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PickettBarbaraSetsu”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Pickett,Barbara Setsu”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PitkinOrleonok”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Pitkin,Orleonok”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PobanzNancy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Pobanz,Nancy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PowellBrittany”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Powell,Brittany”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PowellDan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Powell,Dan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/PrenticeMargaret”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Prentice,Margaret”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ProchaskaThomas”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Prochaska,Thomas”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/QuigleyEd”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Quigley,Ed”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RathbunR.Keaney”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Rathbun,R. Keaney”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ReedCheryl”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Reed,Cheryl”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RileyCarol”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Riley,Carol”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RitchieBill”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Ritchie,Bill”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RobertMarilyn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Robert,Marilyn”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RobinsonGerald”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Robinson,Gerald”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RockJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Rock,John,1919-1993”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RogersJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Rogers,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RogowskiGary”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Rogowski,Gary”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RoseJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Rose,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RosenbergMarvin”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Rosenberg,Marvin”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/Ross-PaulLaura”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Ross-Paul,Laura”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RuddTom”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Rudd,Tom”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RunquistAlbert”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Runquist,Albert”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RunquistArthur”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Runquist,Arthur”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RussellJamesT.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Russell,James T.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RussoKaren”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Russo,Karen”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/RylandLoriUnis”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Ryland,Lori Unis”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SalingJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Saling,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SandgrenNelson”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sandgren,Nelson,1917-2006”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SantoneElizabeth”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Santone,Elizabeth”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SawyerTed”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sawyer,Ted”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SayreThomas”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sayre,Thomas”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SchulerMel”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Schuler,Mel”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SchwabWally”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Schwab,Wally”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SetziolMonica”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Setziol,Monica”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SeubertSusan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Seubert,Susan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ShawVictoria”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Shaw,Victoria”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SheehanEvelyn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sheehan,Evelyn”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ShoresKenneth”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Shores,Kenneth,1928-”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ShriverTotem”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Shriver,Totem”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ShullJim”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Shull,Jim”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SiegelSteven”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Siegel,Steven”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SimonisObieB.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Simonis,Obie B.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SjogrenMargaret”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sjogren,Margaret”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SkillernTeddy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Skillern,Teddy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SmithArvie”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Smith,Arvie”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SnyderMartha”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Snyder,Martha”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SocolofskyShelley”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Socolofsky,Shelley”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SogabeAki”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sogabe,Aki”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SonniksenScott”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sonniksen,Scott”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SparkPatricia”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Spark,Patricia”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SpilmanCraig”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Spilman,Craig”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SponenburghMark”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sponenburgh,Mark”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/StahlJohn”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Stahl,John”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/StegerDonnaR.”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Steger,Donna R.”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/StephensonAllan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Stephenson,Allan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/StoneMarly”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Stone,Marly”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/StorrsAnne”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Storrs,Anne”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/StotikEric”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Stotik,Eric”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/StreisingerLotte”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Streisinger,Lotte”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SurmonAngelita”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Surmon,Angelita”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SutinenPaul”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sutinen,Paul”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SwansonRichard”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Swanson,Richard”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/SylvesterPhil”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Sylvester,Phil”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/TepferGary”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Tepfer,Gary”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ThompsonDavid”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Thompson,David”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ThompsonJamesBlair”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Thompson,James Blair”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ThorsnesMelinda”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Thorsnes,Melinda”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/TilgerStewart”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Tilger,Stewart”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/TillinghastEric”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Tillinghast,Eric”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/TwinDolphinMosaics”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Twin Dolphin Mosaics”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/UgrinRenee”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Ugrin,Renee”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ValasekJoe”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Valasek,Joe”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/VanLeunenAlice”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Van Leunen,Alice”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/VliekEdward”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Vliek,Edward”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/vonRoennKennethFrederick”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “vonRoenn,Kenneth Frederick”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WalkerLarry”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Walker,Larry”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WalkerMelaniePetersGeorge”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Walker,Melanie Peters,George”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WalkerMorgan”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Walker,Morgan”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WarnickLucy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Warnick,Lucy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WarpinskiTerri”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Warpinski,Terri”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WebbHugh”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Webb,Hugh”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WehrleMartha”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Wehrle,Martha”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WeitzelJeffrey”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Weitzel,Jeffrey”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WellerRobert”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Weller,Robert”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WerschkulSusanE.Springer”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Werschkul,Susan E. Springer”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WhymanJeff”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Whyman,Jeff”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WillsonValerie”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Willson,Valerie”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WiseJudy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Wise,Judy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WolfSherrie”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Wolf,Sherrie”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WolfstonBetsy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Wolfston,Betsy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WongEdward”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Wong,Edward”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WrayGeorge”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Wray,George”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WyckoffChristy”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Wyckoff,Christy”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/WylieScottWilliam”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Wylie,Scott William,1946-”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/YockeyTim”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Yockey,Tim”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ZapponiMichael”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Zapponi,Michael”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ZeboldBrandon”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Zebold,Brandon”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ZeeAllanBruce”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Zee,Allan Bruce”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
+
+{
+“@id”: “http://opaquenamespace.org/ns/ZhaoSuikang”,
+”@type”: “Property”,
+”definedBy”: {
+“@id”: “http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt”
+},
+”issued”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+},
+”label”: “Zhao,Suikang”,
+”comment”: “Artist.”,
+”modified”: {
+“@value”: “2014-06-13”,
+”@type”: “date”
+}
+},
