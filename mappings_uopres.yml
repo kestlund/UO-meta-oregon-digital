@@ -1,0 +1,76 @@
+namespaces:
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  dct: "http://purl.org/dc/terms/"
+  dct: "http://purl.org/dc/elements/1.1/"
+  bibo: "http://purl.org/ontology/bibo/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  geo: "http://www.w3.org/2003/01/geo/wgs84_pos#"
+  frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
+  mads: "http://www.loc.gov/mads/rdf/v1#"
+  marcrel: "http://id.loc.gov/vocabulary/relators/"
+  modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
+  premis: "http://www.loc.gov/premis/rdf/v1#"
+  oregon: "http://tom.oregonstate.edu/"
+  vra: “http://purl.org/vra/”
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"  # do we need this?
+  schema: "http://schema.org/"
+  iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
+  daia: "http://uri.gbv.de/ontology/daia/"
+  exif: "http://www.w3.org/2003/12/exif/ns"
+  rdvocab: "http://rdvocab.info/roles"       (not sure if correct URL)
+  
+  #
+  # uopres
+  #
+  
+  identi: dct:identifier
+  title: dct: title
+  altern: dct:alternative
+  docume: dct:IsPartOf
+  descri: dct:description
+  number: schema:numberOfPages
+  subjec: method:lc
+  tgm: method:tgm (lc sub)
+  theme: method:subject (  )
+  people: method:subject (  )
+  corpor: method:lcnaf
+  place: dct:Spatial
+  creato: dct:creator
+  contri: dct:contributor
+  date: method:date
+  rights: method:rights
+  reposi: marcrel:repository
+  collec: dct:IsPartOf
+  collea: dct:IsPartOf
+  box: dct:IsPartOf
+  folder: dct:IsPartOf
+  ambros: # SKIP
+  type: method:type
+  format: method:format
+  langua: method:language
+  full: oregon:FullText
+  addita: dct:HasVersion
+  datedi: oregon:dateDigitized
+  captur: oregon:conversionSpecifications
+  file: rdag1:fileSize
+  image: exof:width
+  imaga: exif:height
+  color: exif:colorSpace
+  resolu: exif:resolution
+  proces: method:processing_history
+  metada: # SKIP
+  imagb: # SKIP
+  imagc: # SKIP
+  catalo: # SKIP
+  catala: # SKIP
+  load: # SKIP
+  publis: dct:publisher
+  digita: oregon:isPartOf/set
+  contra: oregon:contributingInstitution
