@@ -49,5 +49,5 @@ image: # SKIP
 ambros: # SKIP
 catalo: # SKIP
 digita: oregon:isPartOf/set
-full: oregon:full
+full: oregon:fullText
 contra: oregon:contributingInstitution
