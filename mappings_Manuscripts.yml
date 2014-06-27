@@ -1,0 +1,77 @@
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  dct: "http://purl.org/dc/terms/"
+  dcterms: "http://purl.org/dc/elements/1.1/"
+  bibo: "http://purl.org/ontology/bibo/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  geo: "http://www.w3.org/2003/01/geo/wgs84_pos#"
+  frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
+  mads: "http://www.loc.gov/mads/rdf/v1#"
+  marcrel: "http://id.loc.gov/vocabulary/relators/"
+  modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
+  premis: "http://www.loc.gov/premis/rdf/v1#"
+  oregon: "http://tom.oregonstate.edu/"
+  vra: “http://purl.org/vra/”
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"  # do we need this?
+  schema: "http://schema.org/"
+  iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
+  daia: "http://uri.gbv.de/ontology/daia/"
+  exif: "http://www.w3.org/2003/12/exif/ns"
+
+  #
+  # Manuscripts
+  #
+  
+  title: dct:title
+  identi: dct:identifier
+  shelfm: daia:label
+  descri: dct:description
+  conten: dct:description
+  titla: dct:Alternative
+  altern: dct:Alternative
+  subjec: method:subject
+  keywor: method:subject
+  genre: method:subject
+  part: dct:HasPart
+  creato: dct:creator
+  scribe: dct:contributor
+  artist: dct:contributor
+  contri: dct:contributor
+  datc: method:date
+  datb: method:date
+  date: oregon:dateDigitized
+  publis: dct:publisher
+  langua: method:language
+  reposi: dct:IsPartOf
+  sourcb: dct:Extent
+  sourcc: dct:Extent
+  sourcd: dct:Medium #not sure
+  source: dct:Alternative
+  collec: dct:IsPartOf
+  collea: dct:identifier
+  notes: modsref:note
+  layout: modsref:note
+  illust: modsref:note
+  decora: modsref:note
+  bindin: modsref:note
+  waterm: modsref:note
+  condit: schema:itemCondition
+  restor: modsref:note
+  proven: dct:provenance
+  contra: modsref:note
+  prefer: schema:citation
+  rights: method:rights
+  acknow: modsref:note
+  type: method:type
+  format: method:format
+  captur: #SKIP
+  datd: #merge with date: (same as Date Digital)
+  imagb: #SKIP
+  imagc: #SKIP
+  metada: #SKIP
+  metadb: #SKIP
+  digita: oregon:IsPartOf/set
+  full: oregon:FullText
+  
