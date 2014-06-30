@@ -20,7 +20,7 @@
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
   geosp: "http://rdf.geospecies.org/ont/geospecies#"
-
+  oad: "http://lod.xdams.org/reload/oad/"
  #
   # jasr
   #
@@ -39,7 +39,7 @@ source: daia:label
 langua: method:language
 collec: dct:IsPartOf
 collea: dct:IsPartOf
-collea: oad:has_findingAid
+colleb: oad:has_findingAid
 box: # SKIP
 folder: # SKIP
 rights: method:rights
