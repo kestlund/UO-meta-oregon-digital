@@ -20,36 +20,56 @@
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
   geosp: "http://rdf.geospecies.org/ont/geospecies#"
-  oad: "http://lod.xdams.org/reload/oad/"
- #
-  # jasr
+
   #
+  # wwdl
+  #
+identi: dct:identifier
 title: dct:title
-covera: dct:temporal
-datea: # SKIP
-subjec: method:lc
-corpor: method:lc
-creato: dct:creator
+book: dct:isPartOf
+titla: dct:alternative
+descri: dct:description
+pagina: schema:numberOfPages
+citati: schema:citation
+subjec: method:lc (lc and tgm)
+lc: method:lc
+people: method:lc (lcnaf)
+corpor: method:lc (lcnaf) 
+place: method:geonames (not sure if right- was mapped to subject field)
+genre: rdag1:formOfWork
+author: mrel:aut
+photog: mrel:pht
+cartog: mrel:ctg
+illust: mrel:ill
+creato: dct:contributor
+previo: # SKIP (in the citation)
+date: dct:issued
+covera: dct:Temporal
 publis: dct:publisher
-date: method:date
+datedi: oregon:dateDigitized
+rights: method:rights
+reposi: dct:isPartOf
+relati: dct:isPartOf
+collec: dct:isPartOf
+additi: dct:HasVersion
+addita: dct:HasVersion
+langua: method:language
 type: method:type
 format: method:format
-identi: dct:identifier
-source: daia:label
-langua: method:language
-collec: dct:IsPartOf
-collea: dct:IsPartOf
-colleb: oad:has_findingAid
-box: # SKIP
-folder: # SKIP
-rights: method:rights
-full: oregon:fullText
-datedi: oregon:dateDigitized
-proces: oregon:conversionSpecifications
+captur: oregon:conversionSpecifications
+file: rdag1:fileSize
+image: exif:width
+imaga: exif:height
+color: exif:colorSpace
+resolu: exif:resolution
+digita: # SKIP
 metada: # SKIP
 imagb: # SKIP
+imagc: # SKIP
+full: oregon:fullText
+link: dct:relation
+contra: oregon:contributingInstitution
 catalo: # SKIP
-ambros: # SKIP
-digita: oregon:isPartOf/set
-contri: oregon:contributingInstitution
-fulla: oregon:  #TBD; full PDFs download, in jasr folder ready to go
+load: # SKIP
+digitb: oregon:isPartOf/set
+fulla: oregon:  #TBD; full PDFs download

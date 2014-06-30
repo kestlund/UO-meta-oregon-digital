@@ -20,36 +20,27 @@
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
   geosp: "http://rdf.geospecies.org/ont/geospecies#"
-  oad: "http://lod.xdams.org/reload/oad/"
- #
-  # jasr
+  nfo: "http://www.semanticdesktop.org/ontologies/2007/03/22/nfo/v1.2/"
+  #
+  # jsma
   #
 title: dct:title
-covera: dct:temporal
-datea: # SKIP
-subjec: method:lc
-corpor: method:lc
 creato: dct:creator
-publis: dct:publisher
+creata: oregon:cco/creatorDisplay
+cultur: vra:culture
+subjec: vra:stylePeriod
 date: method:date
+materi: vra:medium
+measur: vra:measurements
+catego: dct:description
+descri: dct:description
+notes: modsref:note
 type: method:type
 format: method:format
-identi: dct:identifier
-source: daia:label
-langua: method:language
+rights: method:rights	
 collec: dct:IsPartOf
-collea: dct:IsPartOf
-colleb: oad:has_findingAid
-box: # SKIP
-folder: # SKIP
-rights: method:rights
-full: oregon:fullText
-datedi: oregon:dateDigitized
-proces: oregon:conversionSpecifications
-metada: # SKIP
-imagb: # SKIP
-catalo: # SKIP
-ambros: # SKIP
+source: dct:IsPartOf
+identi: dct:identifier
+museum: # SKIP
 digita: oregon:isPartOf/set
-contri: oregon:contributingInstitution
-fulla: oregon:  #TBD; full PDFs download, in jasr folder ready to go
+catalo: # SKIP

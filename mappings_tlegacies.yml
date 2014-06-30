@@ -20,36 +20,40 @@
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
   geosp: "http://rdf.geospecies.org/ont/geospecies#"
-  oad: "http://lod.xdams.org/reload/oad/"
- #
-  # jasr
+  oo:	"http://purl.org/openorg/"
+  lc: "http://id.loc.gov/authorities/subjects"
+  oad:	"http://lod.xdams.org/reload/oad/"
+
+  #
+  # tlegacies
   #
 title: dct:title
-covera: dct:temporal
-datea: # SKIP
-subjec: method:lc
-corpor: method:lc
+altern: dct:Alternative
 creato: dct:creator
-publis: dct:publisher
+cultur: vra:culture
+organi: dct:description
 date: method:date
+time: dct:Temporal
+langua: method:language
+lc: method:lc
+subjec: dct:subject
+descri: dct:description
+descra: dct:description
+geogra: dct:Spatial
+work: vra:workType      
 type: method:type
 format: method:format
+reposi: dct:IsPartOf
 identi: dct:identifier
-source: daia:label
-langua: method:language
-collec: dct:IsPartOf
-collea: dct:IsPartOf
-colleb: oad:has_findingAid
-box: # SKIP
-folder: # SKIP
+size: dct:description
+number: dct:description
+nwda: oad:has_findingAid
+additi: # SKIP
 rights: method:rights
-full: oregon:fullText
-datedi: oregon:dateDigitized
-proces: oregon:conversionSpecifications
-metada: # SKIP
-imagb: # SKIP
+catala: # SKIP
+repres: # SKIP
+publis: dct:publisher
 catalo: # SKIP
-ambros: # SKIP
+metada: # SKIP
 digita: oregon:isPartOf/set
 contri: oregon:contributingInstitution
-fulla: oregon:  #TBD; full PDFs download, in jasr folder ready to go

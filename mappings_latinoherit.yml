@@ -1,9 +1,9 @@
+namespaces:
   rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   rdfs: "http://www.w3.org/2000/01/rdf-schema#"
   owl: "http://www.w3.org/2002/07/owl#"
   skos: "http://www.w3.org/2004/02/skos/core#"
   dct: "http://purl.org/dc/terms/"
-  dct: "http://purl.org/dc/elements/1.1/"
   bibo: "http://purl.org/ontology/bibo/"
   foaf: "http://xmlns.com/foaf/0.1/"
   geo: "http://www.w3.org/2003/01/geo/wgs84_pos#"
@@ -20,36 +20,32 @@
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
   geosp: "http://rdf.geospecies.org/ont/geospecies#"
-  oad: "http://lod.xdams.org/reload/oad/"
- #
-  # jasr
+  rdvocab: "http://rdvocab.info/roles"       not sure if correct URL)
+  
+  #
+  # latinoherit
   #
 title: dct:title
-covera: dct:temporal
-datea: # SKIP
-subjec: method:lc
-corpor: method:lc
-creato: dct:creator
-publis: dct:publisher
+descri: dct:description
+subjec: method:lc (merge for lc, getty, tgm)
+creato: dct:creator (empty field)
+photog: # SKIP (empty field, merge with above)
+covera: method:geographic (empty field)
 date: method:date
-type: method:type
-format: method:format
+contri: dct:contributor (empty field)
+relate: dct:HasVersion
+source: # SKIP (empty field, merge with collec- title of collection)
+reposi: dct:IsPartOf   (SCUA)
+collec: dct:source   (collection name)
+collea: dct:identifier  (collection ID)
+relati: dct:IsPartOf    (series in collection)
 identi: dct:identifier
-source: daia:label
+donor: rdvocab: donor   (can use dct: contributor again)
+format: method:format
+type: method:type
 langua: method:language
-collec: dct:IsPartOf
-collea: dct:IsPartOf
-colleb: oad:has_findingAid
-box: # SKIP
-folder: # SKIP
 rights: method:rights
-full: oregon:fullText
-datedi: oregon:dateDigitized
-proces: oregon:conversionSpecifications
-metada: # SKIP
-imagb: # SKIP
-catalo: # SKIP
-ambros: # SKIP
-digita: oregon:isPartOf/set
-contri: oregon:contributingInstitution
-fulla: oregon:  #TBD; full PDFs download, in jasr folder ready to go
+publis: dct:publisher
+digiti: oregon:conversionSpecifications
+digita: oregon:IsPartOf/set
+contra: oregon:contributingInstitution

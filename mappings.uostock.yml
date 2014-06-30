@@ -1,3 +1,8 @@
+namespaces:
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
   rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   rdfs: "http://www.w3.org/2000/01/rdf-schema#"
   owl: "http://www.w3.org/2002/07/owl#"
@@ -14,42 +19,41 @@
   premis: "http://www.loc.gov/premis/rdf/v1#"
   oregon: "http://tom.oregonstate.edu/"
   vra: “http://purl.org/vra/”
-  swpo: "http://sw-portal.deri.org/ontologies/swportal#"
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"  # do we need this?
   schema: "http://schema.org/"
   iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
-  geosp: "http://rdf.geospecies.org/ont/geospecies#"
-  oad: "http://lod.xdams.org/reload/oad/"
- #
-  # jasr
+  rdvocab: "http://rdvocab.info/roles"       (not sure if correct URL)
+  
   #
-title: dct:title
-covera: dct:temporal
-datea: # SKIP
+  # uostock
+  #
+title: dct: title
+creato: dct: creator
 subjec: method:lc
-corpor: method:lc
-creato: dct:creator
+buildi: dct:subject (not sure if some of these will have CVs)
+event: dct:subject
+descri: dct:description
+season: dct:subject
+genre:  dct:subject
+note: modsref:note
+people: dct:subject
 publis: dct:publisher
 date: method:date
 type: method:type
 format: method:format
+photo:  modsref:note (orientation of photo- ok?)
+phota: rdag1:colourContent 
 identi: dct:identifier
-source: daia:label
-langua: method:language
-collec: dct:IsPartOf
-collea: dct:IsPartOf
-colleb: oad:has_findingAid
-box: # SKIP
-folder: # SKIP
-rights: method:rights
-full: oregon:fullText
-datedi: oregon:dateDigitized
+source: dct:source
+relati: dct:IsPartOf
+donor: dct:contributor
 proces: oregon:conversionSpecifications
+data: oregon:dateDigitized 
+rights: method:rights
 metada: # SKIP
-imagb: # SKIP
+scanni: # SKIP
 catalo: # SKIP
-ambros: # SKIP
 digita: oregon:isPartOf/set
 contri: oregon:contributingInstitution
-fulla: oregon:  #TBD; full PDFs download, in jasr folder ready to go
