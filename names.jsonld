@@ -149344,6 +149344,330 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/Aldana RogersLicia",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Aldana Rogers, Licia",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AlvarezNora",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Alvarez, Nora",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BartruffCharlotte",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Bartruff, Charlotte",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BullIris",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Bull, Iris",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DaltonElizabeth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Dalton, Elizabeth",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DriverJoel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Driver, Joel",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ErdmanScott",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Erdman, Scott",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/EvanAlex",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Evan, Alex",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/EvansAlex",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Evans, Alex",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Hynes-PettyHannah",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Hynes-Petty, Hannah",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MiskellElizabeth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Miskell, Elizabeth",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/RummlerLisa",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Rummler, Lisa",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Sandoval CervantesIvan",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Sandoval Cervantes, Ivan",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": 
+	"date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SantinoMichael",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Santino, Michael",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SerronSalome",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Serron, Salome",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SotoLidiana",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Soto, Lidiana",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SunByron",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Sun, Byron",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ThorntonJulia",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Thornton, Julia",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
 
 
 
