@@ -9658,7 +9658,1289 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/BraceroProgram",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Bracero Program",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
 
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BecerraAliciatestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Becerra, Alicia, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BelloObedtestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Bello, Obed, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BoschEvantestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Bosch, Evan, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CartagenaMarcelatestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Cartagena, Marcela, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Durán-ArellanoLizsandratestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Durán-Arellano, Lizsandra, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": 
+	"date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GambettaJimena Kheavtestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Gambetta, Jimena Kheav, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": 
+	"date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GonzalesSoniatestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Gonzales, Sonia, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GuerraFideltestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Guerra, Fidel, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HerndandezEmiliotestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Herndandez, Emilio, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LópezAuroratestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "López, Aurora, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MiskellGraciela (Meche)testimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Miskell, Graciela (Meche), testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": 
+	"date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MoralesArmandotestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Morales, Armando, testimony.",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MoralesMarthatestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Morales, Martha, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/MoralesRosalindatestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Morales, Rosalinda, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/OrtegaJosefinatestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Ortega, Josefina, testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SunByronfamilytestimony",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Sun, Byron, family testimony",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LatinoRoots",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Latino Roots",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Bikeracks ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Bike racks ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Bookpresses ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Book presses ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Campusquads ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Campus quads ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Campusscenes ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Campus scenes ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Circles ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Circles ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CirculationDesk ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Circulation Desk ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Filmreels ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Film reels ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/HelpDesk ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Help Desk ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Introducktions ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Introducktions ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Lensflares ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Lens flares ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Motionblur ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Motion blur ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Multi-mediaPresentations ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Multi-media Presentations ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Oreganas ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Oreganas ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PioneerMother ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Pioneer Mother ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Pioneersculpture ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Pioneer sculpture ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PopularReading ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Popular Reading ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Studentemployees ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Student employees ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Studying ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Studying ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WindFence ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Wind Fence ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Workstudy ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Work study ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LearningCommons ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Learning Commons ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/UOPortlandPrograms ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "UO Portland Programs ",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Africa--Studyandteaching",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Africa -- Study and teaching",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AfricanAmericanarts--Cost",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "African American arts -- Cost",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BlackArtsmovement--Cost",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Black Arts movement -- Cost",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Blacks--Publicopinion",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Blacks -- Public opinion",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Busingforschoolintegration--Publicopinion",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Busing for school integration -- Public opinion",
+	"modified": {
+	"@value": "2014-07-
+	09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Collegeadministrators--Resignation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "College administrators -- Resignation",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": 
+	"date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Collegepresidents--Attitudes",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "College presidents -- Attitudes",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Collegepresidents--Caricaturesandcartoons",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "College presidents -- Caricatures and cartoons",
+	"modified": {
+	"@value": "2014-07-
+	09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Collegestudents--Druguse",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "College students -- Drug use",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Collegeteachers--Dismissalof",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "College teachers -- Dismissal of",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Crowdcontrol--Planning",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Crowd control -- Planning",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Drugs--Analysis--Finance",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Drugs -- Analysis -- Finance",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Employees--Recruiting",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Employees -- Recruiting",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/KeyDocument",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Key Document",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Specialevents--Finance",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Special events -- Finance",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Studenthousing--Finace",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Student housing -- Finace",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Universitiesandcolleges--Faculty--Trainingof--UnitedStates",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Universities and colleges -- Faculty -- Training of -- United 
+	States",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/VietnamandROTC",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Vietnam and ROTC",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/DeltaHouse ",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Delta House",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+	{
+	"@id": "http://opaquenamespace.org/ns/CPSCamp56",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "CPS Camp 56",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/InternationalNight2013",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "International Night 2013",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Oregana",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Oregana",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PolarPlunge(Fundraiser)",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Polar Plunge (Fundraiser)",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ShowTime,2011",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Show Time, 2011",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ShowTime,2012",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Show Time, 2012",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Showtime,2013",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Showtime, 2013",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WomeninAthleticsCelebration",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Women in Athletics Celebration",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": 
+	"date"
+	}
+	},
+
+
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Ed'sCo-ed",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Ed's Co-ed",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/AnimalHouse",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Animal House",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/PersonalBest",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Personal Best",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/Rally",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Rally",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
 
 
 	
