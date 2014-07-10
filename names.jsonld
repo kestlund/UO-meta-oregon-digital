@@ -149000,6 +149000,242 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/AronsonMichael",
+	"@type": "Property",
+	"definedBy": 
+	{
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Aronson, Michael",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BengocheaAaron",
+	"@type": "Property",
+	"definedBy": 
+	{
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Bengochea, Aaron",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BissellDaniel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Bissell, Daniel",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BoboiaCristian",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Boboia, Cristian",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BurnsKate",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Burns, Kate",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GarciaAmanda",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Garcia, Amanda",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/GersbachRick",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Gersbach, Rick",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/ImageServicesStaff",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Image Services Staff",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/KueiLauren",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Kuei, Lauren",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/LarsonLesli",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Larson, Lesli",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/SimicJulia",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Simic, Julia",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WaltonDean",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Walton, Dean",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/WeberAlex",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Weber, Alex",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
 
 
 
