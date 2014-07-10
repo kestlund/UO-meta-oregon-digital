@@ -9588,10 +9588,75 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/JapaneseAmericancollegestudents--Oregon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Japanese American college students -- Oregon",
+	"modified": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	}
+	},
+	
+	
+	{
+	"@id": "http://opaquenamespace.org/ns/JapaneseAmericancollegestudents--Socialconditions--20thcentury",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Japanese American college students -- Social conditions -- 20th century",
+	"modified": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	}
+	},
+	
+	
+	{
+	"@id": "http://opaquenamespace.org/ns/Students,Transferof--Oregon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	},
+	"label": "Students, Transfer of -- Oregon",
+	"modified": {
+	"@value": "2014-07-10",
+	"@type": "date"
+	}
+	},
 
-
-
-
+	{
+	"@id": "http://opaquenamespace.org/ns/Rootworks",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Rootworks",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
 
 
 
