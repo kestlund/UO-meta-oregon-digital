@@ -149236,6 +149236,114 @@
 	}
 	},
 
+	{
+	"@id": "http://opaquenamespace.org/ns/AgapitoAggie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Agapito, Aggie",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/BakerJanice",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Baker, Janice",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/IkelerHeather",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Ikeler, Heather",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": 
+	"date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/McLaughlinJan",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "McLaughlin, Jan",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/NilesKatie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Niles, Katie",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	"@id": "http://opaquenamespace.org/ns/OceanAnnie",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	},
+	"label": "Ocean, Annie",
+	"modified": {
+	"@value": "2014-07-08",
+	"@type": "date"
+	}
+	},
+
 
 
 
