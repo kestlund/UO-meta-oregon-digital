@@ -22014,6 +22014,8430 @@
 },
 
 
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ascidacea",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ascidacea",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/acidkelp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "acid kelp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Agazzi'speanutworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Agazzi's peanut worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/aggregatinganenome",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "aggregating anenome",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/AlkaliHeath",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Alkali Heath",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Americanwidgeon",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "American widgeon",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Apid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Apid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Atlanticbumber",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Atlantic bumber",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/balloonfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "balloon fish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Bamboocoral",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Bamboo coral",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bananaslug",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "banana slug",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/basketseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "basket sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Beachgrass",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Beach grass",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/beachhopper",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "beach hopper",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Bird'sBeak",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Bird's Beak",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/blackkatychiton",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "black katy chiton",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/blacktaileddeer",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "black tailed deer",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/blackturbansnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "black turban snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/blackberry",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "blackberry",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bleachweed",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "bleachweed",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/blenny",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "blenny",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bloodworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "blood worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bluespotchiton",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "blue spot chiton",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bluetopsnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "blue top snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bogorchidorladiestresses",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "bog orchid or ladies tresses",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bottlebrushseaweed",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "bottlebrush seaweed",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/BrainSponge",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Brain Sponge",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/broadribkelp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "broad rib kelp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/broadwingedkelporribbonkelp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "broad winged kelp or ribbon kelp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/brokenbackshrimp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "broken back shrimp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Bronzespotcucumber",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Bronze spot cucumber",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/browncoral",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "brown coral",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/brownragfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "brown ragfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/brownturbansnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "brown turban snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bryozoan",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "bryozoan",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bubblesnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "bubble snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/bullkelp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "bullkelp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/burrowinganemone",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "burrowing anemone",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Caddisfly",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Caddis fly",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/calanoidcopepod",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "calanoid copepod",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Calicocrab",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Calico crab",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Californiaberthella",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "California berthella",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Californiamoraleel",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "California moral eel",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Californiaseacucumber",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "California sea cucumber",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Californiaseaslug",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "California sea slug",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/California'sseahare",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "California's sea hare",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/caligidcopepod",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "caligid copepod",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Canadiangoose",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Canadian goose",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/caprellidamphipod",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "caprellid amphipod",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Catalinatriopha",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Catalina triopha",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/caterpillar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "caterpillar",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/cattails",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "cattails",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/cedar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "cedar",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/channelledtopsnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "channelled top snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/christmasanemone",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "christmas anemone",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/clamshrimp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "clam shrimp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/cliffswallows",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "cliff swallows",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/clover",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "clover",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/coarsesealace",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "coarse sea lace",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/coastalstrawberry",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "coastal strawberry",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/CobaltSponge",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cobalt Sponge",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Cockerell'snudibranch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cockerell's nudibranch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/coilworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "coil worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/colonialascidian",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "colonial ascidian",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/colonialseasquirt",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "colonial sea squirt",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/colonialtubeworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "colonial tube worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/colonialtunicate",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "colonial tunicate",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/commonbluebutterfly",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "common blue butterfly",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/coraldwellingbutterflyfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "coral dwelling butterflyfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/coralfungus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "coral fungus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/corallinealgae",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "coralline algae",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/crisscrossnetwork",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "crisscross network",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/crown-of-thornsseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "crown-of-thorns sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/cupcoral",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "cup coral",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/cupsponge",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "cup sponge",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/cushionstar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "cushion star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/cyclopoidcopepod",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "cyclopoid copepod",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/daisycoral",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "daisy coral",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Damselfly",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Damsel fly",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Dana'sbladeshrimp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Dana's blade shrimp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/deepseasole",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "deep sea sole",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Diomede'ssapsucker",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Diomede's sapsucker",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/dogwhelk",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "dog whelk",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/dogwinkle",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "dogwinkle",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/doridnudibranch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "dorid nudibranch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/DouglasFir",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Douglas Fir",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Dragonfly",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Dragonfly",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/dumbooctopus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "dumbo octopus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/dwarfrockweed",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "dwarf rockweed",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/dwarfskein",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "dwarf skein",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/easternsoft-shellclam",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "eastern soft-shell clam",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/eelturtle",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "eel turtle",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Elephanteartunicate",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Elephant ear tunicate",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/elkorwapiti",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "elk or wapiti",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/EmeraldCarpet",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Emerald Carpet",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/encrustingcorallinealgae",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "encrusting coralline algae",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/fatbogmoss",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "fat bogmoss",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/featherboa",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "feather boa",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/featherdusterworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "feather duster worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/festivenudibranch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "festive nudibranch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/fingersponge",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "finger sponge",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/fishlouse",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "fish louse",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/flagrockfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "flag  rockfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/flat-tippiddock",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "flat-tip piddock",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/fleshyJaumea",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "fleshy Jaumea",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/fragileseaurchin",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "fragile sea urchin",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/giantgreenanenome",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "giant green anenome",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/giantpinkseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "giant pink sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/giantrockscalloporpurple-hingedscallop",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "giant rock scallop or purple-hinged scallop",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/giantspinedstar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "giant spined star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/giantwesternnassa",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "giant western nassa",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/giantwesternnassa",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "giant western nassa",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/greenribbonworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "green ribbon worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/gumplant",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "gum plant",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/hairychiton",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "hairy chiton",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/hard-stemmedbulrush",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "hard-stemmed bulrush",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/harvestfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "harvest fish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Hawaiiannoddytern",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Hawaiian noddy tern",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/heartcockleorNuttall'scockleorbasketcockle",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "heart cockle or Nuttall's cockle or basket cockle",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/henandchicks",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "hen and chicks",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/hermitcraborMiller'scrab",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "hermit crab or Miller's crab",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/hiddenriborruche",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "hidden rib or ruche",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Hilton'saeolid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Hilton's aeolid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/hogchoker",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "hog choker",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/hookedslippersnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "hooked slipper snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Hyperiidamphipod",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Hyperiid amphipod",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ida'smiter",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ida's miter",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Indianseaegg",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Indian sea egg",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/inkspotcucumber",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "ink spot cucumber",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/iridescentseaweed",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "iridescent seaweed",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Japanesesquirrelfishorapanesesoldierfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Japanese squirrel fish or apanese soldierfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/kelpcrab",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "kelp crab",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/keyholelimpet",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "keyhole limpet",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/kinggentian",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "king gentian",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/lacybryozoan",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "lacy bryozoan",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/laughinggulls",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "laughing gulls",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/laverorcellophaneornori",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "laver or cellophane or nori",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/leatherseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "leather sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/lightbulbtunicate",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "light bulb tunicate",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/littleneck",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "littleneck",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/longspineurchin",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "long spine urchin",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/longspinedseaurchin",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "long spined sea urchin",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/longnoselancetfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "longnose lancet fish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Macfarland'schromodorid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Macfarland's chromodorid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/marinemite",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "marine mite",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/mayfly",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "mayfly",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/monkeyfaceeel",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "monkeyface eel",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Montereydoridorfalsesealemon",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Monterey dorid or false sea lemon",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Montereyturbansnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Monterey turban snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/moonsnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "moon snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/moonglowanemone",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "moonglow anemone",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Morishidol",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Morish idol",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/morningsunstar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "morning sun star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/moss",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "moss",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/mossychiton",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "mossy chiton",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/mottledseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "mottled sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/mussel",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "mussel",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Nanaimodoridnudibranch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Nanaimo dorid nudibranch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/NeneorHawaiiangoose",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Nene or Hawaiian goose",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/nettedbatfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "netted bat fish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/NippleSponge",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Nipple Sponge",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/northernbladderchain",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "northern bladder chain",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Oceanpinkshrimp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ocean pink shrimp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/ochrestar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "ochre star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/opaleye",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "opal eye",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Opalescentnudibranch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Opalescent nudibranch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/orache",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "orache",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/orangeseacucumber",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "orange sea cucumber",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/orangestripedanemone",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "orange striped anemone",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/orangetubecoral",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "orange tube coral",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/ostrichplumehydroid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "ostrich plume hydroid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/oyster",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "oyster",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pacificbottlenosedolphin",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pacific bottlenose dolphin",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pacificcorambe",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pacific corambe",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pacificgiantsalamader",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pacific giant salamader",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pacificlancetfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pacific lancet fish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pacificsandab",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pacific sandab",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/PacificSpadefish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pacific Spade fish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/paintbrush",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "paintbrush",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Paintbrushowl-clover",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Paintbrush owl-clover",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/peatmoss",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "peat moss",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/pericarida",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "pericarida",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/pileperch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "pileperch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/pincushionseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "pincushion sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/pinktailtriggerfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "pink tail triggerfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/plumoseseaanemone",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "plumose sea anemone",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Porter'schromodorid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Porter's chromodorid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/portunidcrab",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "portunid crab",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Potatobug",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Potato bug",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/purpledwarfvenus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "purple dwarf venus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/purplesponge",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "purple sponge",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/purplestripedjellyfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "purple striped jellyfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/rainbowseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "rainbow sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/rattailseacucumber",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "rat tail sea cucumber",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/redgorgonian",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "red gorgonian",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/redlinedchiton",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "red lined chiton",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/redneckedgrebe",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "red necked grebe",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/redribbonworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "red ribbon worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/redseaurchin",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "red sea urchin",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Redsponge",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Red sponge",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/redsquirrelfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "red squirrel fish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/redthroatedloon",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "red throated loon",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/redwing",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "red wing",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/rhizocephalid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "rhizocephalid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/ringtopsnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "ring top snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/rockscallop",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "rock scallop",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Roostercomboyster",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Rooster comb oyster",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Roostercrab",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Rooster crab",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/roseseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "rose sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/roughpiddock",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "rough piddock",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/roundleavedsundew",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "round leaved sundew",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/roundstingray",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "round sting ray",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sabellidtubeworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sabellid tube worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sabellidworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sabellid worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sacoglossan",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sacoglossan",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/saltmarshsandspurry",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "salt marsh sandspurry",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/SanDiegodorid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "San Diego dorid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sanderlings",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sanderlings",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/scallop",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "scallop",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/scarletgiliaorskyrocket",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "scarlet gilia or skyrocket",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seaarrow-grass",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sea arrow-grass",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seabrush",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sea brush",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seafernhydroid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sea fern hydroid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seafungus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sea fungus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/SeaHair",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Sea Hair",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sealemonnudibranch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sea lemon nudibranch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seasac",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sea sac",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seagrasslaverorredfringe",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "seagrass laver or red fringe",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seal",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "seal",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seasideplantain",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "seaside plantain",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/seersuckerorribbedkelp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "seersucker or ribbed kelp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/self-healofheal-allormint",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "self-heal of heal-all or mint",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/serpulidworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "serpulid worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/shaggyrugnudibranch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "shaggy rug nudibranch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/shortspinedseaurchin",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "short spined sea urchin",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/shovelheadedshark",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "shovel headed shark",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/silver-spottedsculpin",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "silver-spotted sculpin",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Sitkashrimp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Sitka shrimp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sixarmedseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "six armed sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/skein",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "skein",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/slipperseacucumber",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "slipper sea cucumber",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/soft-stemmedbulrush",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "soft-stemmed bulrush",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Solitarywasp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Solitary wasp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/SouthAmericancormorant",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "South American cormorant",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Spanishdancer",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Spanish dancer",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/spinybrachiopod",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "spiny brachiopod",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/spinyredseastar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "spiny red sea star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/spotfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "spotfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/spottedaglaia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "spotted aglaia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/spottedtriopha",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "spotted triopha",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/staghornfelt",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "staghorn felt",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/stalkedorgooseneckbarnacle",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "stalked or goose neck barnacle",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/stalkedtunicate",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "stalked tunicate",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/starletanemone",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "starlet anemone",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Steer'shead",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Steer's head",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Stonecrab",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Stone crab",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/strapkelp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "strap kelp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/stripedbutterflyfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "striped butterflyfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/stripeddogwinkle",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "striped dogwinkle",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/stripedsunstar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "striped sun star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/stripeyorscorpidfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "stripey or scorpidfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sugarkelp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sugar kelp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sunstar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sun star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sunflowerstar",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sunflower star",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/surfgrass",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "surf grass",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/swallowtailbutterfly",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "swallowtail butterfly",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/sweetpeaorvetch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "sweet pea or vetch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/tansyleavedeveningprimrose",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "tansy leaved evening primrose",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/tarspotseacucumber",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "tar spot sea cucumber",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Taylor'sseahare",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Taylor's sea hare",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/tellin",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "tellin",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/terebellidworm",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "terebellid worm",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/three-ribbedkelportriplerib",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "three-ribbed kelp or triple rib",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/tochni",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "tochni",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Townsendchipmunk",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Townsend chipmunk",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/trunkfishorboxfish",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "trunkfish or boxfish",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Tubedwellinganemone",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Tube dwelling anemone",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/turbansnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "turban snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Turkishtowel",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Turkish towel",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Weddelseal",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Weddel seal",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/wentletrap",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "wentle trap",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/westernLilaeopsis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "western Lilaeopsis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/westernwhiteslippersnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "western white slipper snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/whitebogorchid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "white bog orchid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/whitelineddorid",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "white lined dorid",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/whiteseapen",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "white sea pen",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/widgeongrass",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "widgeon grass",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/wingedseaslug",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "winged sea slug",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/woodychiton",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "woody chiton",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/worfherring",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "worf herring",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/wormsnail",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "worm snail",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/yellowedgedcadlina",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "yellow edged cadlina",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/yellowsandverbena",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "yellow sand verbena",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Acanthodorisnanaimonensis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Acanthodoris nanaimonensis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Acnanthes",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Acnanthes",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Alnanthia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Alnanthia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Amphiporusimparaspinosus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Amphiporus imparaspinosus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Anthopleurasp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Anthopleura sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Antithamnionglandifera",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Antithamnion glandifera",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Aphrodite",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Aphrodite",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Aplysiopsissmithii",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Aplysiopsis smithii",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Argopectengibbosus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Argopecten gibbosus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Badileia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Badileia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Bdellodrilas",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Bdellodrilas",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Calytra",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Calytra",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Cancersp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cancer sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Capellaagallinago",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Capellaa gallinago",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Cenobila",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cenobila",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Chaetocerosconcavicornus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Chaetoceros concavicornus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Chaetocerosconvalutus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Chaetoceros convalutus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Chalina",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Chalina",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Chamaecyposislawsoniana",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Chamaecyposis lawsoniana",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Chemidocarpafinmarkiensis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Chemidocarpa finmarkiensis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Chenhyperborea",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Chen hyperborea",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Chloeapinnata",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Chloea pinnata",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Chondracanthusexasperatus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Chondracanthus exasperatus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Comanthus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Comanthus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Conchoeciaarmitra",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Conchoecia armitra",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Crocconeisscutellum",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Crocconeis scutellum",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Crocethiaalba",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Crocethia alba",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Crossasterpapposa",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Crossaster papposa",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Cucumariafrondia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cucumaria frondia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Cyamusmysticeti",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cyamus mysticeti",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Cyclothonebraveri",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cyclothone braveri",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Cystodyteslobata",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cystodytes lobata",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Diadoraaspera",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Diadora aspera",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Diadumiene",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Diadumiene",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Diogenus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Diogenus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Diphyllosbothridae",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Diphyllos bothridae",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Dironacolumbiana",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Dirona columbiana",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Echeveriaelegans",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Echeveria elegans",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Elysiadiomedea",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Elysia diomedea",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Epigeichthysatropurpureus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Epigeichthys atropurpureus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Epilobiumangustifolia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Epilobium angustifolia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Epithemiaventicosum",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Epithemia venticosum",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ereunetesmauri",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ereunetes mauri",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Erignathinibarbatus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Erignathini barbatus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Eroliaminutilla",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Erolia minutilla",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Eubalaenaglacialissieboldii",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Eubalaena glacialis sieboldii",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Eubranchiopus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Eubranchiopus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Eudendrum",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Eudendrum",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Euspiradraconis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Euspira draconis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Euspirasp",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Euspira sp",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Eutamiastownsendi",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Eutamias townsendi",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Evasteriatrochelii",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Evasteria trochelii",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Flabelligeracommensalis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Flabelligera commensalis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Fragillaria",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Fragillaria",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Frankeniagrandiflora",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Frankenia grandiflora",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Fucusfurcata",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Fucus furcata",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Gleotrichis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Gleotrichis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Gloecapsa",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Gloecapsa",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Graffillasiliqua",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Graffilla siliqua",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Griffithsia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Griffithsia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Grindellastricta",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Grindella stricta",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Haemulonsp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Haemulon sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Haliotissp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Haliotis sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Heteroscelusincanum",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Heteroscelus incanum",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Janthia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Janthia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Juncooreganus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Junco oreganus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Katherinatunicata",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Katherina tunicata",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Labophyllia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Labophyllia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Lampetratridentatus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lampetra tridentatus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Lamprocystis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lamprocystis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Lanpanyctusarmatus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lanpanyctus armatus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Lapha",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lapha",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Larusdelewarensis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Larus delewarensis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Leiostomusxanthrus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Leiostomus xanthrus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Lepipoda",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lepipoda",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Leucophoyxthula",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Leucophoyx thula",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Licmorpha",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Licmorpha",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Licmorphaabreviata",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Licmorpha abreviata",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Licmorphaflabellata",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Licmorpha flabellata",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ligiaapallasii",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ligiaa pallasii",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Liliummaritinum",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lilium maritinum",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/LiliumPardolium",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lilium Pardolium",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Limaciacockerelli",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Limacia cockerelli",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Lithopomasp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lithopoma sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Lobipesfulicarius",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lobipes fulicarius",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Longicruris",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Longicruris",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Lopholithodessp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Lopholithodes sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Luvarisimperialis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Luvaris imperialis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Mastocarpuspapillatus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Mastocarpus papillatus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Mazaella",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Mazaella",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Megathuracrennulata",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Megathura crennulata",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Melibelionina",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Melibe lionina",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Melosiramoniliformilixnumiloides",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Melosira moniliformilix numiloides",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Mitraidea",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Mitra idea",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Moroteuthisrobustus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Moroteuthis robustus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Muraenophispardalis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Muraenophis pardalis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Naviculaschizoneba",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Navicula schizoneba",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Neorhodomela",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Neorhodomela",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Nephthys",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Nephthys",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Nitzschiafurformia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Nitzschia furformia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ocinusorca",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ocinus orca",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Octopusdolefreni",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Octopus dolefreni",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Oncorhyncuskisutch",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Oncorhyncus kisutch",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Oncorhyncusnerka",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Oncorhyncus nerka",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ostreopora",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ostreopora",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Paracyanthisstearnsi",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Paracyanthis stearnsi",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pelagosphaera",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pelagosphaera",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Peltodorisnobilis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Peltodoris nobilis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Penicilliatumpenis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Penicilliatum penis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Petrochelidonpyrhonota",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Petrochelidon pyrhonota",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Phoronima",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Phoronima",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Phsophorahydrostatica",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Phsophora hydrostatica",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pisastersp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pisaster sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pleurobrachiabacei",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pleurobrachia bacei",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Podicepscaspicus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Podiceps caspicus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Polycaron",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Polycaron",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Polymastiapachymastia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Polymastia pachymastia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Polyommatusicarus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Polyommatus icarus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Porlites",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Porlites",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Prionotustriglodae",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Prionotus triglodae",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Priontislyalli",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Priontis lyalli",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pseudocrinilus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pseudocrinilus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Psoluschitonoides",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Psolus chitonoides",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ramaria",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ramaria",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Rhaphorius",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Rhaphorius",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Rhaphoriusamphitelos",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Rhaphorius amphitelos",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Richmondenacardinalis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Richmondena cardinalis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Saltosepia",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Saltosepia",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Scarussp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Scarus sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Sebastesbobcocki",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Sebastes bobcocki",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Sebastespinninger",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Sebastes pinninger",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Sebastesrubrivinctis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Sebastes rubrivinctis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Skeletonemacostratum",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Skeletonema costratum",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Squatarolasquatarola",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Squatarola squatarola",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Squatinasp.",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Squatina sp.",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Stephanopyxisnippouica",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Stephanopyxis nippouica",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Sternafuscatc",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Sterna fuscatc",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Syncorne",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Syncorne",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Thrissacanthiaspencillatus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Thrissacanthias pencillatus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Tochuinatetraquerta",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Tochuina tetraquerta",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Totanusmelanoleucus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Totanus melanoleucus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ucapagurus",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Uca pagurus",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Ucapugmas",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Uca pugmas",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Upogebiapugettenis",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Upogebia pugettenis",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Zirphaeapilsbryi",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Zirphaea pilsbryi",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Zoraster",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Zoraster",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Rhodophyte",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Rhodophyte",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Anseriformes(waterfowl)-mergansers",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Anseriformes (waterfowl) - mergansers",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Anseriformes(waterfowl)-seaducks",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Anseriformes (waterfowl) - seaducks",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Anseriformes(waterfowl)-surfacefeedingducks",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Anseriformes (waterfowl) - surface feeding ducks",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Bivalve-Misc",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Bivalve -Misc",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Cephalaspidomorhpi",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Cephalaspidomorhpi",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Charadriiformes(shorebirds,gulls,alcids)-Scalopacidae(sandpipers)",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Charadriiformes (shorebirds, gulls, alcids) - Scalopacidae (sandpipers)",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Coastal",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Coastal",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/DredgingandFilling",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Dredging and Filling",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Menashaandeffects",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Menasha and effects",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Mesozoans",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Mesozoans",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Misc",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Misc",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Mudflats",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Mudflats",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/OctopodaandSepioidea",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Octopoda and Sepioidea",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Opisthobranchia-Notospidea",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Opisthobranchia - Notospidea",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Pelecaniformes(pelicansandallies)-Frigatidae(frigatebirds)",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Pelecaniformes (pelicans and allies) - Frigatidae (frigatebirds)",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/SeascapesandLandscapes",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Seascapes and Landscapes",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/UnsegmentedCoelomateWorms",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Unsegmented Coelomate Worms",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Urochordata:AppendiculariaorLarvacea",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Urochordata: Appendicularia or Larvacea",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/WildflowersandGrasses",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Wildflowers and Grasses",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/ZonationPatterns",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Zonation Patterns",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Aerials",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Aerials",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Fernsandallies",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Ferns and allies",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/LandandWaterUse",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Land and Water Use",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Mammalia-Terrestrial",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Mammalia - Terrestrial",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/MapsandCharts",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Maps and Charts",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/NaturalViews",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Natural Views",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/OIMBHistory",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "OIMB History",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
+
+{
+”@id”: “http://opaquenamespace.org/ns/Protistans",
+"@type": "Property",
+"definedBy": {
+"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+},
+"issued": {
+"@value": "2014-07-11",
+"@type": "date"
+},
+"label": "Protistans",
+"modified": {
+"@value": "2014-07-11",
+"@type": "date"
+}
+},
+
 	
 	
     }
