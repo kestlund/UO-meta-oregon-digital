@@ -1,0 +1,64 @@
+namespaces:
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  dct: "http://purl.org/dc/terms/"
+  dct: "http://purl.org/dc/elements/1.1/"
+  bibo: "http://purl.org/ontology/bibo/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  geo: "http://www.w3.org/2003/01/geo/wgs84_pos#"
+  frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
+  mads: "http://www.loc.gov/mads/rdf/v1#"
+  marcrel: "http://id.loc.gov/vocabulary/relators/"
+  modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
+  premis: "http://www.loc.gov/premis/rdf/v1#"
+  oregon: "http://tom.oregonstate.edu/"
+  vra: “http://purl.org/vra/”
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"  # do we need this?
+  schema: "http://schema.org/"
+  iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
+  daia: "http://uri.gbv.de/ontology/daia/"
+  exif: "http://www.w3.org/2003/12/exif/ns"
+  rdvocab: "http://rdvocab.info/roles"       (not sure if correct URL)
+  ov: "http://open.vocab.org/terms.ttl" (not sure if correct URL- or https://code.google.com/p/openvocab/)
+  
+  #
+  # maic
+  #
+  
+  title: dct:title
+  identi: dct:identifier
+  work: method:subject
+  altern: #merge with above??
+  subjec: method:subject
+  descri: dct:description
+  proces: method:subject ????????
+  point: dct:HasVersion
+  measur: dct:Extent
+  object: ov:compassDirection 
+  primar: method:subject
+  second: method:subject
+  availa: dct:description
+  period: method:subject
+  perioa: method:subject
+  relati: dct:HasVersion
+  orient: dct:description
+  rights: mrel:pht
+  date: oregon:cco/viewDate
+  righta: method:rights
+  publis: dct:publisher
+  source: daia:label
+  data: oregon:dateDigitized
+  digiti: oregon:conversionSpecifications
+  image: #SKIP
+  type: method:type
+  format: method:format
+  metada: #SKIP
+  batch: #do we need this?
+  digita: oregon:IsPartOf/set
+  contri: oregon:contributingInstitution
