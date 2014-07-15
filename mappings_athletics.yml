@@ -65,7 +65,7 @@ namespaces:
   relati: dct:HasVersion
   covera: #SKIP
   rights: method:rights
-  proven: dct:provenance
+  proven: #SKIP
   sourcb: dct:extent
   sourcc: schema:itemCondition
   sourcd: method:format
