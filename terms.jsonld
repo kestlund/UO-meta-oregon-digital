@@ -21689,39 +21689,22 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/bwdocument",
+"@id": "http://opaquenamespace.org/ns/blackandwhitedocument",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 },
 "issued": {
-"@value": "2014-07-10",
+"@value": "2014-07-21",
 "@type": "date"
 },
-"label": "bw document",
+"label": "black and white document",
 "modified": {
-"@value": "2014-07-10",
+"@value": "2014-07-21",
 "@type": "date"
 }
 },
 
-
-{
-"@id": "http://opaquenamespace.org/ns/bwmapindex",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "bw map index",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
 
 
 {
@@ -21731,12 +21714,12 @@
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 },
 "issued": {
-"@value": "2014-07-10",
+"@value": "2014-07-21",
 "@type": "date"
 },
 "label": "color  document",
 "modified": {
-"@value": "2014-07-10",
+"@value": "2014-07-21",
 "@type": "date"
 }
 },
@@ -21749,248 +21732,12 @@
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 },
 "issued": {
-"@value": "2014-07-10",
+"@value": "2014-07-21",
 "@type": "date"
 },
 "label": "color map",
 "modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/digitalfile;color",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "digital file; color",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/photocopy,8x10inches;color",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "photocopy, 8 x 10 inches; color",
-"modified": {
-"@value": "2014-07-10",
-"@type": 
-"date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/photocopy;bw",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "photocopy; bw",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/photocopy;color",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "photocopy; color",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/slide;kodachrome",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "slide; kodachrome",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/document;color",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "document;color",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/documents;bw",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "documents; bw",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/mapindex;bw",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "map index; bw",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/map;color",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "map; color",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/photocopy,8x10inches;color",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "photocopy, 8 x 10 inches; color",
-"modified": {
-"@value": "2014-07-10",
-"@type": 
-"date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/photocopy;bw",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "photocopy; bw",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/photocopy;color",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "photocopy; color",
-"modified": {
-"@value": "2014-07-10",
-"@type": "date"
-}
-},
-
-
-{
-"@id": "http://opaquenamespace.org/ns/slide;kodachrome",
-"@type": "Property",
-"definedBy": {
-"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
-},
-"issued": {
-"@value": "2014-07-10",
-"@type": "date"
-},
-"label": "slide; kodachrome",
-"modified": {
-"@value": "2014-07-10",
+"@value": "2014-07-21",
 "@type": "date"
 }
 },
@@ -22003,15 +21750,17 @@
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
 },
 "issued": {
-"@value": "2014-07-10",
+"@value": "2014-07-21",
 "@type": "date"
 },
 "label": "Croplands ",
 "modified": {
-"@value": "2014-07-10",
+"@value": "2014-07-21",
 "@type": "date"
 }
 },
+
+
 
 
 
