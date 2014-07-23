@@ -30439,6 +30439,1515 @@
 },
 
 	
+	{
+	”@id”: “http://opaquenamespace.org/ns/AntlerDeer",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Antler, Deer",
+	"comment": "The horn of a deer",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/AntlerElk",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Antler, Elk",
+	"comment": "The horn of an elk",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ArmBandsBeaded",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Arm Bands, Beaded",
+	"comment": "A band worn around the arm with beaded decoration. Alternately, a band made of strung together beads",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ArmBandsBrass",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Arm Bands, Brass",
+	"comment": "A band worn around the arm made of brass",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ArmBandsFur",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Arm Bands, Fur",
+	"comment": "A band worn around the arm made of animal fur",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BagBeaded",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bag, Beaded",
+	"comment": "A soft container used for carrying things with beaded decoration",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BagBeadedGeometric",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bag, Beaded--Geometric",
+	"comment": "A soft container used for carrying things with beaded decoration with geometric patterns or stylized figures",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BagCornhusk",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bag, Cornhusk",
+	"comment": "A soft container used for carrying things made from corn husks",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BagPipe",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bag, Pipe",
+	"comment": "A soft container used for carrying one or more smoking pipes",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BagStorage",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bag, Storage",
+	"comment": "A soft container used for storing things",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BandoleerFur",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bandoleer, Fur",
+	"alternateName": "Bandolier, Fur",
+	"comment": "A strap made of animal fur worn over the shoulder and across the chest, often decorative or used for the suspending or supporting of some other object",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BandoleerHairbone",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bandoleer, Hairbone",
+	"alternateName": "Bandolier, Hair Bone",
+	"alternateName": "Bandolier, Hair Pipe",
+	"comment": "A strap made of or decorated with long slender beads  worn over the shoulder and across the chest, often decorative or used for the suspending or supporting of some other object",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Beaded",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Beaded",
+	"comment": "Having form or ornament produced with beads",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BeadedGauntlet",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Beaded Gauntlet",
+	"alternateName": "Gloves, Beaded Gauntlet",
+	"comment": "A long glove decorated with beadwork",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BellsAnkleDance",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bells, Ankle-Dance",
+	"comment": "Small, hollow metalic objects worn around the ankle during dancing",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BeltBeaded",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Belt, Beaded",
+	"comment": "A strip of flexible material worn around the waist, decorated with or formed of beads",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BeltLeather",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Belt, Leather",
+	"comment": "A strip of leather worn around the waist",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BeltYarn",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Belt, Yarn",
+	"comment": "A woven strip of yran worn around the waist",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BlanketStrip",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Blanket Strip",
+	"comment": "A strip of materials woven using the same techniques as blanket",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BlanketStripBeaded",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Blanket Strip, Beaded",
+	"comment": "A strip of materials woven using the same techniques as blanket and decorated with beads",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BonnetDoubleTrail",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bonnet, Double Trail",
+	"comment": "A headdress with two long  decorated tails",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BonnetSingleTrail",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bonnet, Single Trail",
+	"comment": "A headdress with a single, long  decorated tail",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BonnetStovePipe",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bonnet, Stove Pipe",
+	"comment": "A headdress with an upright, cylindrical form",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BreastplateHairbone",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Breastplate, Hairbone",
+	"alternateName": "Breastplate, Hair Bone",
+	"alternateName": "Breastplate, Hair Pipe",
+	"comment": "A wide decorative chest ornament made of or decorated with long slender beads",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BridleBeaded",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bridle, Beaded",
+	"comment": "Headgear decorated with beads used to guide a horse",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/BustleEagle",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Bustle, Eagle",
+	"comment": "A piece of regalia made with eagle feathers attached to a backboard",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Capote",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Capote",
+	"alternateName": "Coat, Capote",
+	"comment": "A long hooded coat or cloak",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ChapsLeather",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Chaps, Leather",
+	"comment": "Leather leg coverings",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ClawsBear",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Claws, Bear",
+	"comment": "The sharp nails of a bear",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/CoatBuckskin",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Coat, Buckskin",
+	"comment": "A piece of outerwear made of the skin of a deer and used to keep the wearer warm or dry",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/CoatCloth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Coat, Cloth",
+	"comment": "A piece of outerwear made from cloth and used to keep the wearer warm or dry",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/CoatJacket",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Coat, Jacket",
+	"comment": "A short piece of outerwear used to keep the wearer warm or dry",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Cornhusk",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Cornhusk",
+	"comment": "The outer leaves of an ear of corn",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/CowboyApparel",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Cowboy Apparel",
+	"comment": "Clothing typially worn by cowboys",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/CradleboardBeadedFloral",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Cradleboard, Beaded--Floral",
+	"comment": "A baby carrier decorated with beadwork in patterns relating to flowers",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/DanceStick",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Dance Stick",
+	"comment": "A decorated stick used while dancing",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/DeerHoof",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Deer Hoof",
+	"comment": "The horned foot of a deer",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/DressBuckskin",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Dress, Buckskin",
+	"comment": "Main garments for women, consisting of a bodice and skirt made from the skin of a deer",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/DressCloth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Dress, Cloth",
+	"comment": "Main garments for women, consisting of a bodice and skirt made from cloth",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/DressClothBeaded",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Dress, Cloth--Beaded",
+	"comment": "Main garments for women, consisting of a bodice and skirt made from cloth decorated with beads",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/DressTradeCloth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Dress, Trade Cloth",
+	"comment": "Main garments for women, consisting of a bodice and skirt made from mass-produced cloth obtained through trade",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EarringsShell",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Earrings, Shell",
+	"comment": "Ear ornaments made of shell",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EelsDrying",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Eels--Drying",
+	"comment": "The process of preserving eel through exposure to air and sun",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ElectricStudio",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Electric Studio",
+	"comment": "A photographic studio?",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ElkTeeth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Elk Teeth",
+	"comment": "Hard bony objects in the mouth of an elk used for biting and chewing",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EuroAmericanclothing",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Euro-American clothing",
+	"comment": "Clothing typical of American settlers decended from Europeans",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/FanEagleTail",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Fan, Eagle Tail",
+	"comment": "A hand-held object made of eagle feathers used to produce a current of air",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/FanHawkTail",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Fan, Hawk Tail",
+	"comment": "A hand-held object made of hawk feathers used to produce a current of air",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/FeathersEagle",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Feathers, Eagle",
+	"comment": "Light outgrowths that form the body covering of an eagle",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/FurHairWraps",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Fur--Hair Wraps",
+	"comment": "Ornamental strips of fur wraped around hair or hanging in the hair",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Hairbone",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Hairbone",
+	"alternateName": "Hair Bone",
+	"alternateName": "Hair Pipe",
+	"comment": "Long slender beads",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/HatCornhusk",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Hat, Cornhusk",
+	"comment": "A head covering made with corn husks",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/HeaddressHorned",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Headdress, Horned",
+	"comment": "A head covering including the horns of an animal",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/HorseGear",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Horse Gear",
+	"comment": "Equipment worn by horses, typially including saddles, blankets, bridles, reins, saddlebags or ornaments",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/HorseTrappings",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Horse Trappings",
+	"alternateName": "Horse Regalia",
+	"comment": "Ornamental equipment worn by horses, including collars, masks and attachments to the reins, bridles,saddle bags and saddles",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Indianencampments",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Indian encampments",
+	"comment": "A place where Native Americans have established a camp",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/LeggingsBuckskin",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Leggings, Buckskin",
+	"alternateName": "Leggins, Buckskin",
+	"comment": "Leather coverings for the legs",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/LeggingsWomens",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Leggings, Women's",
+	"alternateName": "Leggins, Women's",
+	"comment": "Coverings for the legs, especially for women",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/LeggingsWool",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Leggings, Wool",
+	"alternateName": "Leggins, Wool",
+	"comment": "Wool coverings for the legs",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Logs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Logs",
+	"comment": "Large pieces of unmilled wood from a tree",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Martingale",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Martingale",
+	"comment": "A large collar for a horse",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/MoccasinsBeadedFloral",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Moccasins, Beaded-Floral",
+	"comment": "Soft leather shoeS decorated with beads in patterns relating to flowers",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/MoccasinsBeadedGeometric",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Moccasins, Beaded-Geometric",
+	"comment": "Soft leather shoeS decorated with beads with geometric patterns or stylized figures",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/MoccasinsPlain",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Moccasins, Plain",
+	"comment": "Soft leather shows devoid of ornament",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/NecklaceLoop",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Necklace, Loop",
+	"comment": "A piece of jewelry formed by more than one loop of a strand of beads around the neck",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/OrnamentsWomens",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Ornaments, Women's",
+	"comment": "Decorative objects for women",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Pan",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Pan",
+	"comment": "Shallow container typically for domestic use",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PendletonHighSchoolPendletonOregon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Pendleton High School, Pendleton, Oregon",
+	"comment": "Secondary school in Pendleton, Oregon, United States",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PipeHatchetStyle",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Pipe, Hatchet Style",
+	"comment": "Smoking pipe with the form of a small ax",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Reins",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Reins",
+	"comment": "Straps used to guide a horse, connected to a bridle",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Religiousdwellings",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Religious dwellings",
+	"comment": "Domenstic buildings affiliated with a religious sect or community",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/RoachPorcupine",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Roach, Porcupine",
+	"comment": "A headdress made of porcupine hair",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ScabbardKnife",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Scabbard, Knife",
+	"comment": "A sheath for a knife",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ScabbardRifle",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Scabbard, Rifle",
+	"comment": "A sheath for a rifle",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ShawlPendleton",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Shawl, Pendleton",
+	"comment": "A rectangular garment or wrapper for covering the head and shoulders, made from a Pendleton Blanket. The Pendleton Woolen Mills in Oregon mass produced these blankets for trading with the Indians and they were designed specifically for perceived Native American tastes",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ShirtBuckskin",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Shirt, Buckskin",
+	"comment": "Main garment for the upper body made of deer skin",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ShirtBuckskinBeaded",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Shirt, Buckskin--Beaded",
+	"comment": "Main garment for the upper body made of deer skin and decorated with beads",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ShirtCloth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Shirt, Cloth",
+	"comment": "Main garment for the upper body made of cloth",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Textilemillworkers",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Textile mill workers",
+	"comment": "Laborers in the textile-producing industy",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Underdresscloth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Underdress, cloth",
+	"comment": "Cloth dresses worn beneath another dress",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/VestCloth",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Vest, Cloth",
+	"comment": "Sleveless main garments extending to the waist or just below it, made of cloth",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Wagonwheels",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Wagon wheels",
+	"comment": "Whells, largely wooden, made for wagons",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Workcrews",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-23",
+	"@type": "date"
+	},
+	"label": "Work crews",
+	"comment": "Groups of laborders put together to accomplish specific tasks",
+	"modified": { 
+	"@value": "2014-07-23",
+	"@type": "date"
+	}
+	},
+
+
+
 	
     }
   ]
