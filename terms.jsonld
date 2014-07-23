@@ -9749,7 +9749,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Durán-ArellanoLizsandratestimony",
+	"@id": "http://opaquenamespace.org/ns/DuranArellanoLizsandratestimony",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -9768,7 +9768,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/GambettaJimena Kheavtestimony",
+	"@id": "http://opaquenamespace.org/ns/GambettaJimenaKheavtestimony",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -9841,7 +9841,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/LópezAuroratestimony",
+	"@id": "http://opaquenamespace.org/ns/LopezAuroratestimony",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -9859,7 +9859,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/MiskellGraciela (Meche)testimony",
+	"@id": "http://opaquenamespace.org/ns/MiskellGracielaMechetestimony",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -10183,7 +10183,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Multi-mediaPresentations ",
+	"@id": "http://opaquenamespace.org/ns/MultimediaPresentations ",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21761,7 +21761,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/digitalfile;color",
+"@id": "http://opaquenamespace.org/ns/digitalfilecolor",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21779,7 +21779,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/photocopy,8x10inches;color",
+"@id": "http://opaquenamespace.org/ns/photocopy8x10inchescolor",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21798,7 +21798,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/photocopy;bw",
+"@id": "http://opaquenamespace.org/ns/photocopybw",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21816,7 +21816,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/photocopy;color",
+"@id": "http://opaquenamespace.org/ns/photocopycolor",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21834,7 +21834,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/slide;kodachrome",
+"@id": "http://opaquenamespace.org/ns/slidekodachrome",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21852,7 +21852,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/document;color",
+"@id": "http://opaquenamespace.org/ns/documentcolor",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21870,7 +21870,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/documents;bw",
+"@id": "http://opaquenamespace.org/ns/documentsbw",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21888,7 +21888,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/mapindex;bw",
+"@id": "http://opaquenamespace.org/ns/mapindexbw",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21906,7 +21906,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/map;color",
+"@id": "http://opaquenamespace.org/ns/mapcolor",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21924,7 +21924,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/photocopy,8x10inches;color",
+"@id": "http://opaquenamespace.org/ns/photocopy8x10inchescolor",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21943,7 +21943,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/photocopy;bw",
+"@id": "http://opaquenamespace.org/ns/photocopybw",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21961,7 +21961,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/photocopy;color",
+"@id": "http://opaquenamespace.org/ns/photocopycolor",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21979,7 +21979,7 @@
 
 
 {
-"@id": "http://opaquenamespace.org/ns/slide;kodachrome",
+"@id": "http://opaquenamespace.org/ns/slidekodachrome",
 "@type": "Property",
 "definedBy": {
 "@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
