@@ -31946,7 +31946,1408 @@
 	}
 	},
 
+	{
+	”@id”: “http://opaquenamespace.org/ns/AfroAmericanCouncilonHigherEducation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Afro-American Council on Higher Education",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
 
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ChristianWorldLiberationFront",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Christian World Liberation Front",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/CitizensforLawandDecency",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Citizens for Law and Decency",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ColumbiaUniversityCoxCommission",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Columbia University. Cox Commission",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/ConferenceontheImprovementofOpportunitiesforNegroesinHigherEducation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Conference on the Improvement of Opportunities for Negroes in Higher Education",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/CrownZellerbachFoundation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Crown Zellerbach Foundation",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EugeneOrFireandEmergencyServicesDept",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Eugene (Or.) Fire and Emergency Services Dept",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EugeneBlackWomen'sSociety",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Eugene Black Women's Society",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EugeneHumanRightsCommission",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Eugene Human Rights Commission",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/EugeneMoratoriumCommittee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Eugene Moratorium Committee",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Governor'sCommitteonAdvancedPlacementinCalifornia",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Governor's Committe on Advanced Placement in California",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/January14thCoalition",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "January 14th Coalition",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/January14thPeople'sTrialCommittee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "January 14th People's Trial Committee",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/KLIVRadiostation:SanJoseCalif",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "KLIV (Radio station : San Jose, Calif.)",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/NationalAllianceforBusiness",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "National Alliance for Business",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/NationalAssociationofStateUniversitiesandLandGrantCollegesCouncilofPresidents",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "National Association of State Universities and Land-Grant Colleges. Council of Presidents",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/NationalBrownBeretorganization",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "National Brown Beret organization",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/Oregondailyemerald",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Oregon daily emerald",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/OregonJuvenileCourtConference",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Oregon Juvenile Court Conference",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/OregonStateBoardOfHigherEducationCouncilofPresidents",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Oregon State Board Of Higher Education. Council of Presidents",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/OregonStateUniversity",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Oregon State University",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/OregonStateUniversityBlackStudentUnion",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Oregon State University. Black Student Union",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PortlandBlackPantherParty",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Portland Black Panther Party",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PortlandStateStrikeCommittee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Portland State Strike Committee",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/PortlandStateUniversityOfficeofPresident",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Portland State University. Office of President",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/RadicalCollectivesUnion",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Radical Collectives Union",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SanFranciscoStateCollegeBlackFire",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "San Francisco State College. Black Fire",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SanFranciscoStateCollegeBlackStudentUnion",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "San Francisco State College. Black Student Union",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SanFrancisoStateCollegeontherecord…",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "San Franciso State College. on the record…",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SanJoseStateCollegeNews",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "San Jose State College News",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SigmaChiFraternityAlphaOmegaChapterStanfordUniversity",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Sigma Chi Fraternity. Alpha Omega Chapter (Stanford University)",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SkipworthJuvenileHome",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Skipworth Juvenile Home",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SouthernOregonCollegeOfficeofPresident",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Southern Oregon College. Office of President",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SpecialCommitteeontheFutureoftheUniversity",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Special Committee on the Future of the University",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/StudentsandFacultyofBusinessAdminstrationforGETTINGOUTNOWUniversityofOregon",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Students and Faculty of Business Adminstration for GETTING OUT NOW (University of Oregon)",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/SummerInstituteintheHumanities",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Summer Institute in the Humanities",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/TaskForceonHigherEducationUS",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Task Force on Higher Education (U.S.)",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UnitedStatesDeptofHealthEducationandWelfareOfficeofEducation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "United States. Dept. of Health, Education, and Welfare. Office of Education",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UnitedStatesNationalStudentAssociation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "United States. National Student Association",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonAssociatedStudentsCulturalIssuesCenter",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Associated Students. Cultural Issues Center",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonAssociatedStudentsSenate",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Associated Students. Senate",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonBlackGraduateStudentCouncil",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Black Graduate Student Council",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonBlackStudentUnion",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Black Student Union",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonChicanoStudentUnion",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Chicano Student Union",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonCommissionontheFutureoftheUniversity",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Commission on the Future of the University",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonCommitteeonEducationalExperimentationInnovationandImprovement",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Committee on Educational Experimentation, Innovation, and Improvement",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonCommitteeonRaceandEducation",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Committee on Race and Education",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonDeanofFaculties",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Dean of Faculties",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonDesegregationInstitute",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Desegregation Institute",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonDivisionofStudentPersonnelServices",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Division of Student Personnel Services",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonEqualEmploymentOpportunitiesCommittee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Equal Employment Opportunities Committee",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonFacultySenate",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Faculty Senate",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonHighSchoolEquivalencyProgram",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. High School Equivalency Program",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonInstituteforComparativeExperimentalResearchonBehavioralSystems",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Institute for Comparative Experimental Research on Behavioral Systems",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonMexicanAmericanProgram",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Mexican-American Program",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonNativeAmericanStudentUnion",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Native American Student Union",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonNativeAmericanProgram",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Native-American Program",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonNewsBureau",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. News Bureau",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonOfficeofAcademicAffairs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Office of Academic Affairs",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonOfficeofFinancialAid",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Office of Financial Aid",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonOfficeofMinorityAffairs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Office of Minority Affairs",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonOfficeofMinorityRelations",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Office of Minority Relations",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonOfficeofPlanningandInstitutionalResearch",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Office of Planning and Institutional Research",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonOfficeofStudentAffairs",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Office of Student Affairs",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonOfficeoftheRegistrar",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Office of the Registrar",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonPhysicalPlant",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Physical Plant",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonPoliticalScienceDepartment",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Political Science Department",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonPresident'sCommitteeonRacism",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. President's Committee on Racism",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonProject75",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Project - 75",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonSchoolofLawCivilLibertiesCommittee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. School of Law. Civil Liberties Committee",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonSecurityAdvisoryCommittee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Security Advisory Committee",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonStudentAdministrativeBoard",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Student Administrative Board",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonStudentConductCommittee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Student Conduct Committee",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonStudentFacultyCoalition",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Student-Faculty Coalition",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonStudentFacultyCouncil",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. Student-Faculty Council",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/UniversityofOregonUniversitySpaceAllocationCommittee",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "University of Oregon. University Space Allocation Committee",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/WoodstockFreePress",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Woodstock Free Press",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
+
+
+	{
+	”@id”: “http://opaquenamespace.org/ns/YaleUniversityOfficeofPresident",
+	"@type": "Property",
+	"definedBy": {
+	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
+	},
+	"issued": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	},
+	"label": "Yale University. Office of President",
+	"modified": {
+	"@value": "2014-07-09",
+	"@type": "date"
+	}
+	},
 
 	
     }
