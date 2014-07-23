@@ -9589,7 +9589,7 @@
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/JapaneseAmericancollegestudents--Oregon",
+	"@id": "http://opaquenamespace.org/ns/JapaneseAmericancollegestudentsOregon",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -9607,7 +9607,7 @@
 	
 	
 	{
-	"@id": "http://opaquenamespace.org/ns/JapaneseAmericancollegestudents--Socialconditions--20thcentury",
+	"@id": "http://opaquenamespace.org/ns/JapaneseAmericancollegestudentsSocialconditions20thcentury",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -9625,7 +9625,7 @@
 	
 	
 	{
-	"@id": "http://opaquenamespace.org/ns/Students,Transferof--Oregon",
+	"@id": "http://opaquenamespace.org/ns/StudentsTransferofOregon",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -10379,7 +10379,7 @@
 	},
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Africa--Studyandteaching",
+	"@id": "http://opaquenamespace.org/ns/AfricaStudyandteaching",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -10397,7 +10397,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/AfricanAmericanarts--Cost",
+	"@id": "http://opaquenamespace.org/ns/AfricanAmericanartsCost",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -10415,7 +10415,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/BlackArtsmovement--Cost",
+	"@id": "http://opaquenamespace.org/ns/BlackArtsmovementCost",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21163,7 +21163,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Blacks--Publicopinion",
+	"@id": "http://opaquenamespace.org/ns/BlacksPublicopinion",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21181,7 +21181,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Busingforschoolintegration--Publicopinion",
+	"@id": "http://opaquenamespace.org/ns/BusingforschoolintegrationPublicopinion",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21200,7 +21200,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Collegeadministrators--Resignation",
+	"@id": "http://opaquenamespace.org/ns/CollegeadministratorsResignation",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21219,7 +21219,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Collegepresidents--Attitudes",
+	"@id": "http://opaquenamespace.org/ns/CollegepresidentsAttitudes",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21237,7 +21237,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Collegepresidents--Caricaturesandcartoons",
+	"@id": "http://opaquenamespace.org/ns/CollegepresidentsCaricaturesandcartoons",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21256,7 +21256,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Collegestudents--Druguse",
+	"@id": "http://opaquenamespace.org/ns/CollegestudentsDruguse",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21274,7 +21274,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Collegeteachers--Dismissalof",
+	"@id": "http://opaquenamespace.org/ns/CollegeteachersDismissalof",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21292,7 +21292,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Crowdcontrol--Planning",
+	"@id": "http://opaquenamespace.org/ns/CrowdcontrolPlanning",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21310,7 +21310,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Drugs--Analysis--Finance",
+	"@id": "http://opaquenamespace.org/ns/DrugsAnalysisFinance",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21328,7 +21328,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Employees--Recruiting",
+	"@id": "http://opaquenamespace.org/ns/EmployeesRecruiting",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21364,7 +21364,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Specialevents--Finance",
+	"@id": "http://opaquenamespace.org/ns/SpecialeventsFinance",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21382,7 +21382,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Studenthousing--Finace",
+	"@id": "http://opaquenamespace.org/ns/StudenthousingFinace",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21400,7 +21400,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Universitiesandcolleges--Faculty--Trainingof--UnitedStates",
+	"@id": "http://opaquenamespace.org/ns/UniversitiesandcollegesFacultyTrainingofUnitedStates",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21507,7 +21507,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/PolarPlunge(Fundraiser)",
+	"@id": "http://opaquenamespace.org/ns/PolarPlungeFundraiser",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21525,7 +21525,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/ShowTime,2011",
+	"@id": "http://opaquenamespace.org/ns/ShowTime2011",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21543,7 +21543,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/ShowTime,2012",
+	"@id": "http://opaquenamespace.org/ns/ShowTime2012",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21561,7 +21561,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Showtime,2013",
+	"@id": "http://opaquenamespace.org/ns/Showtime2013",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
@@ -21600,7 +21600,7 @@
 
 
 	{
-	"@id": "http://opaquenamespace.org/ns/Ed'sCo-ed",
+	"@id": "http://opaquenamespace.org/ns/EdsCoed",
 	"@type": "Property",
 	"definedBy": {
 	"@id": "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt"
