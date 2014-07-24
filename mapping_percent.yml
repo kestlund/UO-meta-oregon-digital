@@ -27,40 +27,40 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   #
   # percent
   #
-  projea:  swpo:forProject
-  projec:  dct:isPartOf
-  identi: dct:isPartOf
+  projea:  rdarel:containsManifestation
+  projec:  dct:identifier
+  identi: dct:identifier
   oac: dct:identifier
   title: dct:title
   altern: dct:Alternative
   series: dct:isPartOf
   descrb: dct:description
   descra: dct:description
-  dscri: modsref:note
+  dscri: dct:description
   artist: dct:description
   lc: method:lc
   aat: method:aat
-  place: dct:Spatial (mapped to sub in CDM)
-  people: method:lc (lcnaf) 
-  creato: dct:creator (lcnaf and ulan)
-  artisb: modsref:note
-  artisa: modsref:note
-  artisc: dct:relation
-  region: modsref:note
+  place: method:geographic
+  people: method:lc #lcnaf
+  creato: dct:creator #lcnaf and ulan
+  artisb: dct:description
+  artisa: dct:description
+  artisc: dct:description
+  region: dct:description
   data: method:date
   date: method:date
   commis: dct:description
   datb: method:date
   instal: dct:description
-  format: vra:workType
+  format: vra:medium
   artwor: vra:measurements
   materi: vra:materials
-  source: method:format (source format)
-  sourcb:  dct:Extent (source obj dimensions)
-  artwob: dct:Spatial (artwork site)
-  locati: dct:Spatial (extact site)
-  covera: dct:Spatial (address)
-  artwoc: dct:Spatial (county)
+  source: method:format #source format
+  sourcb:  dct:Extent #source obj dimensions
+  artwob: method:geographic #artwork site
+  locati: method:geographic #extact site
+  covera: method:geographic #address
+  artwoc: method:geographic #county
   artwod: dct:relation
   langua: method:language
   titla: oregon:cco/viewDescription
