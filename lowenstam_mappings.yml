@@ -21,7 +21,7 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   exif: "http://www.w3.org/2003/12/exif/ns"
 
   #
-  # artimages
+  # lowenstam
   #
 title: dct:title
 worka: dct:title
@@ -48,9 +48,9 @@ box: daia:label
 boxa: dct:subject
 sectio: dct:subject
 identi: dct:identifier
-rights: dct: rights
+rights: method:rights
 record: #SKIP
-type: mime:type
+type: method:type
 metada: #SKIP
 digita: oregon:isPartOf/set
 contri: oregon:contributingInstitution
