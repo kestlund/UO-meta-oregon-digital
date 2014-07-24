@@ -32,16 +32,16 @@ namespaces:
   
  title: dct:title
  creato: dct:creator
- subjec: method:subject (  )
+ subjec: method:subject
  lc: method:lc
- buildi: method:subject (buildings)
- place: dct:Spatial
+ buildi: method:subject
+ place: method:geographic
  people: method:lcnaf
  names: method:lcnaf 
  corpor: method:lcnaf
  event: schema:event
  descri: dct:description
- notesa: modsref: note (notes on back)
+ notesa: modsref:note #notes on back
  peopla: dct:description (people in image- keep?)
  publis: dct:publisher
  date: method:date
