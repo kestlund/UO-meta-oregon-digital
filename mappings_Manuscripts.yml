@@ -36,8 +36,8 @@
   genre: method:subject
   part: dct:HasPart
   creato: dct:creator
-  scribe: dct:contributor
-  artist: dct:contributor
+  scribe: mrel:scr
+  artist: mrel:art
   contri: dct:contributor
   datc: method:date
   datb: method:date
@@ -45,29 +45,29 @@
   publis: dct:publisher
   langua: method:language
   reposi: dct:IsPartOf
-  sourcb: dct:Extent
+  sourcb:  schema:numberOfPages
   sourcc: dct:Extent
-  sourcd: dct:Medium #not sure
+  sourcd: vra:support
   source: dct:Alternative
   collec: dct:IsPartOf
   collea: dct:identifier
   notes: modsref:note
-  layout: modsref:note
-  illust: modsref:note
-  decora: modsref:note
-  bindin: modsref:note
-  waterm: modsref:note
+  layout: rdag1:layout
+  illust: dct:description
+  decora: dct:description
+  bindin: dct:description
+  waterm: dct:description
   condit: schema:itemCondition
-  restor: modsref:note
+  restor: dct:description
   proven: dct:provenance
-  contra: modsref:note
+  contra: #SKIP
   prefer: schema:citation
   rights: method:rights
-  acknow: modsref:note
+  acknow: #SKIP
   type: method:type
   format: method:format
   captur: #SKIP
-  datd: #merge with date: (same as Date Digital)
+  datd: #SKIP
   imagb: #SKIP
   imagc: #SKIP
   metada: #SKIP
