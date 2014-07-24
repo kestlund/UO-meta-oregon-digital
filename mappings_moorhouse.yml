@@ -48,12 +48,12 @@ reposi: dct:IsPartOf
 relati: dct:IsPartOf
 collec: dct:IsPartOf
 source: dct:hasFormat # source format
-sourca: dct:hasFormat # source dimensions
+sourca: dct:extent # source dimensions
 sourceb: schema:itemCondition
 type: method:type
 sub: dct:subject # sub type (photo genre)
 format: method:format
-image: # SKIP image file size
+image: rdag1:fileSize
 imagd: exif:width
 imagc: exif:height
 color: exif:colorSpace
