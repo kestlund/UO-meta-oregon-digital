@@ -55,8 +55,8 @@ namespaces:
   tgm: method:tgm
   corpor: method:lcnaf
   corpoa: method:lcnaf
-  place: method:location
-  date: dct:temporal
+  place: method:geographic
+  date: method:date
   genre: method:subject
   type: method:type
   format: method:format
@@ -82,8 +82,8 @@ namespaces:
   sourcg: #SKIP
   captur: oregon:dateDigitized
   captua: oregon:conversionSpecifications
-  resolu: #merge with captua
-  proces: #merge with captua
+  resolu: exif:resolution
+  proces: method:processing_history 
   links: #SKIP
   addito: dct:HasVersion
   additi: dct:HasVersion
