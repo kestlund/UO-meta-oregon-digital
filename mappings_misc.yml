@@ -42,8 +42,8 @@ namespaces:
   identi: dct:identifier
   source: dct:source
   langua: method:language
-  relati: (SKIP?)
-  covera: dct:Temporal
+  relati: #SKIP
+  covera: method:date # use dct:Temporal?
   rights: method:rights
   audien: #SKIP
   full: #SKIP
