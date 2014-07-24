@@ -29,8 +29,8 @@ namespaces:
   #
   # uostock
   #
-title: dct: title
-creato: dct: creator
+title: dct:title
+creato: dct:creator
 subjec: method:lc
 buildi: method:subject
 event: method:subject
