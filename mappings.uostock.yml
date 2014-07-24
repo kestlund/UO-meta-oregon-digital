@@ -32,18 +32,18 @@ namespaces:
 title: dct: title
 creato: dct: creator
 subjec: method:lc
-buildi: dct:subject (not sure if some of these will have CVs)
-event: dct:subject
+buildi: method:subject
+event: method:subject
 descri: dct:description
-season: dct:subject
-genre:  dct:subject
+season: method:subject
+genre:  method:subject
 note: modsref:note
-people: dct:subject
+people: method:subject
 publis: dct:publisher
 date: method:date
 type: method:type
 format: method:format
-photo:  modsref:note (orientation of photo- ok?)
+photo:  dct:description
 phota: rdag1:colourContent 
 identi: dct:identifier
 source: dct:source
