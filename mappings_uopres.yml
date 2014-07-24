@@ -37,11 +37,11 @@ namespaces:
   descri: dct:description
   number: schema:numberOfPages
   subjec: method:lc
-  tgm: method:tgm (lc sub)
-  theme: method:subject (  )
-  people: method:subject (  )
+  tgm: method:tgm 
+  theme: method:subject 
+  people: method:subject 
   corpor: method:lcnaf
-  place: dct:Spatial
+  place: method:geographic
   creato: dct:creator
   contri: dct:contributor
   date: method:date
@@ -60,7 +60,7 @@ namespaces:
   datedi: oregon:dateDigitized
   captur: oregon:conversionSpecifications
   file: rdag1:fileSize
-  image: exof:width
+  image: exif:width
   imaga: exif:height
   color: exif:colorSpace
   resolu: exif:resolution
