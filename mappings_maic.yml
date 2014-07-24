@@ -34,10 +34,10 @@ namespaces:
   title: dct:title
   identi: dct:identifier
   work: method:subject
-  altern: #merge with above??
+  altern: dct:Alternative #merge with above?
   subjec: method:subject
   descri: dct:description
-  proces: method:subject ????????
+  proces: method:subject # not sure?
   point: dct:HasVersion
   measur: dct:Extent
   object: ov:compassDirection 
@@ -59,6 +59,6 @@ namespaces:
   type: method:type
   format: method:format
   metada: #SKIP
-  batch: #do we need this?
+  batch: #SKIP
   digita: oregon:IsPartOf/set
   contri: oregon:contributingInstitution
