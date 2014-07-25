@@ -49,7 +49,7 @@ relati: dct:IsPartOf
 collec: dct:IsPartOf
 source: dct:hasFormat # source format
 sourca: dct:extent # source dimensions
-sourceb: schema:itemCondition
+sourceb: # !!???!!???!!???
 type: method:type
 sub: dct:subject # sub type (photo genre)
 format: method:format
