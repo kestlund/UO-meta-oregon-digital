@@ -32,25 +32,25 @@ namespaces:
   
  title: dct:title
  creato: dct:creator
- subjec: method:subject
- lc: method:lc
- buildi: method:subject
+ subjec: dct:subject
+ lc: dct:subject
+ buildi: dct:subject
  place: method:geographic
- people: method:lcnaf
- names: method:lcnaf 
- corpor: method:lcnaf
+ people: dct:subject
+ names: #SKIP
+ corpor: dct:subject
  event: schema:event
  descri: dct:description
- notesa: modsref:note #notes on back
- peopla: dct:description (people in image- keep?)
- publis: dct:publisher
+ notesa: dct:description
+ peopla: dct:description 
+ publis: dct:source
  date: method:date
  type: method:type
  format: method:format
  identi: dct:identifier
- source: dct:source
+ source: dct:description
  relati: dct:relation
- issuin: # SKIP (issuing department- "Libraries"; useless info, skip)
+ issuin: dct:source
  collec: dct:IsPartOf
  collea: dct:IsPartOf
  box: dct:IsPartOf
@@ -58,7 +58,7 @@ namespaces:
  proces: method:processing_history
  datea: oregon:dateDigitized
  rights: method:rights
- notes: modsref: note
+ notes: # SKIP
  metada: # SKIP
  imagin: # SKIP
  catalo: # SKIP
