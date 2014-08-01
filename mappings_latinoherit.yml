@@ -27,25 +27,25 @@ namespaces:
   #
 title: dct:title
 descri: dct:description
-subjec: method:lc (merge for lc, getty, tgm)
-creato: dct:creator (empty field)
-photog: # SKIP (empty field, merge with above)
-covera: method:geographic (empty field)
+subjec: dct:subject # merge for lc, getty, tgm
+creato: dct:creator # empty field
+photog: # SKIP empty field, merge with creator
+covera: method:geographic
 date: method:date
-contri: dct:contributor (empty field)
+contri: dct:contributor
 relate: dct:HasVersion
 source: # SKIP (empty field, merge with collec- title of collection)
-reposi: dct:IsPartOf   (SCUA)
-collec: dct:source   (collection name)
-collea: dct:identifier  (collection ID)
-relati: dct:IsPartOf    (series in collection)
+reposi: marcrel:rps
+collec: dct:source
+collea: dct:identifier
+relati: dct:IsPartOf
 identi: dct:identifier
-donor: rdvocab: donor   (can use dct: contributor again)
+donor: rdvocab: donor
 format: method:format
 type: method:type
 langua: method:language
 rights: method:rights
-publis: dct:publisher
+publis: dct:source
 digiti: oregon:conversionSpecifications
 digita: oregon:IsPartOf/set
 contra: oregon:contributingInstitution
