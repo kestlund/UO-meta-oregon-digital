@@ -30,13 +30,13 @@ agent: oregon:cco/creatorDisplay
 creato: dct:creator
 creata: dct:creator
 date: dct:date
-earlie: cco/earliestDate
-latest: cco/latestDate
+earlie: vra:earliestDate
+latest: vra:latestDate
 materi: vra:materials
 measur: vra:measurements
 style: vra:stylePeriod
 cultur: vra:culture
-reposi: dct:source #or mrel:rps
+reposi: marcrel:rps
 reposa: vra:idCurrentRepository
 city: method:geographic
 country: method:geographic
@@ -53,12 +53,12 @@ source: dct:source
 sourca: #SKIP source caption
 sourcb: dct:isPartOf
 sourcc: #SKIP source id, only useful for Meggs set of >50 images
-vrc: daia:label
-rights: dct: rights
+vrc: holding:label
+rights: method:rights
 record: #SKIP
-type: mime:type
+type: method:type
 identi: dct:identifier
-vrca: daia:label
+vrca: holding:label
 course: modsrdf:note #or skip
 sessio: #SKIP
 projec: #SKIP
