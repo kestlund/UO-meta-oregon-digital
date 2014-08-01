@@ -33,26 +33,26 @@ namespaces:
   
   title: dct:title
   identi: dct:identifier
-  work: method:subject
-  altern: dct:Alternative #merge with above?
-  subjec: method:subject
+  work: vra:workType
+  altern: dct:Alternative
+  subjec: dct:subject
   descri: dct:description
-  proces: method:subject # not sure?
+  proces: vra:technique
   point: dct:HasVersion
-  measur: dct:Extent
+  measur: vra:measurements
   object: ov:compassDirection 
-  primar: method:subject
-  second: method:subject
+  primar: method:geographic
+  second: method:geographic
   availa: dct:description
-  period: method:subject
-  perioa: method:subject
-  relati: dct:HasVersion
-  orient: dct:description
-  rights: mrel:pht
+  period: vra:stylePeriod
+  perioa: vra:stylePeriod
+  relati: dct:relation
+  orient: dct:compassDirection
+  rights: marcrel:pht
   date: oregon:cco/viewDate
   righta: method:rights
-  publis: dct:publisher
-  source: daia:label
+  publis: dct:source
+  source: holding:label
   data: oregon:dateDigitized
   digiti: oregon:conversionSpecifications
   image: #SKIP
