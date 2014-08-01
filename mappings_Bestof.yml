@@ -28,8 +28,8 @@
   #
   # Bestof
   #
-title: method:IDasTitle 
-additb: method:IDasTitle
+title: dct:title
+additb: dct:title
 descra: dct:Alternative
 descri: dct:description
 subjec: dct:subject
