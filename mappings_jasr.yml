@@ -35,7 +35,7 @@ date: method:date
 type: method:type
 format: method:format
 identi: dct:identifier
-source: daia:label
+source: holding:label
 langua: method:language
 collec: dct:IsPartOf
 collea: dct:IsPartOf
