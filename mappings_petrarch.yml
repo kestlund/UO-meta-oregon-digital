@@ -24,7 +24,7 @@ namespaces:
   iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
   daia: "http://uri.gbv.de/ontology/daia/"
   exif: "http://www.w3.org/2003/12/exif/ns"
-  rdvocab: "http://rdvocab.info/roles"       (not sure if correct URL)
+
   
   #
   # petrarch
