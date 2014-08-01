@@ -36,17 +36,17 @@ namespaces:
   docume: dct:IsPartOf
   descri: dct:description
   number: schema:numberOfPages
-  subjec: method:lc
-  tgm: method:tgm 
-  theme: method:subject 
-  people: method:subject 
-  corpor: method:lcnaf
+  subjec: dct:subject
+  tgm: dct:subject
+  theme: dct:subject 
+  people: dct:subject
+  corpor: dct:subject
   place: method:geographic
   creato: dct:creator
   contri: dct:contributor
   date: method:date
   rights: method:rights
-  reposi: marcrel:repository
+  reposi: marcrel:rps
   collec: dct:IsPartOf
   collea: dct:IsPartOf
   box: dct:IsPartOf
@@ -71,6 +71,6 @@ namespaces:
   catalo: # SKIP
   catala: # SKIP
   load: # SKIP
-  publis: dct:publisher
+  publis: dct:source
   digita: oregon:isPartOf/set
   contra: oregon:contributingInstitution
