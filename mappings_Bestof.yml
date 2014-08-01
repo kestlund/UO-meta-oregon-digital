@@ -32,22 +32,22 @@ title: method:IDasTitle
 additb: method:IDasTitle
 descra: dct:Alternative
 descri: dct:description
-subjec: method:lc
-names: method:lc (lcnaf)
-corpor: method:lc
+subjec: dct:subject
+names: dct:subject
+corpor: dct:subject
 covera: dct:Spatial
-sub: method:lc (tgm)
-temp: method:lc 
+sub: dct:subject
+temp: dct:subject
 creato: dct:creator
 data: oregon:cco/viewDate
 rights: dct:rights
-reposi: marcrel:repository
+reposi: dct:repository
 relati: dct:IsPartOf (might create a method tag for sub collections)
 collec: dct:IsPartOf
 collea: oad:has_findingAid
 sourca: dct:extent
-source: method:format
-sourcb: schema:itemCondition
+source: dct:hasFormat
+sourcb: oregon:sourceCondition
 type: method:type
 image: dct:extent
 format: method:format
@@ -59,7 +59,7 @@ captur: oregon:conversionSpecifications
 resolu: exif:resolution
 ditigi: method:processing_history  (combine with captur)
 additi: dct:HasVersion
-publis: dct:publisher
+publis: dct:source
 digita: oregon:isPartOf/set
 digitb: # SKIP
 contri: oregon:contributingInstitution
