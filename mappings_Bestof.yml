@@ -40,9 +40,9 @@ sub: dct:subject
 temp: dct:subject
 creato: dct:creator
 data: oregon:cco/viewDate
-rights: dct:rights
-reposi: dct:repository
-relati: dct:IsPartOf (might create a method tag for sub collections)
+rights: method:rights
+reposi: marcrel:rps
+relati: dct:IsPartOf
 collec: dct:IsPartOf
 collea: oad:has_findingAid
 sourca: dct:extent
@@ -57,7 +57,7 @@ color: exif:colorSpace
 date: oregon:dateDigitized
 captur: oregon:conversionSpecifications
 resolu: exif:resolution
-ditigi: method:processing_history  (combine with captur)
+ditigi: method:processing_history  
 additi: dct:HasVersion
 publis: dct:source
 digita: oregon:isPartOf/set
