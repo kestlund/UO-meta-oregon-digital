@@ -36,7 +36,7 @@ city: method: geographic
 county: method: geographic
 state: method: geographic
 countr: method: geographic
-site: dct:coverage # may need a custom field or to cleanup and map out
+site: madsrdf:streetAddress
 photog: oregon: cco/viewDate
 photoa: marcrel: pht
 catalo: SKIP
@@ -51,12 +51,12 @@ creatb: modsref:note
 metada: modsref:note # are these important for public?
 digita: dct:isPartOf
 sourca: dct:provenance # source of slide, look for repository/collection
-source: 
-souceb: 
-publis: dct:publisher
-rights: dct: rights
-type: dct:type
-format: dct:format
+source: dct:source
+souceb: holding:label
+publis: dct:source
+rights: method:rights
+type: method:type
+format: method:format
 identi: dct:identifier
-techni: # look up other ones
+techni: oregon:conversionSpecifications
 contri: oregon:contributingInstitution
