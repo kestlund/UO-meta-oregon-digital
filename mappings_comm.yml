@@ -30,16 +30,16 @@ titlb: dct:title
 descri: dct:description
 identi: dct:Alternative
 date: method:date
-covera: dct:Spatial
+covera: method:geographic
 creato: dct:creator
-person: method:lc (lcnaf)
-subjec: method:lc
+person: dct:subject #lcnaf
+subjec: dct:subject
 relati: dct:IsPartOf
-collec: daia:label (for collection ID number- needed?)
-sourca: daia:label
-source: vra:medium
+collec: dct:IsPartOf
+sourca: holding:label
+source: dct:hasFormat
 type: method:type
-publis: dct:publisher
+publis: dct:source
 donor: dct:contributor
 rights: method:rights
 format: method:format
