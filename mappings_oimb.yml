@@ -9,7 +9,7 @@ oregon: "http://tom.oregonstate.edu/"
 
 title: dct:identifier
 subjec: dct:title
-source: daia:label
+source: holding:label
 subjec: dct:subject # ITIS, uBio, LC
 sub: dct:subject # ITIS, uBio, Geonames, LC
 phlyum:	dwc:phlyum 	# ITIS and uBio
