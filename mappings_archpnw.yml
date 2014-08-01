@@ -28,18 +28,18 @@ title: dct:title
 view: oregon:cco/viewDescription
 varian: dct:alternative
 relate: dct:isPartOf
-creato: oregon:cco/creatorDisplay (need json.ld files)
+creato: oregon:cco/creatorDisplay #need json.ld files?
 creata: dct:creator
 date: method:date
-covra: dct:temporal
-city: method:geographic (merge all geographic)
+covra: dct:temporal #correct?
+city: method:geographic #merge all geographic
 county: method:geographic
 state: method:geographic
 countr: method:geographic
 site: madsrdf:streetAddress
 photog: oregon:cco/viewDate
 photoa: mrel:pht
-catalo: SKIP
+catalo: #SKIP
 object: vra:workType
 period: vra:stylePeriod
 materi: vra:materials
@@ -48,15 +48,15 @@ signif: dct:description
 refere: schema:citation
 notes: modsref:note
 creatb: modsref:note
-metada: SKIP
+metada: #SKIP
 digita: oregon:isPartOf/set
-sourca: dct:source # source of slide, look for repository/collection
+sourca: dct:provenance # ????
 source: dct:source #source and sourcea are used interchangably Merge? 
 sourcb: daia:label
-publis: dct:publisher
+publis: dct:source
 rights: method:rights
-type: dct:type
-format: dct:format
+type: method:type
+format: method:format
 identi: dct:identifier
 techni: oregon:conversionSpecifications
 contri: oregon:contributingInstitution
