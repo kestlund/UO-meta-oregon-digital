@@ -38,10 +38,10 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   descra: dct:description
   dscri: dct:description
   artist: rdag2:bibliographicalinformation
-  lc: method:lc
-  aat: method:aat
+  lc: dct:subject
+  aat: dct:subject
   place: method:geographic
-  people: method:lc #lcnaf
+  people: dct:subject
   creato: dct:creator #lcnaf and ulan
   artisb: dct:description
   artisa: dct:description
@@ -51,12 +51,12 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   date: method:date
   commis: dct:description
   datb: method:date
-  instal: dct:description
+  instal: vra:materials
   format: vra:medium
   artwor: vra:measurements
   materi: vra:materials
-  source: method:format #source format
-  sourcb:  dct:Extent #source obj dimensions
+  source: dct:hasVersion
+  sourcb:  # SKIP
   artwob: method:geographic #artwork site
   locati: method:geographic #extact site
   covera: method:geographic #address
@@ -79,6 +79,6 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   load: #SKIP (load date)
   rights: method:rights
   contri: dct:contributor
-  publis: dct:publisher
+  publis: dct:source
   collec: oregon:isPartOf/set
   contra: oregon:contributingInstitution
