@@ -33,18 +33,18 @@ creato: dct:creator
 cultur: vra:culture
 organi: dct:description
 date: method:date
-time: dct:Temporal
+time: method:date
 langua: method:language
-lc: method:lc
-subjec: dct:subject
+lc: method:subject
+subjec: method:subject
 descri: dct:description
 descra: dct:description
-geogra: dct:Spatial
+geogra: method:geographic
 work: vra:workType      
 type: method:type
 format: method:format
-reposi: dct:IsPartOf
-identi: dct:identifier
+reposi: dct:repository
+identi: dct:isPartOf
 size: dct:description
 number: dct:description
 nwda: oad:has_findingAid
@@ -52,7 +52,7 @@ additi: # SKIP
 rights: method:rights
 catala: # SKIP
 repres: # SKIP
-publis: dct:publisher
+publis: dct:source
 catalo: # SKIP
 metada: # SKIP
 digita: oregon:isPartOf/set
