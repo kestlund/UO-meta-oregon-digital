@@ -31,11 +31,11 @@ titla: dct:alternative
 descri: dct:description
 pagina: schema:numberOfPages
 citati: schema:citation
-subjec: method:lc (lc and tgm)
-lc: method:lc
-people: method:lc (lcnaf)
-corpor: method:lc (lcnaf) 
-place: method:geonames (not sure if right- was mapped to subject field)
+subjec: dct:subject
+lc: dct:subject
+people: dct:subject
+corpor: dct:subject 
+place: method:geographic
 genre: rdag1:formOfWork
 author: mrel:aut
 photog: mrel:pht
@@ -45,7 +45,7 @@ creato: dct:contributor
 previo: # SKIP (in the citation)
 date: dct:issued
 covera: dct:Temporal
-publis: dct:publisher
+publis: dct:source
 datedi: oregon:dateDigitized
 rights: method:rights
 reposi: dct:isPartOf
