@@ -34,9 +34,9 @@ namespaces:
   title: dct: title
   interv: dct:creator
   intera: dct:contributor
-  subjec: method:lc
+  subjec: dct:subject
   descri: dct:description
-  branch: method:lc
+  branch: dct:subject
   occupa: dct:description
   highes: dct:description
   places: dct:description
@@ -47,7 +47,7 @@ namespaces:
   langua: method:language
   audio: method:rights
   transc: method:rights
-  publis: dct:publisher
+  publis: dct:source
   notes: modsref:notes
   metada: #SKIP
   catalo: #SKIP
