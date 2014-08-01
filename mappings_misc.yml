@@ -31,7 +31,7 @@ namespaces:
   #
   
   title: dct:title
-  subjec: method:subject
+  subjec: dct:subject
   descri: dct:description
   creato: dct:creator
   publis: dct:publisher
@@ -43,7 +43,7 @@ namespaces:
   source: dct:source
   langua: method:language
   relati: #SKIP
-  covera: method:date # use dct:Temporal?
+  covera: method:date
   rights: method:rights
   audien: #SKIP
   full: #SKIP
