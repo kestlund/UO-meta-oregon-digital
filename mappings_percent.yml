@@ -37,7 +37,7 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   descrb: dct:description
   descra: dct:description
   dscri: dct:description
-  artist: dct:description
+  artist: rdag2:bibliographicalinformation
   lc: method:lc
   aat: method:aat
   place: method:geographic
