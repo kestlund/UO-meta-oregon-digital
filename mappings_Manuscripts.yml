@@ -26,38 +26,38 @@
   
   title: dct:title
   identi: dct:identifier
-  shelfm: daia:label
+  shelfm: holding:label
   descri: dct:description
-  conten: dct:description
+  conten: dct:tableOfContents
   titla: dct:Alternative
   altern: dct:Alternative
-  subjec: method:subject
-  keywor: method:subject
-  genre: method:subject
+  subjec: dct:subject
+  keywor: dct:subject
+  genre: dct:subject
   part: dct:HasPart
   creato: dct:creator
-  scribe: mrel:scr
-  artist: mrel:art
+  scribe: marcrel:scr
+  artist: marcrel:art
   contri: dct:contributor
   datc: method:date
   datb: method:date
   date: oregon:dateDigitized
-  publis: dct:publisher
+  publis: dct:source
   langua: method:language
-  reposi: dct:IsPartOf
+  reposi: marcrel:rps
   sourcb:  schema:numberOfPages
   sourcc: dct:Extent
   sourcd: vra:support
   source: dct:Alternative
   collec: dct:IsPartOf
-  collea: dct:identifier
+  collea: dct:isPartOf
   notes: modsref:note
   layout: rdag1:layout
   illust: dct:description
   decora: dct:description
   bindin: dct:description
   waterm: dct:description
-  condit: schema:itemCondition
+  condit: oregon:sourceCondition
   restor: dct:description
   proven: dct:provenance
   contra: #SKIP
