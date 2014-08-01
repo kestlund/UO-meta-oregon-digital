@@ -24,7 +24,7 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   # lowenstam
   #
 title: dct:title
-worka: dct:title
+worka: dct:Alternate
 view: oregon:cco/viewDescription
 agent: dct:creator
 agenta: oregon:cco/creatorDisplay
@@ -42,9 +42,9 @@ state: dct:description
 relati: dct:relation
 text: dct:description
 collec: dct:isPartOf
-photog: mrel:pht
+photog: marcrel:pht
 photo: oregon:cco/viewDate
-box: daia:label
+box: holding:label
 boxa: dct:subject
 sectio: dct:subject
 identi: dct:identifier
