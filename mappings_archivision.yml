@@ -54,7 +54,7 @@ sourca: #SKIP source caption
 sourcb: dct:isPartOf
 sourcc: #SKIP, same as identifier
 vrc: holding:label
-rights: dct: rights
+rights: method:rights
 record: #SKIP
 type: method:type
 identi: dct:identifier
