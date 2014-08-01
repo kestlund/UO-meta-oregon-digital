@@ -41,39 +41,39 @@ namespaces:
   photo: dct:identifier
   titla: dct:alternative
   publia: dct:alternative
-  notes: modsref:notes
-  photog: mrel:pht
-  author: mrel:aut
-  publis: dct:publisher
-  data: oregon:cco/viewDate 
+  notes: dct:description
+  photog: marcrel:pht
+  author: marcrel:aut
+  publis: dct:source
+  data: method:date 
   datb: method:date
   catalo: #SKIP
-  exhibi: method:subject
-  names: method:lcnaf
-  namea: method:lcnaf
-  subjec: method:subject
-  tgm: method:tgm
-  corpor: method:lcnaf
-  corpoa: method:lcnaf
+  exhibi: dct:subject
+  names: dct:subject
+  namea: dct:subject
+  subjec: dct:subject
+  tgm: dct:subject
+  corpor: dct:subject
+  corpoa: dct:subject
   place: method:geographic
   date: method:date
-  genre: method:subject
+  genre: dct:subject
   type: method:type
   format: method:format
   source: dct:source
   langua: method:language
   relati: dct:HasVersion
-  covera: #SKIP
+  covera: dct:coverage
   rights: method:rights
-  proven: #SKIP
+  proven: dct:provenance
   sourcb: dct:extent
-  sourcc: schema:itemCondition
-  sourcd: method:format
+  sourcc: oregon:sourceCondition
+  sourcd: dct:hadFormat
   number: schema:numberOfPages
-  donor: rdvocab:donor 
+  donor: marcrel:dnr 
   citati: schema:citation
-  origin: dct:contributor
-  reposi: dct:IsPartOf
+  origin: dct:publisher
+  reposi: marcrel:rps
   image: rdag1:fileSize
   imaga: exif:width
   imagb: exif:height
@@ -86,12 +86,12 @@ namespaces:
   proces: method:processing_history 
   links: #SKIP
   addito: dct:HasVersion
-  additi: dct:HasVersion
+  additi: dct:HasFormat
   metada: #SKIP
   imagc: #SKIP
   imagd: #SKIP
   scanni: #SKIP
-  other: dct:alternative
+  other: dct:identifier
   catala: #SKIP
   full: #SKIP
   load: #SKIP
