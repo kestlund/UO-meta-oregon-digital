@@ -29,7 +29,7 @@
   # Bestof
   #
 title: dct:title
-additb: dct:title
+additb: dct:Alternative
 descra: dct:Alternative
 descri: dct:description
 subjec: dct:subject
