@@ -37,10 +37,10 @@ people: dct:subject
 corpor: dct:subject 
 place: method:geographic
 genre: rdag1:formOfWork
-author: mrel:aut
-photog: mrel:pht
-cartog: mrel:ctg
-illust: mrel:ill
+author: marcrel:aut
+photog: marcrel:pht
+cartog: marcrel:ctg
+illust: marcrel:ill
 creato: dct:contributor
 previo: # SKIP (in the citation)
 date: dct:issued
@@ -48,7 +48,7 @@ covera: dct:Temporal
 publis: dct:source
 datedi: oregon:dateDigitized
 rights: method:rights
-reposi: dct:isPartOf
+reposi: marcrel:rps
 relati: dct:isPartOf
 collec: dct:isPartOf
 additi: dct:HasVersion
