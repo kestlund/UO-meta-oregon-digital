@@ -39,7 +39,7 @@ type: method:type
 format: method:format
 rights: method:rights	
 collec: dct:IsPartOf
-source: dct:IsPartOf
+source: marcrel:rps
 identi: dct:identifier
 museum: # SKIP
 digita: oregon:isPartOf/set
