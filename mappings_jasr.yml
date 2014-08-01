@@ -27,10 +27,10 @@
 title: dct:title
 covera: dct:temporal
 datea: # SKIP
-subjec: method:lc
-corpor: method:lc
+subjec: dct:subject
+corpor: dct:subject
 creato: dct:creator
-publis: dct:publisher
+publis: dct:source
 date: method:date
 type: method:type
 format: method:format
