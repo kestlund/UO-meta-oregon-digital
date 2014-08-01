@@ -32,15 +32,15 @@ title: dct:title
 sourca: # SKIP
 old: dct:Alternative
 descri: dct:description
-series: method:subject
-names: method:subject
-corpor: method:subject
+series: dct:subject
+names: dct:subject
+corpor: dct:subject
 covera: method:geographic
-lc: method:subject
-subjec: method:subject
+lc: dct:subject
+subjec: dct:subject
 photog: dct:creator
 date: method:date
-reposi: dct:IsPartOf
+reposi: marcrel:rps
 collec: dct:IsPartOf
 source: dct:IsPartOf
 album: dct:IsPartOf
