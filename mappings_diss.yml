@@ -24,12 +24,12 @@
   #
   # diss
   #
-title: dct:title (some French titles)
-creato: method:lc (lcnaf for author)
-subjec: method:lc (merge lc and MeSH)
+title: dct:title #some French titles
+creato: method:subject #lcnaf for author
+subjec: method:subject #lc and MeSH
 descri: dct:description
-subjea: dct:subject (French)
-descra: dct:description  (French)
+subjea: method:subject #French
+descra: dct:description  #French
 journa: swpo:containedInJournal  (some French titles)
 relati: schema:citation   (some French titles)
 publis: dct:publisher
