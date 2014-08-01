@@ -35,7 +35,7 @@ descri: dct:description
 subjec: dct:subject
 names: dct:subject
 corpor: dct:subject
-covera: dct:Spatial
+covera: dct:subject
 sub: dct:subject
 temp: dct:subject
 creato: dct:creator
