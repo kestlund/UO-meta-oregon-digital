@@ -44,14 +44,14 @@ covera: method:geographic
 creato: marcrel:pht
 data: dct:date
 rights: method:rights
-reposi: dct:IsPartOf
+reposi: marcrel:rps
 relati: dct:IsPartOf
 collec: dct:IsPartOf
-source: dct:hasFormat # source format
-sourca: dct:extent # source dimensions
-sourceb: # !!???!!???!!???
+source: dct:hasFormat
+sourca: dct:extent
+sourceb: oregon:sourceCondition
 type: method:type
-sub: dct:subject # sub type (photo genre)
+sub: dct:subject
 format: method:format
 image: rdag1:fileSize
 imagd: exif:width
