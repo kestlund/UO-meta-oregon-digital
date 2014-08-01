@@ -32,12 +32,12 @@ title: dct:title
 sourca: # SKIP
 old: dct:Alternative
 descri: dct:description
-series: method:lc
-names: method:lc
-corpor: method:lc
-covera: dct:Spatial
-lc: method:lc
-subjec: method:lc
+series: method:subject
+names: method:subject
+corpor: method:subject
+covera: method:geographic
+lc: method:subject
+subjec: method:subject
 photog: dct:creator
 date: method:date
 reposi: dct:IsPartOf
@@ -46,7 +46,7 @@ source: dct:IsPartOf
 album: dct:IsPartOf
 admin: dct:source
 type: method:type
-format: method:format
+format: dct:hasFormat
 scan: oregon:conversionSpecifications
 metada: # SKIP
 catala: # SKIP
@@ -55,7 +55,7 @@ rights: method:rights
 proven: dct:provenance
 relate: dct:IsVersionOf
 bandin: # SKIP
-publis: dct:publisher
+publis: dct:source
 digita: oregon:isPartOf/set
 contri: oregon:contributingInstitution
   
