@@ -32,7 +32,7 @@ namespaces:
   
   title: dct:title
   poems: dct:HasPart
-  subjec: method:subject
+  subjec: dct:subject
   descri: dct:description
   creato: dct:creator
   publis: dct:publisher
