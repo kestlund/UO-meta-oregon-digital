@@ -46,7 +46,7 @@ namespaces:
   relati: dct:IsPartOf
   covera: dct:coverage
   rights: method:rights
-  fulla: oregon:FullText
+  fulla: oregon:fullText
   full: #SKIP
   digita: oregon:IsPartOf/set
   contra: oregon:contributingInstitution
