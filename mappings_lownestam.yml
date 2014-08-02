@@ -29,7 +29,7 @@ view: oregon:cco/viewDescription
 agent: dct:creator
 agenta: oregon:cco/creatorDisplay
 date: dct:date
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 style: vra:stylePeriod
 cultur: vra:culture
