@@ -42,7 +42,7 @@ photoa: marcrel: pht
 catalo: SKIP
 object: vra:workType
 period: vra:stylePeriod
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 signif: dct:description
 refere: schema:citation
