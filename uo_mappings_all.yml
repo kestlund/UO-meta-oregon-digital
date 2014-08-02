@@ -166,7 +166,7 @@
     dmcreated: SKIP
     dmmodified: SKIP
     dmrecord: 
-      method: replace # dmrecord has CDM number used in old CDM URL dct:replaces 
+     method: replace # dmrecord has CDM number used in old CDM URL dct:replaces
   
   
   #
@@ -190,7 +190,7 @@ photoa: marcrel: pht
 catalo: SKIP
 object: vra:workType
 period: vra:stylePeriod
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 signif: dct:description
 refere: schema:citation
@@ -358,7 +358,7 @@ creata: oregon:cco/creatorDisplay
 cultur: vra:culture
 subjec: vra:stylePeriod
 date: method:date
-materi: vra:medium
+materi: vra:material
 measur: vra:measurements
 catego: dct:description
 descri: dct:description
@@ -378,7 +378,7 @@ catalo: # SKIP
   # ode
   #
 title: dct:title
-date: date:published
+date: date:issued
 volume: swpo:isVolume
 issue: swpo:hasNumber
 editio: dct:title
@@ -642,7 +642,7 @@ contra: oregon:contributingInstitution
   type: method:type
   format: method:format
   langua: method:language
-  full: oregon:FullText
+  full: oregon:fullText
   addita: dct:HasVersion
   datedi: oregon:dateDigitized
   captur: oregon:conversionSpecifications
@@ -683,7 +683,7 @@ photo:  exif:orientation
 phota: rdag1:colourContent 
 identi: dct:identifier
 source: dct:hasFormat
-relati: dct:desription
+relati: dct:description
 donor: dct:source
 proces: oregon:conversionSpecifications
 data: oregon:dateDigitized 
@@ -721,10 +721,10 @@ contri: oregon:contributingInstitution
   data: method:date
   commis: dct:description
   datb: method:date
-  instal: vra:materials
-  format: vra:medium
+  instal: vra:material
+  format: vra:material
   artwor: vra:measurements
-  materi: vra:materials
+  materi: vra:material
   source: dct:hasVersion
   sourcb:  # SKIP
   artwob: method:geographic #artwork site
@@ -735,7 +735,7 @@ contri: oregon:contributingInstitution
   langua: method:language
   titla: oregon:cco/viewDescription
   digita: oregon:dateDigitized
-  captur: oregon:conversionSpecification
+  captur: oregon:conversionSpecifications
   type: method:type
   formaa: method:format
   digitb: dct:Extent
@@ -765,7 +765,7 @@ creata: dct:creator
 date: dct:date
 earlie: vra:earliestDate
 latest: vra:latestDate
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 style: vra:stylePeriod
 cultur: vra:culture
@@ -813,7 +813,7 @@ creata: dct:creator
 date: dct:date
 earlie: vra:earliestDate
 latest: vra:latestDate
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 style: vra:stylePeriod
 cultur: vra:culture
@@ -862,7 +862,7 @@ creata: dct:creator
 date: dct:date
 earlie: vra:earliestDate
 latest: vra:latestDate
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 style: vra:stylePeriod
 cultur: vra:culture
@@ -909,7 +909,7 @@ view: oregon:cco/viewDescription
 agent: dct:creator
 agenta: oregon:cco/creatorDisplay
 date: dct:date
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 style: vra:stylePeriod
 cultur: vra:culture
@@ -988,7 +988,7 @@ contri: oregon:contributingInstitution
   metada: #SKIP
   metadb: #SKIP
   digita: oregon:IsPartOf/set
-  full: oregon:FullText
+  full: oregon:fullText
   
 
   #
@@ -1064,7 +1064,7 @@ contri: oregon:contributingInstitution
   proven: dct:provenance
   sourcb: dct:extent
   sourcc: oregon:sourceCondition
-  sourcd: dct:hadFormat
+  sourcd: dct:hasFormat
   number: schema:numberOfPages
   donor: marcrel:dnr 
   citati: schema:citation
@@ -1117,7 +1117,7 @@ contri: oregon:contributingInstitution
   rights: method:rights
   audien: #SKIP
   full: #SKIP
-  fulla: oregon:FullText
+  fulla: oregon:fullText
   contra: oregon:contributingInstitution
   
   
@@ -1131,7 +1131,7 @@ contri: oregon:contributingInstitution
   descri: dct:description
   creato: dct:creator
   publis: dct:publisher
-  contri: dct:contributors
+  contri: dct:contributor
   date: method:date
   type: method:type
   format: method:format
@@ -1141,7 +1141,7 @@ contri: oregon:contributingInstitution
   relati: dct:IsPartOf
   covera: dct:coverage
   rights: method:rights
-  fulla: oregon:FullText
+  fulla: oregon:fullText
   full: #SKIP
   digita: oregon:IsPartOf/set
   contra: oregon:contributingInstitution
@@ -1272,3 +1272,5 @@ catala: # SKIP
 source: marcrel:rps
 digita: oregon:isPartOf/set
 contra: oregon:contributingInstitution
+
+
