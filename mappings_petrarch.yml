@@ -36,7 +36,7 @@ namespaces:
   descri: dct:description
   creato: dct:creator
   publis: dct:publisher
-  contri: dct:contributors
+  contri: dct:contributor
   date: method:date
   type: method:type
   format: method:format
