@@ -68,7 +68,7 @@ namespaces:
   proven: dct:provenance
   sourcb: dct:extent
   sourcc: oregon:sourceCondition
-  sourcd: dct:hadFormat
+  sourcd: dct:hasFormat
   number: schema:numberOfPages
   donor: marcrel:dnr 
   citati: schema:citation
