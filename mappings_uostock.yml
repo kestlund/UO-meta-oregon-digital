@@ -47,7 +47,7 @@ photo:  exif:orientation
 phota: rdag1:colourContent 
 identi: dct:identifier
 source: dct:hasFormat
-relati: dct:desription
+relati: dct:description
 donor: dct:source
 proces: oregon:conversionSpecifications
 data: oregon:dateDigitized 
