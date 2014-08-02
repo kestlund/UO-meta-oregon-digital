@@ -32,7 +32,7 @@ creata: dct:creator
 date: dct:date
 earlie: vra:earliestDate
 latest: vra:latestDate
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 style: vra:stylePeriod
 cultur: vra:culture
