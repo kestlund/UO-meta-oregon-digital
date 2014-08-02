@@ -55,7 +55,7 @@ namespaces:
   type: method:type
   format: method:format
   langua: method:language
-  full: oregon:FullText
+  full: oregon:fullText
   addita: dct:HasVersion
   datedi: oregon:dateDigitized
   captur: oregon:conversionSpecifications
