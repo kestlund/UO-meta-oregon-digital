@@ -64,7 +64,7 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   langua: method:language
   titla: oregon:cco/viewDescription
   digita: oregon:dateDigitized
-  captur: oregon:conversionSpecification
+  captur: oregon:conversionSpecifications
   type: method:type
   formaa: method:format
   digitb: dct:Extent
