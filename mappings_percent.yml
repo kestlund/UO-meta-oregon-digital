@@ -50,8 +50,8 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   data: method:date
   commis: dct:description
   datb: method:date
-  instal: vra:materials
-  format: vra:medium
+  instal: vra:material
+  format: vra:material
   artwor: vra:measurements
   materi: vra:materials
   source: dct:hasVersion
