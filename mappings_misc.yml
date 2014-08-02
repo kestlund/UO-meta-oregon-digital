@@ -47,5 +47,5 @@ namespaces:
   rights: method:rights
   audien: #SKIP
   full: #SKIP
-  fulla: oregon:FullText
+  fulla: oregon:fullText
   contra: oregon:contributingInstitution
