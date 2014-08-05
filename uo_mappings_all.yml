@@ -561,7 +561,7 @@ collec: oregon:archives/collectionTitle
 collea: oregon:archives/collectionIdentifier
 relati: dct:isPartOf
 identi: dct:identifier
-donor: rdvocab: donor
+donor: marcrel:dnr
 format: method:format
 type: method:type
 langua: method:language
@@ -782,7 +782,7 @@ relati: dct:relation
 larger: dct:isPartOf
 source: dct:source
 sourca: #SKIP source caption
-sourcb: dct:isPartOf
+sourcb: oregon:archives/collectionTitle
 sourcc: #SKIP, same as identifier
 vrc: holding:label
 rights: method:rights
@@ -830,7 +830,7 @@ relati: dct:relation
 larger: dct:isPartOf
 source: dct:source
 sourca: #SKIP source caption
-sourcb: dct:isPartOf
+sourcb: oregon:archives/collectionTitle
 sourcc: #SKIP source id, only useful for Meggs set of >50 images
 vrc: holding:label
 rights: method:rights
@@ -879,7 +879,7 @@ relati: dct:relation
 larger: dct:isPartOf
 source: dct:source
 sourca: #SKIP source caption
-sourcb: dct:isPartOf
+sourcb: oregon:archives/collectionTitle
 sourcc: dct:identifier   #not necessarily the same as identifier
 vrc: holding:label
 rights: method:rights
@@ -919,7 +919,7 @@ descri: dct:description
 state: dct:description
 relati: dct:relation
 text: dct:description
-collec: dct:isPartOf
+collec: oregon:archives/collectionTitle
 photog: marcrel:pht
 photo: oregon:cco/viewDate
 box: holding:label
