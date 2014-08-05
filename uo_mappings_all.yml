@@ -366,7 +366,7 @@ notes: modsref:note
 type: method:type
 format: method:format
 rights: method:rights	
-collec: dct:isPartOf
+collec: oregon:archives/collectionTitle
 source: marcrel:rps
 identi: dct:identifier
 museum: # SKIP
