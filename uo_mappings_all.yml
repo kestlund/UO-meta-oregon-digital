@@ -360,7 +360,7 @@ subjec: vra:stylePeriod
 date: method:date
 materi: vra:material
 measur: vra:measurements
-catego: dct:description
+catego: vra:workType
 descri: dct:description
 notes: modsref:note
 type: method:type
