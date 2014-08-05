@@ -213,8 +213,8 @@ contri: oregon:contributingInstitution
   # Bestof
   #
 title: dct:title
-additb: dct:Alternative
-descra: dct:Alternative
+additb: dct:alternative
+descra: dct:alternative
 descri: dct:description
 subjec: dct:subject
 names: dct:subject
@@ -226,8 +226,8 @@ creato: dct:creator
 data: oregon:cco/viewDate
 rights: method:rights
 reposi: marcrel:rps
-relati: dct:IsPartOf
-collec: dct:IsPartOf
+relati: oregon:archives/collectionTitle
+collec: oregon:archives/collectionIdentifier
 collea: oad:has_findingAid
 sourca: dct:extent
 source: dct:hasFormat
@@ -242,9 +242,9 @@ date: oregon:dateDigitized
 captur: oregon:conversionSpecifications
 resolu: exif:resolution
 ditigi: method:processing_history  
-additi: dct:HasVersion
+additi: dct:hasVersion
 publis: dct:source
-digita: oregon:isPartOf/set
+digita: oregon:set
 digitb: # SKIP
 contri: oregon:contributingInstitution
 
@@ -254,7 +254,7 @@ contri: oregon:contributingInstitution
 identi: dct:identifier
 title: dct:title
 sourca: # SKIP
-old: dct:Alternative
+old: dct:alternative
 descri: dct:description
 series: dct:subject
 names: dct:subject
@@ -265,9 +265,9 @@ subjec: dct:subject
 photog: dct:creator
 date: method:date
 reposi: marcrel:rps
-collec: dct:IsPartOf
-source: dct:IsPartOf
-album: dct:IsPartOf
+collec: oregon:archives/collectionIdentifier
+source: oregon:archives/collectionTitle
+album: dct:isPartOf
 admin: dct:source
 type: method:type
 format: dct:hasFormat
@@ -277,10 +277,10 @@ catala: # SKIP
 catalo: # SKIP
 rights: method:rights	
 proven: dct:provenance
-relate: dct:IsVersionOf
+relate: dct:isVersionOf
 bandin: # SKIP
 publis: dct:source
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
   #
@@ -310,7 +310,7 @@ metada: # SKIP
 image: # SKIP
 ambros: # SKIP
 catalo: # SKIP
-digita: oregon:isPartOf/set
+digita: oregon:set
 full: oregon:fullText
 contra: oregon:contributingInstitution
 
@@ -332,8 +332,8 @@ format: method:format
 identi: dct:identifier
 source: holding:label
 langua: method:language
-collec: dct:IsPartOf
-collea: dct:IsPartOf
+collec: oregon:archives/collectionTitle
+collea: oregon:archives/collectionIdentifier
 colleb: oad:has_findingAid
 box: # SKIP
 folder: # SKIP
@@ -345,7 +345,7 @@ metada: # SKIP
 imagb: # SKIP
 catalo: # SKIP
 ambros: # SKIP
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 fulla: oregon:  #TBD; full PDFs download, in jasr folder ready to go
 
@@ -366,11 +366,11 @@ notes: modsref:note
 type: method:type
 format: method:format
 rights: method:rights	
-collec: dct:IsPartOf
+collec: dct:isPartOf
 source: marcrel:rps
 identi: dct:identifier
 museum: # SKIP
-digita: oregon:isPartOf/set
+digita: oregon:set
 catalo: # SKIP
 
 
@@ -393,7 +393,7 @@ relati: dct:relation
 rights: method:rights
 full: oregon:fullText
 metada: # SKIP
-digita: oregon:isPartOf/set
+digita: oregon:set
 ambros: # SKIP
 contri: oregon:contributingInstitution
 
@@ -402,28 +402,26 @@ contri: oregon:contributingInstitution
 #
 
 title: dct:identifier
-subjec: dct:title
 source: holding:label
 subjec: dct:subject # ITIS, uBio, LC
 sub: dct:subject # ITIS, uBio, Geonames, LC
 phlyum:	dwc:phlyum 	# ITIS and uBio
 class: dwc:class	# ITIS
-suba: dwc:genus 
-suba: dwc:species
+suba: dwc:genus  #for genusSpecies
 common: dwc:vernacularName
 descri: dct:description
-covra: dct:Spatial
+covra: dct:spatial
 creato: dct:creator
 id: dwc:identificationVerificationStatus
 slide: # SKIP
 date: method:date
 catalo: # SKIP
-local: dct:IsPartOf
+local: dct:isPartOf
 type: method:type
 format: method:format
 identi: dct:identifier
 rights: method:rights
-digita: oregon:isPartOf/set
+digita: oregon:set
 sourca: # SKIP
 contri: oregon:contributingInstitution
 
@@ -431,7 +429,7 @@ contri: oregon:contributingInstitution
   # tlegacies
   #
 title: dct:title
-altern: dct:Alternative
+altern: dct:alternative
 creato: dct:creator
 cultur: vra:culture
 organi: dct:description
@@ -447,7 +445,7 @@ work: vra:workType
 type: method:type
 format: method:format
 reposi: marcrel:rps
-identi: dct:isPartOf
+identi: oregon:archives/collectionIdentifier
 size: dct:description
 number: dct:description
 nwda: oad:has_findingAid
@@ -458,7 +456,7 @@ repres: # SKIP
 publis: dct:source
 catalo: # SKIP
 metada: # SKIP
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
   #
@@ -476,7 +474,7 @@ lc: dct:subject
 people: dct:subject
 corpor: dct:subject 
 place: method:geographic
-genre: rdag1:formOfWork
+genre: rdaw:formOfWork.en
 author: marcrel:aut
 photog: marcrel:pht
 cartog: marcrel:ctg
@@ -484,20 +482,20 @@ illust: marcrel:ill
 creato: dct:contributor
 previo: # SKIP (in the citation)
 date: dct:issued
-covera: dct:Temporal
+covera: dct:temporal
 publis: dct:source
 datedi: oregon:dateDigitized
 rights: method:rights
 reposi: marcrel:rps
-relati: dct:isPartOf
-collec: dct:isPartOf
-additi: dct:HasVersion
-addita: dct:HasVersion
+relati: oregon:archives/collectionTitle
+collec: oregon:archives/collectionIdentifier
+additi: dct:hasVersion
+addita: dct:hasVersion
 langua: method:language
 type: method:type
 format: method:format
 captur: oregon:conversionSpecifications
-file: rdag1:fileSize
+file: rdam:fileSize.en
 image: exif:width
 imaga: exif:height
 color: exif:colorSpace
@@ -511,7 +509,7 @@ link: dct:relation
 contra: oregon:contributingInstitution
 catalo: # SKIP
 load: # SKIP
-digitb: oregon:isPartOf/set
+digitb: oregon:set
 fulla: oregon:  #TBD; full PDFs download
 
 
@@ -521,14 +519,14 @@ fulla: oregon:  #TBD; full PDFs download
 title: dct:identifier
 titlb: dct:title
 descri: dct:description
-identi: dct:Alternative
+identi: dct:alternative
 date: method:date
 covera: method:geographic
 creato: dct:creator
 person: dct:subject #lcnaf
 subjec: dct:subject
-relati: dct:IsPartOf
-collec: dct:IsPartOf
+relati: oregon:archives/collectionTitle
+collec: oregon:archives/collectionIdentifier
 sourca: holding:label
 source: dct:hasFormat
 type: method:type
@@ -541,7 +539,7 @@ captur: oregon:conversionSpecifications
 metadata: # SKIP
 imaga: # SKIP
 catalo: # SKIP
-digita: oregon:IsPartOf/set
+digita: oregon:set
 catala: # SKIP
 contri: oregon:contributingInstitution
 
@@ -556,12 +554,12 @@ photog: # SKIP empty field, merge with creator
 covera: method:geographic
 date: method:date
 contri: dct:contributor
-relate: dct:HasVersion
+relate: dct:hasVersion
 source: # SKIP (empty field, merge with collec- title of collection)
 reposi: marcrel:rps
-collec: dct:source
-collea: dct:identifier
-relati: dct:IsPartOf
+collec: oregon:archives/collectionTitle
+collea: oregon:archives/collectionIdentifier
+relati: dct:isPartOf
 identi: dct:identifier
 donor: rdvocab: donor
 format: method:format
@@ -570,7 +568,7 @@ langua: method:language
 rights: method:rights
 publis: dct:source
 digiti: oregon:conversionSpecifications
-digita: oregon:IsPartOf/set
+digita: oregon:set
 contra: oregon:contributingInstitution
 
   #
@@ -598,10 +596,10 @@ contra: oregon:contributingInstitution
  source: dct:description
  relati: dct:relation
  issuin: dct:source
- collec: dct:IsPartOf
- collea: dct:IsPartOf
- box: dct:IsPartOf
- folder: dct:IsPartOf
+ collec: oregon:archives/collectionTitle
+ collea: oregon:archives/collectionIdentifier
+ box: oregon:archives/boxNumber
+ folder: oregon:archives/folderNumber
  proces: method:processing_history
  datea: oregon:dateDigitized
  rights: method:rights
@@ -609,7 +607,7 @@ contra: oregon:contributingInstitution
  metada: # SKIP
  imagin: # SKIP
  catalo: # SKIP
- digita: oregon:isPartOf/set
+ digita: oregon:set
  contri: oregon:contributingInstitution
  
  
@@ -620,7 +618,7 @@ contra: oregon:contributingInstitution
   identi: dct:identifier
   title: dct: title
   altern: dct:alternative
-  docume: dct:IsPartOf
+  docume: dct:isPartOf
   descri: dct:description
   number: schema:numberOfPages
   subjec: dct:subject
@@ -634,19 +632,19 @@ contra: oregon:contributingInstitution
   date: method:date
   rights: method:rights
   reposi: marcrel:rps
-  collec: dct:IsPartOf
-  collea: dct:IsPartOf
-  box: dct:IsPartOf
-  folder: dct:IsPartOf
+  collec: oregon:archives/collectionTitle
+  collea: oregon:archives/collectionIdentifier
+  box: oregon:archives/boxNumber
+  folder: oregon:archives/folderNumber
   ambros: # SKIP
   type: method:type
   format: method:format
   langua: method:language
   full: oregon:fullText
-  addita: dct:HasVersion
+  addita: dct:hasVersion
   datedi: oregon:dateDigitized
   captur: oregon:conversionSpecifications
-  file: rdag1:fileSize
+  file: rdam:fileSize.en
   image: exif:width
   imaga: exif:height
   color: exif:colorSpace
@@ -659,7 +657,7 @@ contra: oregon:contributingInstitution
   catala: # SKIP
   load: # SKIP
   publis: dct:source
-  digita: oregon:isPartOf/set
+  digita: oregon:set
   contra: oregon:contributingInstitution
   
   #
@@ -668,8 +666,8 @@ contra: oregon:contributingInstitution
 title: dct: title
 creato: dct: creator
 subjec: dct:subject
-buildi: dct:subject # not sure if some of these will have CVs
-event: Schema:events
+buildi: dct:subject 
+event: schema:events
 descri: dct:description
 season: dct:subject
 genre:  dct:subject
@@ -680,7 +678,7 @@ date: method:date
 type: method:type
 format: method:format
 photo:  exif:orientation
-phota: rdag1:colourContent 
+phota: rdae:colourContent.ed
 identi: dct:identifier
 source: dct:hasFormat
 relati: dct:description
@@ -691,24 +689,24 @@ rights: method:rights
 metada: # SKIP
 scanni: # SKIP
 catalo: # SKIP
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
 
   #
   # percent
   #
-  projea:  rdarel:containsManifestation
+  projea:  rdam:containedInManifestation.en
   projec:  dct:identifier
   identi: dct:identifier
   oac: dct:identifier
   title: dct:title
-  altern: dct:Alternative
+  altern: dct:alternative
   series: dct:isPartOf
   descrb: dct:description
   descra: dct:description
   dscri: dct:description
-  artist: rdag2:bibliographicalinformation
+  artist: rdaa:biographicalInformation.en
   lc: dct:subject
   aat: dct:subject
   place: method:geographic
@@ -738,7 +736,7 @@ contri: oregon:contributingInstitution
   captur: oregon:conversionSpecifications
   type: method:type
   formaa: method:format
-  digitb: dct:Extent
+  digitb: dct:extent
   color: exif:colorSpace
   imaga: method:processing_history
   missin: #SKIP (missing items?)
@@ -750,7 +748,7 @@ contri: oregon:contributingInstitution
   rights: method:rights
   contri: dct:contributor
   publis: dct:source
-  collec: oregon:isPartOf/set
+  collec: oregon:set
   contra: oregon:contributingInstitution
 
   
@@ -799,7 +797,7 @@ projea: #SKIP
 catalo: #SKIP
 metada: #SKIP
 keywor: dct:subject
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
   #
@@ -847,7 +845,7 @@ projea: #SKIP
 catalo: #SKIP
 metada: #SKIP
 keywor: dct:subject
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
 
@@ -896,7 +894,7 @@ projea: #SKIP
 catalo: #SKIP
 metada: #SKIP
 keywor: dct:subject
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
 
@@ -932,7 +930,7 @@ rights: method:rights
 record: #SKIP
 type: method:type
 metada: #SKIP
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
   #
@@ -944,12 +942,12 @@ contri: oregon:contributingInstitution
   shelfm: holding:label
   descri: dct:description
   conten: dct:tableOfContents
-  titla: dct:Alternative
-  altern: dct:Alternative
+  titla: dct:alternative
+  altern: dct:alternative
   subjec: dct:subject
   keywor: dct:subject
   genre: dct:subject
-  part: dct:HasPart
+  part: dct:hasPart
   creato: dct:creator
   scribe: marcrel:scr
   artist: marcrel:art
@@ -961,13 +959,13 @@ contri: oregon:contributingInstitution
   langua: method:language
   reposi: marcrel:rps
   sourcb:  schema:numberOfPages
-  sourcc: dct:Extent
+  sourcc: dct:extent
   sourcd: vra:support
-  source: dct:Alternative
-  collec: dct:IsPartOf
-  collea: dct:isPartOf
+  source: dct:alternative
+  collec: oregon:archives/collectionTitle
+  collea: oregon:archives/collectionIdentifier
   notes: modsref:note
-  layout: rdag1:layout
+  layout: rdam:layout.en
   illust: dct:description
   decora: dct:description
   bindin: dct:description
@@ -987,7 +985,7 @@ contri: oregon:contributingInstitution
   imagc: #SKIP
   metada: #SKIP
   metadb: #SKIP
-  digita: oregon:IsPartOf/set
+  digita: oregon:set
   full: oregon:fullText
   
 
@@ -1017,7 +1015,7 @@ contri: oregon:contributingInstitution
   metada: #SKIP
   catalo: #SKIP
   digiti: oregon:conversionSpecifications
-  relati: oregon:IsPartOf/set
+  relati: oregon:set
   contri: oregon:contributingInstitution
   
   
@@ -1030,10 +1028,10 @@ contri: oregon:contributingInstitution
   descra: dct:alternative
   sourca: dct:description
   descri: dct:description
-  collec: dct:IsPartOf
-  collea: dct:IsPartOf
-  folder: dct:IsPartOf
-  box: dct:IsPartOf
+  collec: oregon:archives/collectionTitle
+  collea: oregon:archives/collectionIdentifier
+  folder: oregon:archives/folderNumber
+  box: oregon:archives/boxNumber
   photo: dct:identifier
   titla: dct:alternative
   publia: dct:alternative
@@ -1058,7 +1056,7 @@ contri: oregon:contributingInstitution
   format: method:format
   source: dct:source
   langua: method:language
-  relati: dct:HasVersion
+  relati: dct:hasVersion
   covera: dct:coverage
   rights: method:rights
   proven: dct:provenance
@@ -1070,7 +1068,7 @@ contri: oregon:contributingInstitution
   citati: schema:citation
   origin: dct:publisher
   reposi: marcrel:rps
-  image: rdag1:fileSize
+  image: rdam:fileSize.en
   imaga: exif:width
   imagb: exif:height
   color: exif:colorSpace
@@ -1081,7 +1079,7 @@ contri: oregon:contributingInstitution
   resolu: exif:resolution
   proces: method:processing_history 
   links: #SKIP
-  addito: dct:HasVersion
+  addito: dct:hasVersion
   additi: dct:HasFormat
   metada: #SKIP
   imagc: #SKIP
@@ -1092,7 +1090,7 @@ contri: oregon:contributingInstitution
   full: #SKIP
   load: #SKIP
   ambros: #SKIP
-  digita: oregon:IsPartOf/set
+  digita: oregon:set
   contri: oregon:contributingInstitution
   
   
@@ -1126,7 +1124,7 @@ contri: oregon:contributingInstitution
   #
   
   title: dct:title
-  poems: dct:HasPart
+  poems: dct:hasPart
   subjec: dct:subject
   descri: dct:description
   creato: dct:creator
@@ -1138,12 +1136,12 @@ contri: oregon:contributingInstitution
   identi: dct:identifier
   source: dct:source
   langua: method:language
-  relati: dct:IsPartOf
+  relati: dct:isPartOf
   covera: dct:coverage
   rights: method:rights
   fulla: oregon:fullText
   full: #SKIP
-  digita: oregon:IsPartOf/set
+  digita: oregon:set
   contra: oregon:contributingInstitution
   
   
@@ -1154,20 +1152,20 @@ contri: oregon:contributingInstitution
   title: dct:title
   identi: dct:identifier
   work: vra:workType
-  altern: dct:Alternative
+  altern: dct:alternative
   subjec: dct:subject
   descri: dct:description
   proces: vra:technique
-  point: dct:HasVersion
+  point: dct:hasVersion
   measur: vra:measurements
-  object: ov:compassDirection 
+  object: oregon:compassDirection
   primar: method:geographic
   second: method:geographic
   availa: dct:description
   period: vra:stylePeriod
   perioa: vra:stylePeriod
   relati: dct:relation
-  orient: dct:compassDirection
+  orient: oregon:compassDirection
   rights: marcrel:pht
   date: oregon:cco/viewDate
   righta: method:rights
@@ -1180,7 +1178,7 @@ contri: oregon:contributingInstitution
   format: method:format
   metada: #SKIP
   batch: #SKIP
-  digita: oregon:IsPartOf/set
+  digita: oregon:set
   contri: oregon:contributingInstitution
   
   
@@ -1191,9 +1189,9 @@ contri: oregon:contributingInstitution
   
 title: dct:identifier
 identi: dct:title
-titla: dct:Alternative
-descra: dct:Alternative
-tribad: dct:Alternative
+titla: dct:alternative
+descra: dct:alternative
+tribad: dct:alternative
 descri: dct:description
 tribac: dct:description
 tribal: dct:subject
@@ -1206,15 +1204,15 @@ creato: marcrel:pht
 data: dct:date
 rights: method:rights
 reposi: marcrel:rps
-relati: dct:IsPartOf
-collec: dct:IsPartOf
+relati: oregon:archives/collectionTitle
+collec: oregon:archives/collectionIdentifier
 source: dct:hasFormat
 sourca: dct:extent
 sourceb: oregon:sourceCondition
 type: method:type
 sub: dct:subject
 format: method:format
-image: rdag1:fileSize
+image: rdam:fileSize.en
 imagd: exif:width
 imagc: exif:height
 color: exif:colorSpace
@@ -1223,13 +1221,13 @@ captur: oregon:conversionSpecifications
 resolu: exif:resolution
 digiti: method:processing_history
 scanni: # SKIP scanning pass
-additi: dct:HasVersion
+additi: dct:hasVersion
 imaga:  # SKIP scanner
 imagb: # SKIP editor
 metada: # SKIP cataloger
 cata: modsref:note # cataloger notes
 publis: dct:description # statement of joint project
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
   #
@@ -1246,18 +1244,18 @@ contri: dct:contributor
 editio: vra:stateEdition
 object: vra:measurements
 descri: dct:description
-coloph: rdf:descriptionOfManifestation
+coloph: rdam:descriptionOfManifestation.en
 relati: dct:isPartOf
 langua: method:language
 date: dct:issued
 publis: dct:publisher
-place: rdag1:placeOfPublication
+place: rdam:placeOfProduction.en
 subjec: dct:subject
 bindin: vra:technique
 prinit: vra:technique
-produc: rdag1:modeOfIssuance
+produc: rdam:modeOfIssuance.en
 struct: vra:workType
-litera: rdag1:formOfWork
+litera: rdaw:formOfWork.en
 materi: vra:material
 format: method:format
 type: method:type
@@ -1270,7 +1268,7 @@ photog: marcrel:pht
 catalo: # SKIP
 catala: # SKIP
 source: marcrel:rps
-digita: oregon:isPartOf/set
+digita: oregon:set
 contra: oregon:contributingInstitution
 
 
