@@ -13,7 +13,7 @@ rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
   premis: "http://www.loc.gov/premis/rdf/v1#"
   oregon: "http://tom.oregonstate.edu/"
-  vra: “http://purl.org/vra/”
+  vra: "http://purl.org/vra/"
   swpo: "http://sw-portal.deri.org/ontologies/swportal#"  # do we need this?
   schema: "http://schema.org/"
   iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
