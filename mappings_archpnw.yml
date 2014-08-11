@@ -24,39 +24,39 @@
   #
   # archpnw
   #
-title: dcterms:title
+title: dct:title
 view: oregon:cco/viewDescription
 varian: dct:alternative
 relate: dct:isPartOf
 creato: oregon:cco/creatorDisplay
 creata: dct:creator
-date: method:date
+date: dct:date
 covra: dct:temporal
 city: method: geographic
 county: method: geographic
 state: method: geographic
 countr: method: geographic
-site: dct:coverage # may need a custom field or to cleanup and map out
-photog: method: original_format_date # what is the method?
+site: madsrdf:streetAddress
+photog: oregon: cco/viewDate
 photoa: marcrel: pht
 catalo: SKIP
 object: vra:workType
 period: vra:stylePeriod
-materi: vra:materials
+materi: vra:material
 measur: vra:measurements
 signif: dct:description
 refere: schema:citation
 notes: modsref:note
 creatb: modsref:note
 metada: modsref:note # are these important for public?
-digita: oregon:isPartOf/set
+digita: dct:isPartOf
 sourca: dct:provenance # source of slide, look for repository/collection
-source: 
-souceb: 
-publis: dct:publisher
-rights: method: rights
-type: mime:type
-format: dct:format
+source: dct:source
+souceb: holding:label
+publis: dct:source
+rights: method:rights
+type: method:type
+format: method:format
 identi: dct:identifier
-techni: # look up other ones
+techni: oregon:conversionSpecifications
 contri: oregon:contributingInstitution
