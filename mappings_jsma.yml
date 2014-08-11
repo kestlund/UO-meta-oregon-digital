@@ -30,7 +30,7 @@ creata: oregon:cco/creatorDisplay
 cultur: vra:culture
 subjec: vra:stylePeriod
 date: method:date
-materi: vra:medium
+materi: vra:material
 measur: vra:measurements
 catego: dct:description
 descri: dct:description
@@ -39,7 +39,7 @@ type: method:type
 format: method:format
 rights: method:rights	
 collec: dct:IsPartOf
-source: dct:IsPartOf
+source: marcrel:rps
 identi: dct:identifier
 museum: # SKIP
 digita: oregon:isPartOf/set
