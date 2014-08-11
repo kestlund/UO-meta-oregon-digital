@@ -26,7 +26,7 @@
   # ode
   #
 title: dct:title
-date: date:published
+date: date:issued
 volume: swpo:isVolume
 issue: swpo:hasNumber
 editio: dct:title
