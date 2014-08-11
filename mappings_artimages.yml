@@ -51,7 +51,7 @@ relati: dct:relation
 larger: dct:isPartOf
 source: dct:source
 sourca: #SKIP source caption
-sourcb: dct:isPartOf
+sourcb: oregon:localCollectionName
 sourcc: #SKIP source id, only useful for Meggs set of >50 images
 vrc: holding:label
 rights: method:rights
