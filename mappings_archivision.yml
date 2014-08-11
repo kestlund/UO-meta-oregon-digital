@@ -14,8 +14,8 @@
   modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
   premis: "http://www.loc.gov/premis/rdf/v1#"
   oregon: "http://tom.oregonstate.edu/"
-  vra: “http://purl.org/vra/”
-  swpo: "http://sw-portal.deri.org/ontologies/swportal#"  # do we need this?
+  vra: "http://purl.org/vra/"
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"
   schema: "http://schema.org/"
   iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
   daia: "http://uri.gbv.de/ontology/daia/"
