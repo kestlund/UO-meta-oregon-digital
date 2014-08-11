@@ -1,0 +1,40 @@
+  #
+  # bookarts
+  #
+identi: dct:identifier
+call: holding:label
+title: dct:title
+altern: dct:alternative
+creato: dct:creator
+uo: # SKIP
+author: dct:contributor
+contri: dct:contributor
+editio: vra:stateEdition
+object: vra:measurements
+descri: dct:description
+coloph: rdf:descriptionOfManifestation
+relati: dct:isPartOf
+langua: method:language
+date: dct:issued
+publis: dct:publisher
+place: rdag1:placeOfPublication
+subjec: dct:subject
+bindin: vra:technique
+prinit: vra:technique
+produc: rdag1:modeOfIssuance
+struct: vra:workType
+litera: rdag1:formOfWork
+materi: vra:material
+format: method:format
+type: method:type
+digiti: oregon:conversionSpecifications 
+rights: method:rights
+local: modsref:note
+librar: # SKIP
+datea: oregon:dateDigitized
+photog: marcrel:pht
+catalo: # SKIP
+catala: # SKIP
+source: marcrel:rps
+digita: oregon:isPartOf/set
+contra: oregon:contributingInstitution

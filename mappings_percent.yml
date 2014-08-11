@@ -1,0 +1,83 @@
+rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  owl: "http://www.w3.org/2002/07/owl#"
+  skos: "http://www.w3.org/2004/02/skos/core#"
+  dct: "http://purl.org/dc/terms/"
+  dct: "http://purl.org/dc/elements/1.1/"
+  bibo: "http://purl.org/ontology/bibo/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  geo: "http://www.w3.org/2003/01/geo/wgs84_pos#"
+  frbr: "http://iflastandards.info/ns/fr/frbr/frbrer/"
+  mads: "http://www.loc.gov/mads/rdf/v1#"
+  marcrel: "http://id.loc.gov/vocabulary/relators/"
+  modsrdf: "http://www.loc.gov/standards/mods/modsrdf/v1/"
+  premis: "http://www.loc.gov/premis/rdf/v1#"
+  oregon: "http://tom.oregonstate.edu/"
+  vra: “http://purl.org/vra/”
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"
+  schema: "http://schema.org/"
+  iol: "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#"
+  daia: "http://uri.gbv.de/ontology/daia/"
+  exif: "http://www.w3.org/2003/12/exif/ns"
+  geosp: "http://rdf.geospecies.org/ont/geospecies#"
+  nfo: "http://www.semanticdesktop.org/ontologies/2007/03/22/nfo/v1.2/"
+  nco: "http://www.semanticdesktop.org/ontologies/2007/03/22/nco#"
+  swpo: "http://sw-portal.deri.org/ontologies/swportal#"
+
+  #
+  # percent
+  #
+  projea:  rdarel:containsManifestation
+  projec:  dct:identifier
+  identi: dct:identifier
+  oac: dct:identifier
+  title: dct:title
+  altern: dct:Alternative
+  series: dct:isPartOf
+  descrb: dct:description
+  descra: dct:description
+  dscri: dct:description
+  artist: rdag2:bibliographicalinformation
+  lc: dct:subject
+  aat: dct:subject
+  place: method:geographic
+  people: dct:subject
+  creato: dct:creator #lcnaf and ulan
+  artisb: dct:description
+  artisa: dct:description
+  artisc: dct:description
+  region: dct:description
+  data: method:date
+  commis: dct:description
+  datb: method:date
+  instal: vra:material
+  format: vra:material
+  artwor: vra:measurements
+  materi: vra:materials
+  source: dct:hasVersion
+  sourcb:  # SKIP
+  artwob: method:geographic #artwork site
+  locati: method:geographic #extact site
+  covera: method:geographic #address
+  artwoc: method:geographic #county
+  artwod: dct:relation
+  langua: method:language
+  titla: oregon:cco/viewDescription
+  digita: oregon:dateDigitized
+  captur: oregon:conversionSpecifications
+  type: method:type
+  formaa: method:format
+  digitb: dct:Extent
+  color: exif:colorSpace
+  imaga: method:processing_history
+  missin: #SKIP (missing items?)
+  full:  oregon:fullText
+  metada: #SKIP (metadata creator)
+  image: #SKIP (image scanner)
+  catalo: #SKIP (cataloging status)
+  load: #SKIP (load date)
+  rights: method:rights
+  contri: dct:contributor
+  publis: dct:source
+  collec: oregon:isPartOf/set
+  contra: oregon:contributingInstitution
