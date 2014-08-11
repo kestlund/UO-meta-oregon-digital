@@ -24,22 +24,22 @@
   #
   # diss
   #
-title: dct:title (some French titles)
-creato: method:lc (lcnaf for author)
-subjec: method:lc (merge lc and MeSH)
+title: dct:title #some French titles
+creato: dct:subject #lcnaf for author
+subjec: dct:subject #lc and MeSH
 descri: dct:description
-subjea: dct:subject (French)
-descra: dct:description  (French)
-journa: swpo:containedInJournal  (some French titles)
-relati: schema:citation   (some French titles)
-publis: dct:publisher
+subjea: dct:subject #French
+descra: dct:description  #French
+journa: swpo:containedInJournal  #some French titles
+relati: schema:citation   #some French titles
+publis: dct:source
 contri: dct:contributor
 date: dct:issued
 type: method:type
 format: method:format
 identi: dct:identifier
 data: oregon:dateDigitized
-source: daia:label
+source: holding:label
 langua: method:language
 rights: method:rights
 proces: oregon:conversionSpecifications
@@ -49,5 +49,5 @@ image: # SKIP
 ambros: # SKIP
 catalo: # SKIP
 digita: oregon:isPartOf/set
-full: oregon:full
+full: oregon:fullText
 contra: oregon:contributingInstitution
