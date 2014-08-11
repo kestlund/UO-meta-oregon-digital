@@ -9,11 +9,11 @@ oregon: "http://tom.oregonstate.edu/"
 
 title: dct:identifier
 subjec: dct:title
-source: daia:label
-subjec: method:subject (ITIS, uBio, LC)
-sub:	method:subject (ITIS, uBio, Geonames, LC)
-phlyum:	dwc:phlyum 	(ITIS and uBio)
-class: 	dwc:class	(ITIS)
+source: holding:label
+subjec: dct:subject # ITIS, uBio, LC
+sub: dct:subject # ITIS, uBio, Geonames, LC
+phlyum:	dwc:phlyum 	# ITIS and uBio
+class: dwc:class	# ITIS
 suba: dwc:genus 
 suba: dwc:species
 common: dwc:vernacularName
