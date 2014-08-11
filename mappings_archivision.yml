@@ -66,5 +66,5 @@ projea: #SKIP
 catalo: #SKIP
 metada: #SKIP
 keywor: dct:subject
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
