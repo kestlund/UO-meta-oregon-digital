@@ -51,7 +51,7 @@ relati: dct:relation
 larger: dct:isPartOf
 source: dct:source
 sourca: #SKIP source caption
-sourcb: dct:isPartOf
+sourcb: oregon:localCollectionName
 sourcc: #SKIP, same as identifier
 vrc: holding:label
 rights: method:rights
