@@ -41,7 +41,7 @@ descri: dct:description
 state: dct:description
 relati: dct:relation
 text: dct:description
-collec: dct:isPartOf
+collec: oregon:localCollectionName
 photog: marcrel:pht
 photo: oregon:cco/viewDate
 box: holding:label
@@ -52,7 +52,7 @@ rights: method:rights
 record: #SKIP
 type: method:type
 metada: #SKIP
-digita: oregon:isPartOf/set
+digita: oregon:set
 contri: oregon:contributingInstitution
 
 
